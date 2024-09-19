@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentObject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EditorVersion="2.2.1">
+  <ContentObjectType>16</ContentObjectType>
+  <ID>b72738b5-d5bd-490c-98c7-ec027ed16558</ID>
+  <Version>1.0.0.0</Version>
+  <Owner>Audicon Consulting</Owner>
+  <Creator>alexander.strubert</Creator>
+  <CreateDate>2022-12-05</CreateDate>
+  <ModifyDate>2022-12-05</ModifyDate>
+  <Validity>
+    <From>2022-12-05</From>
+    <To>2050-12-31</To>
+  </Validity>
+  <SupportedIdeaVersions>
+    <GreaterThan>10.0.0</GreaterThan>
+  </SupportedIdeaVersions>
+  <SourceLanguage>de</SourceLanguage>
+  <SupportedLanguages>
+    <Language>de</Language>
+  </SupportedLanguages>
+  <Resources NameId="ContentObjectName" DeploymentFileNameId="DeploymentFileName">SK-FuR - Rechnungsbuchprüfung.resx</Resources>
+  <Properties2 StoragePath="..\..\SmartAnalyzer.dev">
+    <Property ID="d5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9">
+      <Values>
+        <Value ID="910f7957-5510-4eb7-830b-12b83d477de6" />
+      </Values>
+    </Property>
+  </Properties2>
+  <TypeBuildScriptFile>SK-FuR - Rechnungsbuchprüfung.cirbs</TypeBuildScriptFile>
+  <Flags>1</Flags>
+  <IsPublished>false</IsPublished>
+</ContentObject>

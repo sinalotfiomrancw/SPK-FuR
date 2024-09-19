@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ID>deed82e8-4952-4f9c-94b6-79339c8c2520</ID>
+  <Alias>Prüfung_Finanzen_und_Rechnungswesen</Alias>
+  <Version>1.5.0.0</Version>
+  <Owner>Caseware Consulting</Owner>
+  <Creator>kai.krajewski</Creator>
+  <CreateDate>2018-08-31</CreateDate>
+  <ModifyDate>2024-06-26</ModifyDate>
+  <ExpirationDate>2018-12-31</ExpirationDate>
+  <Documentation Type="RTF">Workflow_Description.rtf</Documentation>
+  <Links>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Betriebsergebnis.csv</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Betriebsergebnis.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\HK_gesamt.csv</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\HK_gesamt.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Positionsschlüssel.csv</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Positionsschlüssel.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\OBR_Konten.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Umsatzliste.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Nachbuchungen.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Umsetzungen.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Description UseInAppWorkflow" IsLocalizable="true" TitleId="827c8e4266f24b779067edead479a56b">
+      <URL>..\..\_Files\Appleitfaden\AppFinanzUndRechnungswesen_Leitfaden.pdf</URL>
+    </Link>
+    <Link Usage="Description UseInAppWorkflow" IsLocalizable="true" TitleId="c82852510909400bb8f1d4c2188d855c">
+      <URL>..\..\_Files\enthaltene Tabellen\IDEA-App Finanzen und Rechnungswesen_enthaltene_Tabellen_1.2.pdf</URL>
+    </Link>
+    <Link Usage="Description Remote UseInAppWorkflow" TitleId="986134082fa94823896a7d097e5b9061">
+      <URL>https://sktest1.horizon5.de/mod/forum/view.php?id=374</URL>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Rechnungsbuch.rdf</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Kritische_Buchungstexte.txt</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\Primanoten\Primanotenplan.csv</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\Primanoten\Primanotenplan.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Umsetzungen_neu.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Betriebsvergleichsschlüssel.csv</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Betriebsvergleichsschlüssel.RDF</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+    <Link Usage="Normal SuppressInAppManagement">
+      <URL>..\..\_Files\DataRequests\Arbeitsteilung.jpm</URL>
+      <Location>SK_FuR</Location>
+    </Link>
+  </Links>
+  <Image Type="JPG" Location="1">Sparkasse_Icon.jpg</Image>
+  <MinimumIdeaVersion>10.2.0</MinimumIdeaVersion>
+  <SourceLanguage>de</SourceLanguage>
+  <DefaultLanguage>de</DefaultLanguage>
+  <SupportedLanguages>
+    <Language>de</Language>
+  </SupportedLanguages>
+  <Resources NameId="SolutionName" DeploymentFileNameId="SolutionFileName">SKA.resx</Resources>
+  <ContentObjects UseBuildScripts="true">
+    <Item>..\..\Audit Tests\SKA_001_Ums man glatte 1000er Betr\SKA_001_Umsaetze manuell mit glatten 1000er Betraegen.cobs</Item>
+    <Item>..\..\Audit Tests\SKA_003_Auto Buchungen je Kontorahmen\SKA_003_Automatische_Buchungen_je_Kontorahmen.cobs</Item>
+    <Item>..\..\Audit Tests\SKA_004_Man Buchungen je Kontorahmen\SKA_004_Manuelle_Buchungen_je_Kontorahmen.cobs</Item>
+    <Item>..\..\Audit Tests\SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94\SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.cobs</Item>
+    <Item>..\..\Audit Tests\SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94\SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.cobs</Item>
+    <Item>..\..\Audit Tests\SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze\SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.cobs</Item>
+    <Item>..\..\Audit Tests\SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze\SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.cobs</Item>
+    <Item>..\..\Import Routines\SKA_FuR - Import Routine\SKA_FuR - Import Routine.cobs</Item>
+    <Item>..\..\Data Requests\SKA_FuR\SKA_FuR.cobs</Item>
+    <Item>..\..\Audit Tests\SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten\SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr\SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0019_Habenbuchungen_auf_Sollkonten\SK-FuR-0019_Habenbuchungen_auf_Sollkonten.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0020_Sollbuchungen_auf_Habenkonten\SK-FuR-0020_Sollbuchungen_auf_Habenkonten.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten\SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0022_Storno_SollBuch_auf_HabenKonten\SK-FuR-0022_Storno_SollBuch_auf_HabenKonten.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0000 Stichprobenziehung (Zufallsauswahl)\SK-FuR-0000 Stichprobenziehung (Zufallsauswahl).cobs</Item>
+    <Item>..\..\Import Routines\SK-FuR-Import Routine Nachbuchungen\SK-FuR-Import Routine Nachbuchungen.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr\SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0027 Änderungen der Bilanzposition\SK-FuR-0027 Änderungen der Bilanzposition.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0028 Eröffnete und aufgelößte Hauptbuchkonten\SK-FuR-0028 Eröffnete und aufgelößte Hauptbuchkonten.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0030 Saldenvergleich auf Bilanzpositionsebene Geschäftsjahr mit Vorjahr\SK-FuR-0030 Saldenvergleich auf Bilanzpositionsebene Geschäftsjahr mit Vorjahr.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0031 Hauptbuchkonten mit geänderter Bezeichnung\SK-FuR-0031 Hauptbuchkonten mit geänderter Bezeichnung.cobs</Item>
+    <Item>..\..\Navigators\SKA_FuR\SKA_FuR.cobs</Item>
+    <Item>..\..\Import Routines\SK-FuR - Import Routine Vergleich OBR Konten\SK-FuR - Import Routine Vergleich OBR Konten.cobs</Item>
+    <Item>..\..\Import Routines\SK_FuR - Import Routine\SK_FuR - Import Routine.cobs</Item>
+    <Item>..\..\Import Routines\Beschreibungsstandard (GoBD-Import)\Beschreibungsstandard (GoBD-Import).cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0034-Manuelle Buchungen je Buchungskategorie_BV\SK-FuR-0034-Manuelle Buchungen je Buchungskategorie_BV.cobs</Item>
+    <Item>..\..\Audit Tests\SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken\SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken.cobs</Item>
+    <Item>..\..\Audit Tests\SKA_023_Daueraufträge zulasten Hauptbuchkonten\SKA_023_Daueraufträge zulasten Hauptbuchkonten.cobs</Item>
+  </ContentObjects>
+  <StartWorkflowDefFile>..\..\Workflows\SKAWorkflow\SKAWorkflow.cobs</StartWorkflowDefFile>
+  <ReadyForServer>1</ReadyForServer>
+  <IsPublished>true</IsPublished>
+</Package>

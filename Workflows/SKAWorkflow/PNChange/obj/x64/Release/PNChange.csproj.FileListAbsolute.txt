@@ -1,0 +1,140 @@
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\PNChange.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\en\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\de\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\es\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\fr\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\ja-JP\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\nl\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\ru\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\cs\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Client.CustomControls.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Common.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.IdeaAccess.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Parameters.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.COMDBLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Client.Controls.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.COMMONIDEACONTROLSLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.IDEASCRIPTCTRLLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.PivotTableLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.ScriptSupportOnServerLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.GlobalResources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.IdeaLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.22TasksLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Client.Common.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Client.DbLayer.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Cirs.Common.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.GenericImportLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Cirs.Mpp.Interfaces.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Client.DialogLoader.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Cirs.StandardTables.Interfaces.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\stdole.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Client.Convertor.Engine.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\EntityFramework.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Cirs.Common.Interfaces.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.FileControlsLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.DATACONTROLSLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\Interop.SummarizationLib.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Client.DbLayer.dll.config
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\SA.Client.Convertor.Engine.dll.config
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\de\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\es\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\fr\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\nl\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\de\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\es\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\fr\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\bin\x64\Release\nl\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.csproj.AssemblyReference.cache
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange._DialogMainForm.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.en.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.de.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.es.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.fr.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.ja-JP.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.nl.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.ru.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.DialogStrings.cs.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.csproj.GenerateResource.cache
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.csproj.CoreCompileInputs.cache
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\en\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\de\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\es\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\fr\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\ja-JP\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\nl\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\ru\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\cs\PNChange.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\PNChange.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\en\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\de\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\es\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\fr\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\ja-JP\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\nl\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\ru\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\cs\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Client.CustomControls.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Common.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.IdeaAccess.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Parameters.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.COMDBLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Client.Controls.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.COMMONIDEACONTROLSLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.IDEASCRIPTCTRLLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.PivotTableLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.ScriptSupportOnServerLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.GlobalResources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.IdeaLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.22TasksLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Client.Common.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Client.DbLayer.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Cirs.Common.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.GenericImportLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Cirs.Mpp.Interfaces.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Client.DialogLoader.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Cirs.StandardTables.Interfaces.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\stdole.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Client.Convertor.Engine.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\EntityFramework.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Cirs.Common.Interfaces.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.FileControlsLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.DATACONTROLSLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\Interop.SummarizationLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Client.DbLayer.dll.config
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\SA.Client.Convertor.Engine.dll.config
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\de\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\es\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\fr\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\nl\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\de\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\es\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\fr\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\bin\x64\Release\nl\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.csproj.AssemblyReference.cache
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange._DialogMainForm.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.en.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.de.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.es.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.fr.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.ja-JP.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.nl.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.ru.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.DialogStrings.cs.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.csproj.GenerateResource.cache
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.csproj.CoreCompileInputs.cache
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\en\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\de\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\es\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\fr\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\ja-JP\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\nl\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\ru\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\cs\PNChange.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.csproj.CopyComplete
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\PNChange\obj\x64\Release\PNChange.dll
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\PNChange\obj\x64\Release\PNChange.csproj.Up2Date

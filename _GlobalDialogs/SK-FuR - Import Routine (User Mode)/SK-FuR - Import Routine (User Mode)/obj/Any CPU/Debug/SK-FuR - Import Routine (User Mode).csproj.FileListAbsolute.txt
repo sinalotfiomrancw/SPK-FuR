@@ -1,0 +1,216 @@
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SK-FuR - Import Routine (User Mode).dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SK-FuR - Import Routine (User Mode).pdb
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\en\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\de\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\es\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\fr\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ja-JP\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\nl\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ru\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\cs\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.CustomControls.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.IdeaAccess.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Parameters.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.COMDBLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Controls.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.COMMONIDEACONTROLSLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.IDEASCRIPTCTRLLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\IdeaServer.Core.Entities.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.PivotTableLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.ScriptSupportOnServerLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\IdeaServer.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\IdeaServer.Core.Data.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.GlobalResources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.22TASKSLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.IdeaLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Wizard.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Ribbon.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Docking.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Maintenance.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Mpp.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.StandardTables.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\C1.WPF.FlexGrid.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Components.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\C1.WPF.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\TXTextControl.WPF.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Licensing.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\C1.WPF.DateTimeEditors.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.DbLayer.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Tagging.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\TXTextControl.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\C1.WPF.Extended.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.GenericImportLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Mpp.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.StandardTables.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.AuDS.StandardTables.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.DialogLoader.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Shared.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Themes.Metro.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\stdole.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\log4net.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Common.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\EntityFramework.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.DATACONTROLSLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.FileControlsLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.SummarizationLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Common.xml
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.IdeaAccess.xml
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Parameters.xml
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Mpp.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Components.dll.config
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.StandardTables.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.AuDS.StandardTables.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Common.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Common.xml
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\cs\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\de\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\es\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\fr\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ja\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\nl\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\pt-Br\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ru\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\cs\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\de\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\es\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\fr\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ja\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\nl\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\pt-Br\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ru\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).csprojAssemblyReference.cache
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_._DialogMainForm.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.en.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.de.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.es.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.fr.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.ja-JP.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.nl.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.ru.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.cs.resources
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).csproj.GenerateResource.cache
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).csproj.CoreCompileInputs.cache
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\en\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\de\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\es\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\fr\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\ja-JP\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\nl\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\ru\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\cs\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).csproj.CopyComplete
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).dll
+C:\SDK Projekte\20200727_SK-FuR_1.2.1\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).pdb
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SK-FuR - Import Routine (User Mode).dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SK-FuR - Import Routine (User Mode).pdb
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\en\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\de\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\es\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\fr\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ja-JP\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\nl\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ru\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\cs\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.CustomControls.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Common.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.IdeaAccess.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Parameters.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.COMDBLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Controls.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.COMMONIDEACONTROLSLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.IDEASCRIPTCTRLLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\IdeaServer.Core.Entities.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.PivotTableLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.ScriptSupportOnServerLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\IdeaServer.Common.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\IdeaServer.Core.Data.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.GlobalResources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.22TASKSLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.IdeaLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Common.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Wizard.Wpf.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Ribbon.Wpf.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Docking.Wpf.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Maintenance.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Mpp.Interfaces.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.StandardTables.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\C1.WPF.FlexGrid.4.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Components.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\C1.WPF.4.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\TXTextControl.WPF.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Licensing.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\C1.WPF.DateTimeEditors.4.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.DbLayer.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.Tagging.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\TXTextControl.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\C1.WPF.Extended.4.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.GenericImportLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Mpp.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.StandardTables.Interfaces.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.AuDS.StandardTables.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Client.DialogLoader.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Shared.Wpf.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ActiproSoftware.Themes.Metro.Wpf.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\stdole.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\log4net.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Common.Interfaces.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Common.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\EntityFramework.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.DATACONTROLSLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.FileControlsLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\Interop.SummarizationLib.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Common.xml
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.IdeaAccess.xml
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Parameters.xml
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Mpp.Interfaces.xml
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Components.dll.config
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.StandardTables.Interfaces.xml
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.AuDS.StandardTables.Interfaces.xml
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Common.Interfaces.xml
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\SA.Cirs.Common.xml
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\cs\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\de\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\es\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\fr\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ja\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\nl\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\pt-Br\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ru\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\cs\SA.GlobalResources.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\de\SA.GlobalResources.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\es\SA.GlobalResources.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\fr\SA.GlobalResources.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ja\SA.GlobalResources.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\nl\SA.GlobalResources.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\pt-Br\SA.GlobalResources.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\bin\Debug\ru\SA.GlobalResources.resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).csprojAssemblyReference.cache
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_._DialogMainForm.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.en.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.de.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.es.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.fr.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.ja-JP.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.nl.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.ru.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK_FuR___Import_Routine__User_Mode_.DialogStrings.cs.resources
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).csproj.GenerateResource.cache
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).csproj.CoreCompileInputs.cache
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\en\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\de\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\es\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\fr\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\ja-JP\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\nl\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\ru\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\cs\SK-FuR - Import Routine (User Mode).resources.dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).csproj.CopyComplete
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).dll
+C:\SDK Projekte\SK-FuR_1.2.4\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\obj\Any CPU\Debug\SK-FuR - Import Routine (User Mode).pdb

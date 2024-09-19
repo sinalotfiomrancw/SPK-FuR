@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EditorVersion="2.2.1">
+  <ContentObjectType>1</ContentObjectType>
+  <Documentation>
+    <Document Type="Rtf" Sequence="0" Visible="true" Flags="1">
+      <ID>10000000000000000000000000000000</ID>
+      <Path>SK-FuR-0021_Storno_Habenbuchungen_auf_Sollkonten-ZdP.rtf</Path>
+    </Document>
+  </Documentation>
+  <ID>64b9a568-858a-4397-b1bb-46075f205a7e</ID>
+  <Version>1.0.4.0</Version>
+  <Owner>Audicon Consulting</Owner>
+  <Creator>kai.krajewski</Creator>
+  <CreateDate>2018-09-06</CreateDate>
+  <ModifyDate>2020-11-22</ModifyDate>
+  <Validity>
+    <From>2018-09-06</From>
+    <To>2050-12-31</To>
+  </Validity>
+  <SupportedIdeaVersions>
+    <GreaterThan>10.0.0</GreaterThan>
+  </SupportedIdeaVersions>
+  <SourceLanguage>de</SourceLanguage>
+  <SupportedLanguages>
+    <Language>de</Language>
+  </SupportedLanguages>
+  <Resources NameId="ContentObjectName" DeploymentFileNameId="DeploymentFileName">SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert.resx</Resources>
+  <Properties2 StoragePath="..\..\SmartAnalyzer.dev">
+    <Property ID="d5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9">
+      <Values>
+        <Value ID="2bb7c096-14da-43f9-be3d-35cf862d69af" />
+      </Values>
+    </Property>
+    <Property ID="840709b0-a045-45cb-b313-345feea03fd8">
+      <Values>
+        <Value ID="d80c2c38-ec1b-470a-a0e4-b43e99accf61" />
+      </Values>
+    </Property>
+  </Properties2>
+  <TypeBuildScriptFile>SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert.atbs</TypeBuildScriptFile>
+  <Flags>0</Flags>
+  <IsPublished>false</IsPublished>
+</ContentObject>

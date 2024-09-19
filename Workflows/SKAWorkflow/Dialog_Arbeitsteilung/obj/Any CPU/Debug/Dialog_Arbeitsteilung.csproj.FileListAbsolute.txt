@@ -1,0 +1,78 @@
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Dialog_Arbeitsteilung.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Dialog_Arbeitsteilung.pdb
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\en\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\de\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\es\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\fr\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\ja-JP\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\nl\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\ru\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\cs\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Client.CustomControls.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Common.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.IdeaAccess.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Parameters.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.COMDBLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Client.Controls.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.COMMONIDEACONTROLSLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\IdeaServer.Core.Entities.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.IDEASCRIPTCTRLLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.PivotTableLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.ScriptSupportOnServerLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\IdeaServer.Common.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.GlobalResources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\IdeaServer.Core.Data.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.22TASKSLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.IdeaLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Client.Common.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Client.DbLayer.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Components.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Cirs.StandardTables.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.GenericImportLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Cirs.Mpp.Interfaces.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Cirs.Mpp.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Client.DialogLoader.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Cirs.StandardTables.Interfaces.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Cirs.AuDS.StandardTables.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\stdole.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\log4net.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\EntityFramework.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Cirs.Common.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Cirs.Common.Interfaces.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.FileControlsLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.DATACONTROLSLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\Interop.SummarizationLib.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\SA.Components.dll.config
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\de\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\es\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\fr\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\nl\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\de\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\es\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\fr\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\bin\Debug\nl\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.csproj.AssemblyReference.cache
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung._DialogMainForm.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.en.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.de.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.es.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.fr.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.ja-JP.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.nl.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.ru.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.DialogStrings.cs.resources
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.csproj.GenerateResource.cache
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.csproj.CoreCompileInputs.cache
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\en\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\de\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\es\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\fr\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\ja-JP\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\nl\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\ru\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\cs\Dialog_Arbeitsteilung.resources.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.csproj.CopyComplete
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.dll
+C:\SmartAnalyzer.dev\Projects\Workflows\IDEA SPK\Dialog_Arbeitsteilung\obj\Any CPU\Debug\Dialog_Arbeitsteilung.pdb

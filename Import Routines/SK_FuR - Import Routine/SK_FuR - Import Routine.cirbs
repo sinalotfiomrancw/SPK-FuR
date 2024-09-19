@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomImportRoutine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EditorVersion="2.2.1">
+  <IsServerSupported>false</IsServerSupported>
+  <SelectAllFiles>true</SelectAllFiles>
+  <SkipSourceSelection>true</SkipSourceSelection>
+  <PreliminaryTask Type="Iss">
+    <SkipSourceSelection>true</SkipSourceSelection>
+    <ExecutableFile>SK_FuR - Import Routine.PreMacro.iss</ExecutableFile>
+  </PreliminaryTask>
+  <PreparationTask Type="Iss">
+    <ExecutableFile>SK_FuR - Import Routine.DataPreparation.iss</ExecutableFile>
+  </PreparationTask>
+  <ImportTask Type="SmartX" IdentifyBy="Url">
+    <Step Index="0">
+      <PartialTask ID="6ab43a3031554338a4bb58c069f91faf" Type="Iss">
+        <ExecutableFile>SK_FuR - Import Routine.Import_Select_Folder.iss</ExecutableFile>
+      </PartialTask>
+    </Step>
+  </ImportTask>
+  <MainRoutine Type="SmartX">
+    <RoutineVisibility>AnyAudit</RoutineVisibility>
+    <GroupNames>
+      <Name>SK-FuR Entwicklung</Name>
+    </GroupNames>
+    <SeparateMainTasks>Never</SeparateMainTasks>
+  </MainRoutine>
+  <EmbeddedDialogs>
+    <EmbeddedDialog>
+      <Path>..\..\_GlobalDialogs\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode)\SK-FuR - Import Routine (User Mode).csproj</Path>
+      <Identifier>UserMode</Identifier>
+      <LocalizableItems>
+        <Item>!DialogMainForm.resx</Item>
+        <Item>DialogStrings.resx</Item>
+      </LocalizableItems>
+    </EmbeddedDialog>
+    <EmbeddedDialog>
+      <Path>..\..\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter).csproj</Path>
+      <Identifier>Parameter</Identifier>
+      <LocalizableItems>
+        <Item>!DialogMainForm.resx</Item>
+        <Item>DialogStrings.resx</Item>
+      </LocalizableItems>
+    </EmbeddedDialog>
+  </EmbeddedDialogs>
+</CustomImportRoutine>

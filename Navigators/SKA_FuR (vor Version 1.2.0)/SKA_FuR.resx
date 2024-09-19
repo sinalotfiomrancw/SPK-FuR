@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContentObjectName" xml:space="preserve">
+    <value>SK-Prüfung Finanzen und Rechnungswesen</value>
+    <comment>Name of the content item/app (max. length =128 characters).</comment>
+  </data>
+  <data name="DeploymentFileName" xml:space="preserve">
+    <value>SKA_FuR.dep</value>
+    <comment>Do Not Translate</comment>
+  </data>
+  <data name="5680d2dbfc974c019e385c6679da8c4e" xml:space="preserve">
+    <value>SK-FuR_</value>
+  </data>
+  <data name="abde15bac3c8466c83ad07120ffbd491" xml:space="preserve">
+    <value>SKAUmsatzManuell</value>
+  </data>
+  <data name="c01dd3780c5a4742a063cc8060d63750" xml:space="preserve">
+    <value>SKAUmsatzGesamt</value>
+  </data>
+  <data name="7b87e3828d9b4a0b8c8c6c728a58455f" xml:space="preserve">
+    <value>Umsatz Gesamt</value>
+  </data>
+  <data name="cb1882d851ac41b4950f5696964b7f15" xml:space="preserve">
+    <value>Umsatz Manuell</value>
+  </data>
+  <data name="6891d0c64d564e3db2964f6bff7b3a9a" xml:space="preserve">
+    <value>Umsatz Gesamt</value>
+  </data>
+  <data name="573e5c268af94a6bb62a6c1fab0e47f4" xml:space="preserve">
+    <value>Umsatz automatische Buchungen</value>
+  </data>
+  <data name="c8f1d4400d89428b84cd44f43dd9ebbe" xml:space="preserve">
+    <value>Umsatz automatisch in EUR</value>
+  </data>
+  <data name="e585274ccbbf4adbb990d1167a47fb65" xml:space="preserve">
+    <value>Umsatz automatisch je Kontorahmen</value>
+  </data>
+  <data name="23862878e41245d8b1e2c68ada0598a1" xml:space="preserve">
+    <value>Umsatz automatisch nicht in EUR</value>
+  </data>
+  <data name="837b3fd98cbc40d0a2e36936a4abe647" xml:space="preserve">
+    <value>Umsatz manuelle Buchungen</value>
+  </data>
+  <data name="8330d841f3434896b7c97c158b5b6501" xml:space="preserve">
+    <value>Umsatz manuell je Kontorahmen</value>
+  </data>
+  <data name="868f103298e246b38fba46b917e8a0e2" xml:space="preserve">
+    <value>Umsatz manuell in EUR</value>
+  </data>
+  <data name="84031ce4e9bd4f8b9a16f68e7c541e79" xml:space="preserve">
+    <value>Habenbuchung auf Sollkonto</value>
+  </data>
+  <data name="16bbcb42290c4f49b6e5ac584f712910" xml:space="preserve">
+    <value>Sollbuchung auf Habenkonto</value>
+  </data>
+  <data name="c2e1d6d3283e46c78a1015e2da1c55fa" xml:space="preserve">
+    <value>Storno Habenbuchung auf Sollkonto</value>
+  </data>
+  <data name="79bdd9c2cbdc4239b22a4f03d2145d98" xml:space="preserve">
+    <value>Storno Sollbuchung auf Habenkonto</value>
+  </data>
+  <data name="2ed6efd44f83472bb92e2c8ae21daf5a" xml:space="preserve">
+    <value>Umsatz manuell nicht in EUR</value>
+  </data>
+  <data name="b5f01ba5c07c48c1a7e1aa5b91368840" xml:space="preserve">
+    <value>Habenbuchung auf Sollkonto</value>
+  </data>
+  <data name="0e9bc42605fd44038901962d742abf95" xml:space="preserve">
+    <value>Sollbuchung auf Habenkonto</value>
+  </data>
+  <data name="8a370749128a4cd587838249ded767e0" xml:space="preserve">
+    <value>Storno Habenbuchung auf Sollkonto</value>
+  </data>
+  <data name="0e29d560780d4a66bdafa3a2dc21d482" xml:space="preserve">
+    <value>Storno Sollbuchung auf Habenkonto</value>
+  </data>
+</root>

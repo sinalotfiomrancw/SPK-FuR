@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomImportRoutine xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EditorVersion="2.2.1">
+  <IsServerSupported>false</IsServerSupported>
+  <SelectAllFiles>true</SelectAllFiles>
+  <MainRoutine Type="SmartX">
+    <RoutineVisibility>AnyAudit</RoutineVisibility>
+    <GroupNames>
+      <Name>SK-FuR Entwicklung</Name>
+    </GroupNames>
+    <SeparateMainTasks>Never</SeparateMainTasks>
+  </MainRoutine>
+</CustomImportRoutine>

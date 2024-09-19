@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuditTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EditorVersion="2.2.1">
+  <Tags StoragePath="..\..\..\SmartAnalyzer.dev">
+    <Tag Alias="acc!MAN_BETRAG">
+      <IsOptional>false</IsOptional>
+      <IsPeriod>false</IsPeriod>
+    </Tag>
+    <Tag Alias="acc!MAN_RAHMNR_2_OBR">
+      <IsOptional>false</IsOptional>
+      <IsPeriod>false</IsPeriod>
+    </Tag>
+    <Tag Alias="acc!MAN_REL">
+      <IsOptional>false</IsOptional>
+      <IsPeriod>false</IsPeriod>
+    </Tag>
+    <Tag Alias="acc!MAN_WERTJAHR">
+      <IsOptional>false</IsOptional>
+      <IsPeriod>false</IsPeriod>
+    </Tag>
+  </Tags>
+  <Executable>
+    <Type>ISS</Type>
+    <Path>..\SKA_002_Ums man Wertst nicht im Pruefjahr\SKA_002_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr.iss</Path>
+  </Executable>
+  <InputFiles>
+    <Primary TaggingMode="Full" />
+  </InputFiles>
+</AuditTest>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentObject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EditorVersion="2.2.1">
+  <ContentObjectType>1</ContentObjectType>
+  <Documentation>
+    <Document Type="Rtf" Sequence="0" Visible="true" Flags="1">
+      <ID>10000000000000000000000000000000</ID>
+      <Path>SK-FuR-0003_Automatische_Buchungen_je_Kontorahmen-ZdP.rtf</Path>
+    </Document>
+    <Document Type="Rtf" Sequence="1" Visible="true" Flags="2">
+      <ID>7d33344ec66143028f6fbfd1c9968725</ID>
+      <Path>SK-FuR-0001_Umsaetze_manuell_mit_glatten_1000er_Betraegen-Hinweis.rtf</Path>
+    </Document>
+  </Documentation>
+  <ID>36e4cff4-9e15-4519-9b8a-36989461715c</ID>
+  <Version>1.1.0.0</Version>
+  <Owner>Audicon Consulting</Owner>
+  <Creator>kai.krajewski</Creator>
+  <CreateDate>2018-09-06</CreateDate>
+  <ModifyDate>2022-09-14</ModifyDate>
+  <Validity>
+    <From>2018-09-06</From>
+    <To>2050-12-31</To>
+  </Validity>
+  <SupportedIdeaVersions>
+    <GreaterThan>10.0.0</GreaterThan>
+  </SupportedIdeaVersions>
+  <SourceLanguage>de</SourceLanguage>
+  <SupportedLanguages>
+    <Language>de</Language>
+    <Language>en</Language>
+  </SupportedLanguages>
+  <Resources NameId="ContentObjectName" DeploymentFileNameId="DeploymentFileName">SKA_003_Automatische_Buchungen_je_Kontorahmen.resx</Resources>
+  <Properties2 StoragePath="..\..\SmartAnalyzer.dev">
+    <Property ID="d5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9">
+      <Values>
+        <Value ID="1ac0bb03-de20-45d7-914e-87bff0890602" />
+      </Values>
+    </Property>
+    <Property ID="3a556ab9-479a-4f8e-8a7a-1ad0e429eb4a">
+      <Values>
+        <Value ID="3f536912-f2b1-4a18-a314-1206656226ca" />
+      </Values>
+    </Property>
+    <Property ID="840709b0-a045-45cb-b313-345feea03fd8">
+      <Values>
+        <Value ID="d80c2c38-ec1b-470a-a0e4-b43e99accf61" />
+      </Values>
+    </Property>
+  </Properties2>
+  <TypeBuildScriptFile>SKA_003_Automatische_Buchungen_je_Kontorahmen.atbs</TypeBuildScriptFile>
+  <Flags>0</Flags>
+  <IsPublished>false</IsPublished>
+</ContentObject>

@@ -1,0 +1,424 @@
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SK_allgemein_Stichprobenauswahl.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\en\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja-JP\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.CustomControls.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Common.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.IdeaAccess.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Parameters.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.COMDBLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Controls.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.COMMONIDEACONTROLSLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Core.Entities.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.IDEASCRIPTCTRLLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.PivotTableLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.ScriptSupportOnServerLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Common.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.GlobalResources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Core.Data.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.22TasksLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.IdeaLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Common.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.4.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Docking.Wpf.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.DateTimeEditors.4.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\TXTextControl.WPF.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Ribbon.Wpf.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\TXTextControl.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.DbLayer.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Shared.Wpf.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Components.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Maintenance.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Licensing.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Tagging.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.FlexGrid.4.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.Extended.4.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.GenericImportLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Wizard.Wpf.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.Interfaces.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Themes.Metro.Wpf.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.DialogLoader.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.Interfaces.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\stdole.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\log4net.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\EntityFramework.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.Interfaces.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.FileControlsLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.DATACONTROLSLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.SummarizationLib.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Common.xml
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.IdeaAccess.xml
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Parameters.xml
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Components.dll.config
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.Interfaces.xml
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.Interfaces.xml
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.Interfaces.xml
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.xml
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.Interfaces.xml
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SA.Client.CustomControls.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SA.Client.CustomControls.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SA.Client.CustomControls.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SA.Client.CustomControls.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja\SA.Client.CustomControls.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SA.Client.CustomControls.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\pt-Br\SA.Client.CustomControls.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SA.Client.CustomControls.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SA.GlobalResources.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SA.GlobalResources.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SA.GlobalResources.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SA.GlobalResources.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja\SA.GlobalResources.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SA.GlobalResources.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\pt-Br\SA.GlobalResources.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SA.GlobalResources.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csprojAssemblyReference.cache
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl._DialogMainForm.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.en.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.de.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.es.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.fr.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.ja-JP.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.nl.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.ru.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.cs.resources
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.GenerateResource.cache
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.CoreCompileInputs.cache
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\en\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\de\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\es\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\fr\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\ja-JP\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\nl\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\ru\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\cs\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.CopyComplete
+C:\Users\alexander.strubert\Desktop\SK_FuR Dialoge\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SK_allgemein_Stichprobenauswahl.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\en\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja-JP\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.CustomControls.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Common.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.IdeaAccess.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Parameters.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.COMDBLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Controls.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.COMMONIDEACONTROLSLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Core.Entities.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.IDEASCRIPTCTRLLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.PivotTableLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.ScriptSupportOnServerLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Common.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.GlobalResources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Core.Data.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.22TasksLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.IdeaLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Common.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.4.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Docking.Wpf.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.DateTimeEditors.4.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\TXTextControl.WPF.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Ribbon.Wpf.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\TXTextControl.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.DbLayer.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Shared.Wpf.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Components.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Maintenance.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Licensing.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Tagging.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.FlexGrid.4.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.Extended.4.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.GenericImportLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Wizard.Wpf.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.Interfaces.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Themes.Metro.Wpf.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.DialogLoader.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.Interfaces.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\stdole.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\log4net.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\EntityFramework.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.Interfaces.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.FileControlsLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.DATACONTROLSLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.SummarizationLib.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Common.xml
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.IdeaAccess.xml
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Parameters.xml
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Components.dll.config
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.Interfaces.xml
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.Interfaces.xml
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.Interfaces.xml
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.xml
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.Interfaces.xml
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\pt-Br\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\pt-Br\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csprojAssemblyReference.cache
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl._DialogMainForm.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.en.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.de.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.es.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.fr.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.ja-JP.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.nl.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.ru.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.cs.resources
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.GenerateResource.cache
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.CoreCompileInputs.cache
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\en\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\de\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\es\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\fr\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\ja-JP\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\nl\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\ru\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\cs\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.CopyComplete
+C:\SDK Projekte\20191008_SK-FuR_1.0.44\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SK_allgemein_Stichprobenauswahl.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\en\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja-JP\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.CustomControls.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.IdeaAccess.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Parameters.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.COMDBLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Controls.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.COMMONIDEACONTROLSLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Core.Entities.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.IDEASCRIPTCTRLLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.PivotTableLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.ScriptSupportOnServerLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.GlobalResources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Core.Data.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.22TasksLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.IdeaLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Docking.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.DateTimeEditors.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\TXTextControl.WPF.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Ribbon.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\TXTextControl.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.DbLayer.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Shared.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Components.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Maintenance.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Licensing.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Tagging.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.FlexGrid.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.Extended.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.GenericImportLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Wizard.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Themes.Metro.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.DialogLoader.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\stdole.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\log4net.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\EntityFramework.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.FileControlsLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.DATACONTROLSLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.SummarizationLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Common.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.IdeaAccess.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Parameters.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Components.dll.config
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\pt-Br\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\pt-Br\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csprojAssemblyReference.cache
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl._DialogMainForm.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.en.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.de.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.es.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.fr.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.ja-JP.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.nl.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.ru.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.cs.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.GenerateResource.cache
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.CoreCompileInputs.cache
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\en\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\de\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\es\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\fr\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\ja-JP\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\nl\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\ru\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\cs\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.CopyComplete
+C:\SDK Projekte\20200727_SK-FuR_1.1.0\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SK_allgemein_Stichprobenauswahl.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\en\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja-JP\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.CustomControls.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.IdeaAccess.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Parameters.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.COMDBLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Controls.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.COMMONIDEACONTROLSLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.IDEASCRIPTCTRLLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Core.Entities.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.PivotTableLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.ScriptSupportOnServerLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\IdeaServer.Core.Data.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.GlobalResources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.22TASKSLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.IdeaLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Wizard.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Ribbon.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Docking.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Maintenance.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.FlexGrid.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Components.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\TXTextControl.WPF.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Licensing.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.DateTimeEditors.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.DbLayer.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.Tagging.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\TXTextControl.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\C1.WPF.Extended.4.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.GenericImportLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Client.DialogLoader.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Shared.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ActiproSoftware.Themes.Metro.Wpf.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\stdole.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\log4net.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.Interfaces.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\EntityFramework.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.DATACONTROLSLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.FileControlsLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\Interop.SummarizationLib.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Common.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.IdeaAccess.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Parameters.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Mpp.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Components.dll.config
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.StandardTables.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.AuDS.StandardTables.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.Interfaces.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\SA.Cirs.Common.xml
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\pt-Br\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SA.Client.CustomControls.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\cs\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\de\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\es\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\fr\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ja\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\nl\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\pt-Br\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\bin\Release\ru\SA.GlobalResources.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csprojAssemblyReference.cache
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl._DialogMainForm.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.en.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.de.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.es.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.fr.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.ja-JP.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.nl.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.ru.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.DialogStrings.cs.resources
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.GenerateResource.cache
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.CoreCompileInputs.cache
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\en\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\de\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\es\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\fr\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\ja-JP\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\nl\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\ru\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\cs\SK_allgemein_Stichprobenauswahl.resources.dll
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.csproj.CopyComplete
+C:\SDK Projekte\20200727_SK-FuR_1.1.1\_GlobalDialogs\SK_allgemein_Stichprobenauswahl\SK_allgemein_Stichprobenauswahl\obj\Any CPU\Release\SK_allgemein_Stichprobenauswahl.dll

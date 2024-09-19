@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Button_OK.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="Button_OK.Location" type="System.Drawing.Point, System.Drawing">
+    <value>621, 23</value>
+  </data>
+  <data name="Button_OK.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 25</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Button_OK.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Button_OK.Text" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="&gt;&gt;Button_OK.Name" xml:space="preserve">
+    <value>Button_OK</value>
+  </data>
+  <data name="&gt;&gt;Button_OK.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartButton, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;Button_OK.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Button_OK.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="Button_Cancel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="Button_Cancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>621, 54</value>
+  </data>
+  <data name="Button_Cancel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 25</value>
+  </data>
+  <data name="Button_Cancel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Button_Cancel.Text" xml:space="preserve">
+    <value>Abbrechen</value>
+  </data>
+  <data name="&gt;&gt;Button_Cancel.Name" xml:space="preserve">
+    <value>Button_Cancel</value>
+  </data>
+  <data name="&gt;&gt;Button_Cancel.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartButton, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;Button_Cancel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Button_Cancel.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="smartDataExchanger.TrayLocation" type="System.Drawing.Point, System.Drawing">
+    <value>17, 17</value>
+  </data>
+  <data name="buttonLoadFromFile.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="buttonLoadFromFile.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAMNJREFUOE/N
+        krENwjAURMMAGQAaGIAOtqFPyQgRPRNkBVpGoLFEKgaghIqGFgm4C2f8ZVl2CSc92f6+u6Rw9R+6udaB
+        l+EJjmAmS14MaTvoemhHmK3BGSx51lVacYEX5iuV2L9zug7ihbZFwbvRNiguwHkOLpwX2PtAXNAbU46d
+        D3wLsB8bQ4mFD9mCzhhy9IqEAqw1uMtQohnCFAdaG2PIwY/UQ5jC4QGm4ARSgZhO0Y8w2AKWpMwWPnE+
+        +4miP1dVvQEuvXh6TMWh1gAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="buttonLoadFromFile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 185</value>
+  </data>
+  <data name="buttonLoadFromFile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="buttonLoadFromFile.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing">
+    <value>180, 17</value>
+  </data>
+  <data name="buttonLoadFromFile.ToolTip" xml:space="preserve">
+    <value>lädt die Modifizierungen aus einer CSV-Datei.</value>
+  </data>
+  <data name="&gt;&gt;buttonLoadFromFile.Name" xml:space="preserve">
+    <value>buttonLoadFromFile</value>
+  </data>
+  <data name="&gt;&gt;buttonLoadFromFile.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonLoadFromFile.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;buttonLoadFromFile.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="buttonSaveToFile.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAAAAd0SU1FB9gEDw0NKWCe9wYAAAM0SURBVDhPlZBbSJNhGMe/iyiCLjphimUHzUPW
+        SKYzN9ea5y03HVO3OadbOtuypFSsMMvVRWgXdmCmJZbYydBMNDUrU1slpRdWEGFh0RFKnfuqufXZv9ev
+        qMvw4sfL+zzwe/7PQ+nyijti0vMQmWxw8SQaOkyaTodJZtDSXPKGxGnoDbGpdJBYSQcKk2jfiER6vVjp
+        5Mkykazf2UmJUozT2ceuYPvhapgsVpgtVTAfPk2oZjFZTiOX1HLLrDAeIhy0QlVYgaxSK8IVRlBCpZHR
+        7K3EZ8cUnO5plu+u33z9Az3FwP79ByadP2D/RvjqQsaBKoTK9KAEimzGXNmESdJ4/IZmefSaxsBrBwZG
+        HXgwOom+ETt6RybIOwHbSzsrSNt3AiESLSi+wsDoj14gAvesEsh3VyA4Rg1qU5KB0ZTVkoZ7VgnizEfg
+        L1KC4sn0jHK/lRTdZNpPTJBp42Tae7uL5ZPDhQ+Tbrwdn8KbsSm8+uLEmMMJkb4EvpFyUGGyTEZecByl
+        11+gvH8cZd0fUdz+Dvkto8i5+hK6hudIqXuGxJoniD41BOHxQXB214OnKYQPTwKKK9Ux0l3lSC6pRVHj
+        8H8F4ZYO+ErN4KbkwyskDhS5JBO/4ygCE80I2Lod/lLCVhP8EoxYE5eN1bHbsEKswwqR9h9bMsCRm7CU
+        swXUxvh0Rmy0YHV0Jmno0HC5GS1tXWht70LP3X709dvQeauH/ddfvApPgQreQjXWJmzDoiABqA2xakag
+        K8HKqCx4E0FzUxO8xXqW/ns2DA4Nodd2H9fbO3Gu4Qo8+Cp4RaqwXKTBAj8eqODoNIarKiICHbw269Dd
+        1Q2faANLHxHYHgzg5u1eNDa3oaqmjhV4CtKwhKfAvJVcUEHiVIaj2EUEGUSQgYcPB/4mmFmhp9eGxmtt
+        OHv+Iqqq67CMryakwjMyFXN9QkD5CeWlAZJcrIohNxBnYXj4KTo6b6GltQM3bt4hk1tRf6kJp87Uswk8
+        N2vJCmosDE3G3JkEi9eGz1+6jr/DPyJ+JDQq8V3xvgMoKNqLvPw9MOSYoNbqkaRUQypXgi+KmfZYLxjz
+        CIoYm7OcMzLHK/jkL3QgkGRVghCGAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="buttonSaveToFile.Location" type="System.Drawing.Point, System.Drawing">
+    <value>650, 129</value>
+  </data>
+  <data name="buttonSaveToFile.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="buttonSaveToFile.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="buttonSaveToFile.ToolTip" xml:space="preserve">
+    <value>Speichert den Standard-Primanotenplan in einer csv-Datei zur Ansicht/Veränderung z.B. in Excel</value>
+  </data>
+  <data name="&gt;&gt;buttonSaveToFile.Name" xml:space="preserve">
+    <value>buttonSaveToFile</value>
+  </data>
+  <data name="&gt;&gt;buttonSaveToFile.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonSaveToFile.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;buttonSaveToFile.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="buttonResetGrid.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="buttonResetGrid.Location" type="System.Drawing.Point, System.Drawing">
+    <value>621, 85</value>
+  </data>
+  <data name="buttonResetGrid.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 38</value>
+  </data>
+  <data name="buttonResetGrid.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="buttonResetGrid.Text" xml:space="preserve">
+    <value>Zurücksetzen</value>
+  </data>
+  <data name="&gt;&gt;buttonResetGrid.Name" xml:space="preserve">
+    <value>buttonResetGrid</value>
+  </data>
+  <data name="&gt;&gt;buttonResetGrid.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonResetGrid.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;buttonResetGrid.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="PN_NRAE.HeaderText" xml:space="preserve">
+    <value>PN_NR</value>
+  </data>
+  <data name="PN_NRAE.MinimumWidth" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="PN_NRAE.Width" type="System.Int32, mscorlib">
+    <value>69</value>
+  </data>
+  <data name="BEZEICHNUNGAE.HeaderText" xml:space="preserve">
+    <value>BEZEICHNUNG</value>
+  </data>
+  <data name="BEZEICHNUNGAE.MinimumWidth" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="BEZEICHNUNGAE.Width" type="System.Int32, mscorlib">
+    <value>110</value>
+  </data>
+  <data name="MANUELLE_BUCHUNGENAE.HeaderText" xml:space="preserve">
+    <value>MANUELLE_BUCHUNGEN</value>
+  </data>
+  <data name="MANUELLE_BUCHUNGENAE.MinimumWidth" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="MANUELLE_BUCHUNGENAE.Width" type="System.Int32, mscorlib">
+    <value>165</value>
+  </data>
+  <data name="AENDERUNG_RELEASEAE.HeaderText" xml:space="preserve">
+    <value>AENDERUNG_RELEASE</value>
+  </data>
+  <data name="AENDERUNG_RELEASEAE.MinimumWidth" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="AENDERUNG_RELEASEAE.Width" type="System.Int32, mscorlib">
+    <value>156</value>
+  </data>
+  <data name="dataGridViewPNAE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="dataGridViewPNAE.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="dataGridViewPNAE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>581, 284</value>
+  </data>
+  <data name="dataGridViewPNAE.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewPNAE.Name" xml:space="preserve">
+    <value>dataGridViewPNAE</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewPNAE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewPNAE.Parent" xml:space="preserve">
+    <value>tabPNAE</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewPNAE.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tabPNAE.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="tabPNAE.Size" type="System.Drawing.Size, System.Drawing">
+    <value>581, 284</value>
+  </data>
+  <data name="tabPNAE.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tabPNAE.Text" xml:space="preserve">
+    <value>Veränderungen für Primanoten</value>
+  </data>
+  <data name="&gt;&gt;tabPNAE.Name" xml:space="preserve">
+    <value>tabPNAE</value>
+  </data>
+  <data name="&gt;&gt;tabPNAE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPNAE.Parent" xml:space="preserve">
+    <value>tabControl</value>
+  </data>
+  <data name="&gt;&gt;tabPNAE.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="PN_NRST.HeaderText" xml:space="preserve">
+    <value>PN_NR</value>
+  </data>
+  <data name="PN_NRST.MinimumWidth" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="PN_NRST.Width" type="System.Int32, mscorlib">
+    <value>69</value>
+  </data>
+  <data name="BEZEICHNUNGST.HeaderText" xml:space="preserve">
+    <value>BEZEICHNUNG</value>
+  </data>
+  <data name="BEZEICHNUNGST.MinimumWidth" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="BEZEICHNUNGST.Width" type="System.Int32, mscorlib">
+    <value>110</value>
+  </data>
+  <data name="MANUELLE_BUCHUNGENST.HeaderText" xml:space="preserve">
+    <value>MANUELLE_BUCHUNGEN</value>
+  </data>
+  <data name="MANUELLE_BUCHUNGENST.MinimumWidth" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="MANUELLE_BUCHUNGENST.Width" type="System.Int32, mscorlib">
+    <value>165</value>
+  </data>
+  <data name="AENDERUNG_RELEASEST.HeaderText" xml:space="preserve">
+    <value>AENDERUNG_RELEASE</value>
+  </data>
+  <data name="AENDERUNG_RELEASEST.MinimumWidth" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="AENDERUNG_RELEASEST.Width" type="System.Int32, mscorlib">
+    <value>156</value>
+  </data>
+  <data name="dataGridViewPNST.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="dataGridViewPNST.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="dataGridViewPNST.Size" type="System.Drawing.Size, System.Drawing">
+    <value>581, 284</value>
+  </data>
+  <data name="dataGridViewPNST.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewPNST.Name" xml:space="preserve">
+    <value>dataGridViewPNST</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewPNST.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewPNST.Parent" xml:space="preserve">
+    <value>tabPNST</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewPNST.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tabPNST.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 22</value>
+  </data>
+  <data name="tabPNST.Size" type="System.Drawing.Size, System.Drawing">
+    <value>581, 284</value>
+  </data>
+  <data name="tabPNST.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tabPNST.Text" xml:space="preserve">
+    <value>Standard-Primanotenplan</value>
+  </data>
+  <data name="&gt;&gt;tabPNST.Name" xml:space="preserve">
+    <value>tabPNST</value>
+  </data>
+  <data name="&gt;&gt;tabPNST.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPNST.Parent" xml:space="preserve">
+    <value>tabControl</value>
+  </data>
+  <data name="&gt;&gt;tabPNST.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tabControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="tabControl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>589, 310</value>
+  </data>
+  <data name="tabControl.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabControl.Name" xml:space="preserve">
+    <value>tabControl</value>
+  </data>
+  <data name="&gt;&gt;tabControl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabControl.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabControl.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="toolTip2.TrayLocation" type="System.Drawing.Point, System.Drawing">
+    <value>277, 17</value>
+  </data>
+  <data name="$this.Localizable" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.TrayHeight" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>721, 326</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Modifizierung der Primanoten</value>
+  </data>
+  <data name="&gt;&gt;smartDataExchanger.Name" xml:space="preserve">
+    <value>smartDataExchanger</value>
+  </data>
+  <data name="&gt;&gt;smartDataExchanger.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartDataExchanger, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;PN_NRAE.Name" xml:space="preserve">
+    <value>PN_NRAE</value>
+  </data>
+  <data name="&gt;&gt;PN_NRAE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BEZEICHNUNGAE.Name" xml:space="preserve">
+    <value>BEZEICHNUNGAE</value>
+  </data>
+  <data name="&gt;&gt;BEZEICHNUNGAE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MANUELLE_BUCHUNGENAE.Name" xml:space="preserve">
+    <value>MANUELLE_BUCHUNGENAE</value>
+  </data>
+  <data name="&gt;&gt;MANUELLE_BUCHUNGENAE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AENDERUNG_RELEASEAE.Name" xml:space="preserve">
+    <value>AENDERUNG_RELEASEAE</value>
+  </data>
+  <data name="&gt;&gt;AENDERUNG_RELEASEAE.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PN_NRST.Name" xml:space="preserve">
+    <value>PN_NRST</value>
+  </data>
+  <data name="&gt;&gt;PN_NRST.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BEZEICHNUNGST.Name" xml:space="preserve">
+    <value>BEZEICHNUNGST</value>
+  </data>
+  <data name="&gt;&gt;BEZEICHNUNGST.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MANUELLE_BUCHUNGENST.Name" xml:space="preserve">
+    <value>MANUELLE_BUCHUNGENST</value>
+  </data>
+  <data name="&gt;&gt;MANUELLE_BUCHUNGENST.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AENDERUNG_RELEASEST.Name" xml:space="preserve">
+    <value>AENDERUNG_RELEASEST</value>
+  </data>
+  <data name="&gt;&gt;AENDERUNG_RELEASEST.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
+    <value>toolTip1</value>
+  </data>
+  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolTip2.Name" xml:space="preserve">
+    <value>toolTip2</value>
+  </data>
+  <data name="&gt;&gt;toolTip2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>_DialogMainForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

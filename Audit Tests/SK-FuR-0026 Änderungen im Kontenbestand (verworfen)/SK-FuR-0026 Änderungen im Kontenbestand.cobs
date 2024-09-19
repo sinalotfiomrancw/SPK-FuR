@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EditorVersion="2.2.1">
+  <ContentObjectType>1</ContentObjectType>
+  <ID>d13c0146-cd5c-4d4e-b1bb-d38948dfcb74</ID>
+  <Version>1.0.0.0</Version>
+  <Owner>Audicon Consulting</Owner>
+  <Creator>alexander.strubert</Creator>
+  <CreateDate>2020-11-05</CreateDate>
+  <ModifyDate>2020-12-07</ModifyDate>
+  <Validity>
+    <From>2020-11-05</From>
+    <To>2050-12-31</To>
+  </Validity>
+  <SupportedIdeaVersions>
+    <GreaterThan>10.0.0</GreaterThan>
+  </SupportedIdeaVersions>
+  <SourceLanguage>de</SourceLanguage>
+  <SupportedLanguages>
+    <Language>de</Language>
+  </SupportedLanguages>
+  <Resources NameId="ContentObjectName" DeploymentFileNameId="DeploymentFileName">SK-FuR-0026 Änderungen im Kontenbestand.resx</Resources>
+  <Properties2 StoragePath="..\..\SmartAnalyzer.dev">
+    <Property ID="d5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9">
+      <Values>
+        <Value ID="8d6e7cab-b147-40b5-a62d-5c7581cb1c5c" />
+      </Values>
+    </Property>
+    <Property ID="3a556ab9-479a-4f8e-8a7a-1ad0e429eb4a">
+      <Values>
+        <Value ID="34674ea2-b63d-4c1f-ba8b-6469711c4d31" />
+      </Values>
+    </Property>
+    <Property ID="840709b0-a045-45cb-b313-345feea03fd8">
+      <Values>
+        <Value ID="2b03012b-d67d-4d8e-914b-bcb6af7c699e" />
+      </Values>
+    </Property>
+  </Properties2>
+  <TypeBuildScriptFile>SK-FuR-0026 Änderungen im Kontenbestand.atbs</TypeBuildScriptFile>
+  <Flags>0</Flags>
+  <IsPublished>false</IsPublished>
+</ContentObject>

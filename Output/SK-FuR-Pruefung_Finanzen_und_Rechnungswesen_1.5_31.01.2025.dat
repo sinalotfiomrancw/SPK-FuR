@@ -1,0 +1,595 @@
+Machine Name:                 SLOTFI01
+App Definition File:          C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\App Build Scripts\SKA\SKA.def
+App file name:                SK-FuR-Prüfung_Finanzen_und_Rechnungswesen_1.5_100269.dpack
+App name:                     SK-FuR-Prüfung Finanzen und Rechnungswesen
+Language code:                de
+Expiration date:              2025-01-31
+The following content objects are included:
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_001_Ums man glatte 1000er Betr\Output\SKA_001_Umsaetze manuell mit glatten 1000er Betraegen.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_003_Auto Buchungen je Kontorahmen\Output\SKA_003_Automatische_Buchungen_je_Kontorahmen.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_004_Man Buchungen je Kontorahmen\Output\SKA_004_Manuelle_Buchungen_je_Kontorahmen.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94\Output\SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94\Output\SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze\Output\SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze\Output\SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Import Routines\SKA_FuR - Import Routine\Output\SKA_FuR - Import Routine.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Data Requests\SKA_FuR\Output\SKA_FuR.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten\Output\SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr\Output\SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0019_Habenbuchungen_auf_Sollkonten\Output\SK-FuR-0019_Habenbuchungen_auf_Sollkonten.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0020_Sollbuchungen_auf_Habenkonten\Output\SK-FuR-0020_Sollbuchungen_auf_Habenkonten.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten\Output\SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0022_Storno_SollBuch_auf_HabenKonten\Output\SK-FuR-0022_Storno_SollBuch_auf_HabenKonten.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0000 Stichprobenziehung (Zufallsauswahl)\Output\SK-FuR-0000 Stichprobenziehung (Zufallsauswahl).dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Import Routines\SK-FuR-Import Routine Nachbuchungen\Output\SK-FuR-Import Routine Nachbuchungen.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr\Output\SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0027 Änderungen der Bilanzposition\Output\SK-FuR-0027 Änderungen der Bilanzposition.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0028 Eröffnete und aufgelößte Hauptbuchkonten\Output\SK-FuR-0028 Eröffnete und aufgelößte Hauptbuchkonten.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0030 Saldenvergleich auf Bilanzpositionsebene Geschäftsjahr mit Vorjahr\Output\SK-FuR-0030 Saldenvergleich auf Bilanzpositionsebene Geschäftsjahr mit Vorjahr.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0031 Hauptbuchkonten mit geänderter Bezeichnung\Output\SK-FuR-0031 Hauptbuchkonten mit geänderter Bezeichnung.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Navigators\SKA_FuR\Output\SKA_FuR.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Import Routines\SK-FuR - Import Routine Vergleich OBR Konten\Output\SK-FuR - Import Routine Vergleich OBR Konten.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Import Routines\SK_FuR - Import Routine\Output\SK_FuR - Import Routine.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Import Routines\Beschreibungsstandard (GoBD-Import)\Output\Beschreibungsstandard (GoBD-Import).dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0034-Manuelle Buchungen je Buchungskategorie_BV\Output\SK-FuR-0034-Manuelle Buchungen je Buchungskategorie_BV.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken\Output\SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Audit Tests\SKA_023_Daueraufträge zulasten Hauptbuchkonten\Output\SKA_023_Daueraufträge zulasten Hauptbuchkonten.dep
+	C:\SmartAnalyzer.dev\SK-FuR_Released_1.5.0 - Support Ticket\Workflows\SKAWorkflow\Output\SKAWorkflow.dep
+
+The following license is supported by this app:
+	The app can be imported on any computer where IDEA is installed.		
+----------------------------------------
+29.07.2024 12:08:14
+AppBuilderer is generating a new solution file:SK-FuR-Prüfung_Finanzen_und_Rechnungswesen_1.5_100269.dpack
+	ID            : b7ca057d-fb78-5908-8832-416c076af966
+	Name          : SK-FuR-Prüfung Finanzen und Rechnungswesen
+	Description   : System.Byte[]
+	LanguageCode  : de
+	Type          : Solution
+	Version       : 1.5.0.0
+	MinIDEAVersion: 10.2.0
++ Deployment Files: 
+	Name               : SK-FuR-0001_Umsaetze manuell mit glatten 1000er Betraegen
+	ID                 : c61a617b-173a-5bef-acbc-03d61b4b5cd5
+	Type               : Test
+	Version            : 1.1.1.365256373
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.2.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0003_Automatische_Buchungen_je_Kontorahmen
+	ID                 : 46abb0ee-1b64-572a-9b8f-e230deaadf5a
+	Type               : Test
+	Version            : 1.1.0.365256376
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0004_Manuelle_Buchungen_in_EUR_je_Kontorahmen
+	ID                 : 80cab409-fd8c-57d6-866a-8bc7ba283d9b
+	Type               : Test
+	Version            : 1.1.0.365256380
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94_in_EUR
+	ID                 : a222ca3b-6bf0-5c1d-b863-7740e350a08c
+	Type               : Test
+	Version            : 1.1.1.365256383
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94_in_EUR
+	ID                 : e8f09468-0feb-5548-94d0-c4eb32d8096e
+	Type               : Test
+	Version            : 1.1.1.365256387
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze_in_EUR
+	ID                 : 059db553-5d2b-5851-88ad-323cf666a09e
+	Type               : Test
+	Version            : 1.1.1.365256390
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze_in_EUR
+	ID                 : 659cc2d7-a8bb-5b32-b1bb-21d356dee39e
+	Type               : Test
+	Version            : 1.1.1.365256394
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR - Import Routine
+	ID                 : f304a50a-3f5f-5939-8903-910e35e1456e
+	Type               : CustomImportRoutine
+	Version            : 1.1.4.365256398
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-Prüfung Finanzen und Rechnungswesen
+	ID                 : ce7dc00e-d76f-5a33-8d8c-d7c24d8ef811
+	Type               : DataRequest
+	Version            : 1.0.4.365256401
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : 
+		4dfa67e8-a103-447f-b59f-b769ef4274e0 -> idea-app finanzen und rechnungswesen_datenbeschaffung.pdf
+
+	Name               : SK-FuR-0024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten
+	ID                 : 83f55c90-e9a7-5d54-9b93-3380f9d64a2c
+	Type               : Test
+	Version            : 1.1.1.365256403
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr
+	ID                 : f75b6c1a-3f5e-5ab1-bf87-8ce9768046b0
+	Type               : Test
+	Version            : 1.1.1.365256406
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0019_Habenbuchungen_auf_Sollkonten
+	ID                 : 5ad99bc2-da63-5336-81b6-2b2ef208cb85
+	Type               : Test
+	Version            : 1.1.1.365256410
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0020_Sollbuchungen_auf_Habenkonten
+	ID                 : 66f3ea2e-fc57-50ba-b20e-74065f433b6e
+	Type               : Test
+	Version            : 1.1.1.365256413
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten
+	ID                 : 597c941b-a55a-5cfe-b7fa-746ad7bd6c2a
+	Type               : Test
+	Version            : 1.1.1.365256417
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0022_Storno_SollBuch_auf_HabenKonten
+	ID                 : 15c7ef8c-998a-5852-bf00-c960cdb0b2e4
+	Type               : Test
+	Version            : 1.1.1.365256420
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0000 Stichprobenziehung (Zufallsauswahl)
+	ID                 : 296f3144-29b4-5fd0-8522-3959b54edd43
+	Type               : Test
+	Version            : 1.1.4.365256424
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR - Import Routine Nachbuchungen
+	ID                 : 55e5458b-e8d4-56b8-b7d6-c45a99397429
+	Type               : CustomImportRoutine
+	Version            : 1.0.1.365256431
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr
+	ID                 : 7330d737-a7c4-596a-81f8-0f86de33a884
+	Type               : Test
+	Version            : 1.1.2.365256435
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0027 Vergleich Bilanzposition mit dem Vorjahr
+	ID                 : 6b3d599c-25e4-5f13-bb47-a5fda6b93fa2
+	Type               : Test
+	Version            : 1.0.0.365256440
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0028 Eröffnete und aufgelöste Hauptbuchkonten
+	ID                 : bbd8d92b-fd07-5ab9-9096-ab1e3f5fc88c
+	Type               : Test
+	Version            : 1.0.1.365256441
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0030 Vorjahresvergleich OBR Salden auf Bilanzpositionsebene summiert
+	ID                 : fcc45224-b439-5173-93be-c12d2022d539
+	Type               : Test
+	Version            : 1.0.2.365256443
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0031 Vorjahresvergleich HK-Konten mit geänderten Bezeichnungen
+	ID                 : 83f055c8-784f-504c-b26f-841770e4e721
+	Type               : Test
+	Version            : 1.1.0.365256447
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-Prüfung Finanzen und Rechnungswesen
+	ID                 : 454dbdc8-35f9-5a6c-b2e2-769911554e88
+	Type               : Tree
+	Version            : 1.2.0.365256449
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR - Import Routine Vergleich OBR Konten
+	ID                 : 240652d9-0245-5518-8d0e-06690253060d
+	Type               : CustomImportRoutine
+	Version            : 1.0.1.365256451
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR - Import Routine (audit folder)
+	ID                 : ea265f80-3b5a-5cfe-a2f9-20b7f74888ae
+	Type               : CustomImportRoutine
+	Version            : 1.0.0.365256456
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : Beschreibungsstandard (GoBD-Import)
+	ID                 : eb1e1bdc-fba1-58f1-953e-d20fab0539cb
+	Type               : CustomImportRoutine
+	Version            : 1.0.0.365256462
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0034-Manuelle Buchungen in EUR je Buchungskategorie_BV
+	ID                 : 0d84ad8d-3a14-575d-bc05-4fdc3c92ea4f
+	Type               : Test
+	Version            : 1.0.0.365256464
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken
+	ID                 : d1e29b0e-4635-5e9d-936c-f9fa1f62e260
+	Type               : Test
+	Version            : 1.0.0.365256468
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-FuR-0023_Daueraufträge zulasten Hauptbuchkonten
+	ID                 : 063100e8-4c88-5e28-8ed5-201c27620380
+	Type               : Test
+	Version            : 1.1.1.365256471
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
+	Name               : SK-Prüfung Finanzen und Rechnungswesen
+	ID                 : 8b151ba3-2840-517c-8a4f-b62975ac6d63
+	Type               : AppWorkflow
+	Version            : 1.2.5.365256474
+	Creator            : Audicon Consulting
+	Published          : False
+	RestrictToCountries: none
+	MinIDEAVersion     : 10.0.0
+	LanguageCode       : de
+	IDEA versions      : none
+	AdditionalFiles    : none
+
++ Solution licenses: 
+	License ID : The app can be imported on any computer where IDEA is installed.
+		ID              : c61a617b-173a-5bef-acbc-03d61b4b5cd5
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 46abb0ee-1b64-572a-9b8f-e230deaadf5a
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 80cab409-fd8c-57d6-866a-8bc7ba283d9b
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : a222ca3b-6bf0-5c1d-b863-7740e350a08c
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : e8f09468-0feb-5548-94d0-c4eb32d8096e
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 059db553-5d2b-5851-88ad-323cf666a09e
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 659cc2d7-a8bb-5b32-b1bb-21d356dee39e
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : f304a50a-3f5f-5939-8903-910e35e1456e
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : ce7dc00e-d76f-5a33-8d8c-d7c24d8ef811
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 83f55c90-e9a7-5d54-9b93-3380f9d64a2c
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : f75b6c1a-3f5e-5ab1-bf87-8ce9768046b0
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 5ad99bc2-da63-5336-81b6-2b2ef208cb85
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 66f3ea2e-fc57-50ba-b20e-74065f433b6e
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 597c941b-a55a-5cfe-b7fa-746ad7bd6c2a
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 15c7ef8c-998a-5852-bf00-c960cdb0b2e4
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 296f3144-29b4-5fd0-8522-3959b54edd43
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 55e5458b-e8d4-56b8-b7d6-c45a99397429
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 7330d737-a7c4-596a-81f8-0f86de33a884
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 6b3d599c-25e4-5f13-bb47-a5fda6b93fa2
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : bbd8d92b-fd07-5ab9-9096-ab1e3f5fc88c
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : fcc45224-b439-5173-93be-c12d2022d539
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 83f055c8-784f-504c-b26f-841770e4e721
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 454dbdc8-35f9-5a6c-b2e2-769911554e88
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 240652d9-0245-5518-8d0e-06690253060d
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : ea265f80-3b5a-5cfe-a2f9-20b7f74888ae
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : eb1e1bdc-fba1-58f1-953e-d20fab0539cb
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 0d84ad8d-3a14-575d-bc05-4fdc3c92ea4f
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : d1e29b0e-4635-5e9d-936c-f9fa1f62e260
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 063100e8-4c88-5e28-8ed5-201c27620380
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+		ID              : 8b151ba3-2840-517c-8a4f-b62975ac6d63
+		DebugUntil      : 01.01.0001
+		ExpirationDate  : 31.01.2025
+		ExpirationStatus: Valid
+		VisibilityState : Visible
+
+

@@ -1,0 +1,337 @@
+Änderungsmerkmal;Schlüssel;Kurzanzeige;Kurzbeschreibung;Beschreibung;Anmerkung;Buchungskategorie_BV
+;101;101;Kasse;;;Aktiva
+;102;102;Ford. an KI, lfd. Konten;;;Aktiva
+;103;103;Ford. an KI, Tagesgeld, < 1 Monat;;;Aktiva
+;104;104;Ford. an KI, 1 Monat bis <= 1 Jahr;;;Aktiva
+;105;105;Ford. an KI, > 1 Jahr;;;Aktiva
+;106;106;Ford. an KI, Wechselkredite;;;Aktiva
+;107;107;Wertpapiere, festverzinslich;;;Aktiva
+;108;108;Wertpapiere, sonstige verzinsliche;;;Aktiva
+;109;109;Wertpapiere, Aktien, Inv.fonds, sonst.;;;Aktiva
+;110;110;Handelsaktiva;Handelsaktiva;;Aktiva
+;111;111;Erw. Schuldsch. u. Namensschuldverschr.;;;Aktiva
+;112;112;Ford. an Kdn., Wechsel-/Akzeptkredite;;;Aktiva
+;113;113;Ford. an Kdn., Kontokorrentkr. Privat;;;Aktiva
+;114;114;Ford. an Kdn., Privat, Konsumentendarl.;;;Aktiva
+;115;115;Ford. an Kdn., Privat, WoBau., <= 5 J.;;;Aktiva
+;116;116;Ford. an Kdn., Privat, WoBau., > 5 J.;;;Aktiva
+;117;117;Ford. an Kdn., Kontokorrentkr. Gesch.;;;Aktiva
+;118;118;Ford. an Kdn., Gesch., WoBau., <= 5 J.;;;Aktiva
+;119;119;Ford. an Kdn., Gesch., WoBau., > 5 J.;;;Aktiva
+;120;120;Ford. an Kdn., Gesch., Sonst., <= 5 J.;;;Aktiva
+;121;121;Ford. an Kdn., Gesch., Sonst., > 5 J.;;;Aktiva
+;122;122;Ford. an Kdn., Kontokorrent. öff. Haush;;;Aktiva
+;123;123;Ford. an Kdn., öff. Haush., Sonst. Kred;;;Aktiva
+;124;124;Weiterleitungsdarlehen;;;Aktiva
+;125;125;Ausgleichsforderungen;;;Aktiva
+;126;126;Treuhandkredite;;;Aktiva
+;127;127;Beteiligungen;;;Aktiva
+;128;128;Sachanlagen;;;Aktiva
+;130;130;Übrige Aktiva;;;Aktiva
+;202;202;Zinsertr. aus Fo. KI: lfd. Guthaben;;;Zinsertrag
+;203;203;Zinsertr. aus Fo. KI: Tagesg., un. 1 M.;;;Zinsertrag
+;204;204;Zinsertr. aus Fo. KI: 1 M. bis zu 1 J.;;;Zinsertrag
+;205;205;Zinsertr. aus Fo. KI: über 1 Jahr;;;Zinsertrag
+;206;206;Zinsertr. aus Fo. KI: Wechselkredite;;;Zinsertrag
+;207;207;Zinsertr. aus festverz. Wertpapieren;;;Zinsertrag
+;208;208;Zinsertr. aus sonst.verz. Wertpapieren;;;Zinsertrag
+;209;209;Zinsertr. Aktien, Inv.fonds, sonstige;;;Zinsertrag
+;210;210;Zinserträge Handelsaktiva;Zinserträge Handelsaktiva;;Zinsertrag
+;211;211;Zinsertr. aus Schuldsch., Namensschuld.;;;Zinsertrag
+;212;212;Zinsertr. aus Wechselkrediten an Kunden;;;Zinsertrag
+;213;213;Zinsertr. aus KK: Privatgiro;;;Zinsertrag
+;214;214;Zinsertr. Konsumentenkr., Privat;;;Zinsertrag
+;215;215;Zinsertr. Wobaukr. bis 5 J., Privat;;;Zinsertrag
+;216;216;Zinsertr. Wobaukr. über 5 J., Privat;;;Zinsertrag
+;217;217;Zinsertr. aus KK: Geschäftsgiro;;;Zinsertrag
+;218;218;Zinsertr. Wobaukr. bis 5 J., Geschäft;;;Zinsertrag
+;219;219;Zinsertr. Wobaukr. über 5 J., Geschäft;;;Zinsertrag
+;220;220;Zinsertr. Sonst.Kr.bis 5 J., Geschäft;;;Zinsertrag
+;221;221;ZInsertr. Sonst.Kr.über 5 J., Geschäft;;;Zinsertrag
+;222;222;Zinsertr. aus KK: Öffentl.Haushalte;;;Zinsertrag
+;223;223;Zinsertr. Sonst.Kr., Öffentl.Haushalte;;;Zinsertrag
+;224;224;Zinsertr. aus Weiterleitungsdarlehen;;;Zinsertrag
+;225;225;Zinsertr. aus Ausgleichsforderungen;;;Zinsertrag
+;227;227;Erträge aus Beteiligungen;;;Zinsertrag
+;230;230;Zinserträge der übrigen Aktiva;;;Zinsertrag
+;331;331;SparE.normalverz., alle Kündigungsfr.;;;Passiva
+;332;332;SparE.höherv. o.Zinsbefr., geldmktorien;;;Passiva
+;333;333;SparE.höherv. o.Zinsbefr., kapitalmktor;;;Passiva
+;334;334;SparE.höherv. m.Zinsbefr., Ein.anl.fest;;;Passiva
+;335;335;SparE.höherv. m.Zinsbefr., sonst.Einmal;;;Passiva
+;336;336;SparE.höherv. m.Zinsbefr., Ratensparver;;;Passiva
+;337;337;SparE.höherv. m.Zinsbefr., sonst.m.Boni;;;Passiva
+;338;338;Eigene Emissionen, Privat, <= 2 Jahre;;;Passiva
+;339;339;Eig.Emiss., Privat, >2 J. bis <= 5 J.;;;Passiva
+;340;340;Eigene Emissionen, Privat, > 5 Jahre;;;Passiva
+;341;341;Eigene Emissionen, Geschäft;;;Passiva
+;342;342;TerminE.v.Kdn., Privat, <= 3 Monate;;;Passiva
+;343;343;TerminE.v.Kdn., Privat, > 3 Monate;;;Passiva
+;344;344;TerminE.v.Kdn., Gesch., <= 5 Jahre;;;Passiva
+;345;345;TerminE.v.Kdn., Gesch., > 5 Jahre;;;Passiva
+;346;346;Sichteinl.v.Kdn., Privat, normalverz.;;;Passiva
+;347;347;Sichteinl.v.Kdn., Privat, höherverz.;;;Passiva
+;348;348;Sichteinl.v.Kdn., Gesch., normalverz.;;;Passiva
+;349;349;Sichteinl.v.Kdn., Gesch., höherverz.;;;Passiva
+;350;350;Verb. ggü. KI, lfd. Konten;;;Passiva
+;351;351;Verb. ggü. KI, < 1 Monat;;;Passiva
+;352;352;Verb. ggü. KI, 1 Monat bis <= 5 Jahre;;;Passiva
+;353;353;Verb. ggü. KI, > 5 Jahre;;;Passiva
+;354;354;Weiterleitungsmittel;;;Passiva
+;355;355;Wertberichtigungen;;;Passiva
+;356;356;Vorsorgereserven;;;Passiva
+;357;357;Eigenkapital;;;Passiva
+;358;358;Handelspassiva;Handelspassiva;;Passiva
+;360;360;Übrige Passiva;;;Passiva
+;431;431;Zinsaufw.Spar:normalv.,alle Künd.Frist.;;;Zinsaufwand
+;432;432;Zinsaufw.Spar:höhv.ohn.ZiBefr.geldmor.;;;Zinsaufwand
+;433;433;Zinsaufw.Spar:höhv.ohn.ZiBefr.kapitmor.;;;Zinsaufwand
+;434;434;Zinsaufw. Einmalanlagen fest;;;Zinsaufwand
+;435;435;Zinsaufw. Sonstige Einmalanlagen;;;Zinsaufwand
+;436;436;Zinsaufw. Ratensparverträge;;;Zinsaufwand
+;437;437;Zinsaufw.Spar:sonst. mit Bonifizierung;;;Zinsaufwand
+;438;438;Zinsaufw. Eig.Em., bis 2 J., Privat;;;Zinsaufwand
+;439;439;Zinsaufw. Eig.Em., üb. 2 bis 5 J.,Priv.;;;Zinsaufwand
+;440;440;Zinsaufw. Eig.Em., über 5 J., Privat;;;Zinsaufwand
+;441;441;Zinsaufw. Eig.Em., Geschäft;;;Zinsaufwand
+;442;442;Zinsaufw. TG: bis 3 Monate, Privat;;;Zinsaufwand
+;443;443;Zinsaufw. TG: über 3 Monate, Privat;;;Zinsaufwand
+;444;444;Zinsaufw. TG: bis 5 Jahre, Geschäft;;;Zinsaufwand
+;445;445;Zinsaufw. TG: über 5 Jahre, Geschäft;;;Zinsaufwand
+;446;446;Zinsaufw. Sicht: normalv., Privatgiro;;;Zinsaufwand
+;447;447;Zinsaufw. Sicht: höherv., Privatgiro;;;Zinsaufwand
+;448;448;Zinsaufw. Sicht: normalv., Geschäftsg.;;;Zinsaufwand
+;449;449;Zinsaufw. Sicht: höherv., Geschäftsg.;;;Zinsaufwand
+;450;450;Zinsaufw. Verb.KI: lfd. Konten;;;Zinsaufwand
+;451;451;Zinsaufw. Verb.KI: Tagesgeld, unt.1 M.;;;Zinsaufwand
+;452;452;Zinsaufw. Verb.KI: 1 Mon. bis 5 Jahre;;;Zinsaufwand
+;453;453;Zinsaufw. Verb.KI: über 5 Jahre;;;Zinsaufwand
+;454;454;Zinsaufw. Weiterleitungsmittel;;;Zinsaufwand
+;457;457;Zinsaufw. Eigenkapital;;;Zinsaufwand
+;458;458;Zinsaufwand Handelspassiva;Zinsaufwand Handelspassiva;;Zinsaufwand
+;460;460;Zinsaufw. der übrigen Passiva;;;Zinsaufwand
+;509;509;Spezialfonds (Anl.verm. und Liq.res);;;Sonderangaben Aktiva
+;540;540;Schuldsch./Namenss. von KI Geldanlage;Schuldscheine und Namensschuldverschreibungen von Kreditinstituten zuGeldanlagezwecken;;Sonderangaben Aktiva
+;541;541;Schulds./Namensschuldv. Nicht-KI Geldanl;Schuldscheine und Namensschuldverschreibungen von Nichtkreditinstituten zu Geldanlagezwecken;;Sonderangaben Aktiva
+;542;542;Schuldsch./Namenssch. Kreditersatzg.;Schuldscheine und Namensschuldverschreibungen als Kredit(ersatz)geschäft;;Sonderangaben Aktiva
+;609;609;Zinsertr. aus Spezialfondsanteilen;;;Sonderangaben Zinsertrag
+;630;630;Zinserträge aus Derivaten;;;Sonderangaben Zinsertrag
+;640;640;Zinsertr.Schuldsch./Namenssch.KI Geldanl;Zinserträge aus Schuldscheinen und Namensschuldverschreibungen vonKreditinstituten zu Geldanlagezwecken;;Sonderangaben Zinsertrag
+;641;641;Zinsertr.Schuldsch./Namenss.Nicht-KI Gel;Zinserträge aus Schuldscheinen und Namensschuldverschreibungen vonNichtkreditinstituten zu Geldanlagezwecken;;Sonderangaben Zinsertrag
+;642;642;Zinsertr.Schudsch./Namenss.Kreditersatzg;Zinserträge aus Schuldscheinen und Namensschuldverschreibungen alsKredit(ersatz)geschäft;;Sonderangaben Zinsertrag
+;720;720;SSD an Geschäftskunden bis 5 Jahre;;;Sonderangaben Passiva
+;721;721;SSD an Geschäftskunden ab 5 Jahre;;;Sonderangaben Passiva
+;723;723;Schuldscheine an öffentliche Haushalte;;;Sonderangaben Passiva
+;736;736;Durchschn.Best.d.Anl.n.d.Altersverm.Ges;Durchschnittsbestand der Anlagen nach dem Altersvermögensgesetz;;Sonderangaben Passiva
+;757;757;Hafteinlagen;;;Sonderangaben Passiva
+;760;760;Pensionsrückstellungen;;;Sonderangaben Passiva
+;770;770;Nachr.Verb.,Privat, > 5 Jahre LFZ;;;Sonderangaben Passiva
+;771;771;Nachr.Verb.,Geschäft;;;Sonderangaben Passiva
+;772;772;Nachr.Verb.ggü.KI, <= 5 Jahre LFZ;;;Sonderangaben Passiva
+;773;773;Nachr.Verb.ggü.KI, > 5 Jahre LFZ;;;Sonderangaben Passiva
+;778;778;Nachr.Verb.,Privat, <= 2 Jahre LFZ;;;Sonderangaben Passiva
+;779;779;Nachr.Verb.,Privat, > 2 J. bis <=5J.LFZ;;;Sonderangaben Passiva
+;783;783;Nachr.Termineinl.,Priv.,>3 Monate;;;Sonderangaben Passiva
+;784;784;Nachr.Termineinl.,Gesch.,<=5 Jahre;;;Sonderangaben Passiva
+;785;785;Nachr.Termineinl.,Gesch.,>5 Jahre;;;Sonderangaben Passiva
+;820;820;Zinsertrag SSD Geschäftskunden bis 5 J.;;;Sonderangaben Zinsaufwand
+;821;821;Zinsertrag SSD Geschäftskunden ab 5 J.;;;Sonderangaben Zinsaufwand
+;823;823;Zinsertrag für Schuldscheine an öff. HH;;;Sonderangaben Zinsaufwand
+;836;836;Zinsaufw. f. Anl. n.d. Altersverm.Gesetz;Zinsaufwendungen für Anlagen nach dem Altersvermögensgesetz;;Sonderangaben Zinsaufwand
+;857;857;Zinsaufw. Hafteinl. i. d. Rechn. Periode;;;Sonderangaben Zinsaufwand
+;860;860;Zinsaufwendungen aus Derivaten;;;Sonderangaben Zinsaufwand
+;870;870;Zinsaufw.Nachr.Verb.,Privat, > 5 J. LFZ;;;Sonderangaben Zinsaufwand
+;871;871;Zinsaufw. zusätzl. aufsichtr. Kernkap.;;;Sonderangaben Zinsaufwand
+;872;872;Zinsaufw.Nachr.Verb.ggü.KI,<= 5J. LFZ;;;Sonderangaben Zinsaufwand
+;873;873;Zinsaufw.Nachr.Verb.ggü.KI, > 5J. LFZ;;;Sonderangaben Zinsaufwand
+;874;874;Zinsaufw.Nachr.Verb.,Geschäft;;;Sonderangaben Zinsaufwand
+;878;878;Zinsaufw.Nachr.Verb.,Priv., <= 2J. LFZ;;;Sonderangaben Zinsaufwand
+;879;879;Zinsaufw.Nachr.Verb.,Priv.,>2J.b<=5J.LFZ;;;Sonderangaben Zinsaufwand
+;883;883;Zinsaufw.Nachr.Termineinl.,Priv.,>3Mon.;;;Sonderangaben Zinsaufwand
+;884;884;Zinsaufw.Nachr.Termineinl.,Gesch.,<=5J.;;;Sonderangaben Zinsaufwand
+;885;885;Zinsaufw.Nachr.Termineinl.,Gesch.,>5J.;;;Sonderangaben Zinsaufwand
+;1001;1001;Ab-/Aufzins.Rückst. Ertr. Ratensparvert.;"Ergänzende Angaben zu Erfolgen aus der Ab-/Aufzinsung von Rückstellungen; Erträge Ratensparverträge";;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1002;1002;Ab-/Aufzins.Rückst. Ertr. Einmalanlagen;"Ergänzende Angaben zu Erfolgen aus der Ab-/Aufzinsung von Rückstellungen; Erträge Einmalanlagen";;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1003;1003;Ab-/Aufzins.Rückst. Ertr. Personalaufw.;"Ergänzende Angaben zu Erfolgen aus der Ab-/Aufzinsung von Rückstellungen; Erträge Personalaufwendungen";;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1004;1004;Abz. Rückst. f.Alt.vors.-Pensionsanw.;Zinserträge aus der Abzinsung von Rückstellungen für Altersvorsorgeverpflichtungen - Pensionsanwartschaften;;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1005;1005;Ab-/Aufzins.Rückst. Ertr. Sonstiges;"Ergänzende Angaben zu Erfolgen aus der Ab-/Aufzinsung von Rückstellungen; Erträge Sonstiges";;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1006;1006;Abz. Rückst. f.Alt.vors.-lfd.Pensionen;Zinserträge aus der Abzinsung von Rückstellungen für Altersvorsorgeverpflichtungen - lfd. Pensionen;;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1011;1011;Ab-/Aufzins.Rückst. Aufw. Ratensparvert.;"Ergänzende Angaben zu Erfolgen aus der Ab-/Aufzinsung von Rückstellungen; Aufwendungen Ratensparverträge";;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1012;1012;Ab-/Aufzins.Rückst. Aufw. Einmalanlagen;"Ergänzende Angaben zu Erfolgen aus der Ab-/Aufzinsung von Rückstellungen; Aufwendungen Einmalanlagen";;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1013;1013;Ab-/Aufzins.Rückst. Aufw. Personalaufw.;"Ergänzende Angaben zu Erfolgen aus der Ab-/Aufzinsung von Rückstellungen; Aufwendungen Personalaufwendungen";;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1014;1014;Aufz. Rückst. f.Alt.vors. Pensionsanw.;Zinsaufwendungen aus der Aufzinsung von Rückstellungen für Altersvorsorgeverpflichtungen - Pensionsanwartschaften;;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1015;1015;Ab-/Aufzins.Rückst. Aufw. Sonstiges;"Ergänzende Angaben zu Erfolgen aus der Ab-/Aufzinsung von Rückstellungen; Aufwendungen Sonstiges";;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1016;1016;Aufz. Rückst. f.Alt.vors.-lfd.Pensionen;Zinsaufwendungen aus der Aufzinsung von Rückstellungen für Altersvorsorgeverpflichtungen - lfd. Pensionen;;Erg. Ang. Erfolge Ab.Aufz. Rst.
+;1930;1930;Aufrechnung geg. übr. Akt. /übr. Pass.;;;Sonderschlüssel
+;2103;2103;Ford.KI, Tagesg.< 1 Mon, Ausst. EVR;"Forderungen an Kreditinstitute,Tagesgeld, unter 1 Monat - ""Aussteuerung EVR""";;Aussteuerung Prognose
+;2104;2104;Ford. an KI, 1 Mon.bis 1 Jahr-Ausst. EVR;"Forderungen an Kreditinstitute, 1 Monat bis zu 1 Jahr - ""Aussteuerung EVR""";;Aussteuerung Prognose
+;2105;2105;Ford. an KI, über 1Jahr - Ausst. EVR;"Forderungen an Kreditinstitute, über 1 Jahr - ""Aussteuerung EVR""";;Aussteuerung Prognose
+;2107;2107;Wertpapiere, festverz. - Ausst. EVR;;;Aussteuerung Prognose
+;2108;2108;Wertpapiere,sonst. verz.-Ausst. EVR;;;Aussteuerung Prognose
+;2109;2109;Wertp., Akt., Inv.,Sonst.- Ausst. EVR;;;Aussteuerung Prognose
+;2110;2110;"Handelsaktiva - ""Aussteuerung EVR""";;;Aussteuerung Prognose
+;2111;2111;Erworb. Schuldsch.u.NamensSV-Ausst. EVR;;;Aussteuerung Prognose
+;2127;2127;Beteiligungen - Aussteuerung EVR;;;Aussteuerung Prognose
+;2130;2130;Sonst.Akt/Pass. - Ausst. EVR u.Betr.Ve.;Sonstige Aktiva/Passiva - Aussteuerung EVR und Betriebsvergleich;;Aussteuerung Prognose
+;2338;2338;Eig. Emission,Privat<= 2 J.-Ausst. EVR;;;Aussteuerung Prognose
+;2339;2339;Eig.Emiss.,Privat,>2 <=5 J.-Ausst. EVR;;;Aussteuerung Prognose
+;2340;2340;Eig.Emiss.,Privat, > 5 J. - Ausst. EVR;;;Aussteuerung Prognose
+;2341;2341;Eig. Emiss., Geschäft - Ausst. EVR;;;Aussteuerung Prognose
+;2344;2344;TerminE. Gesch. <= 5 Jahre Ausst. Prog.;;;Aussteuerung Prognose
+;2345;2345;TerminE. Gesch. > 5 Jahre Ausst. Prog.;;;Aussteuerung Prognose
+;2351;2351;Verb. ggü. KI, < 1 Mon.- Ausst. EVR;;;Aussteuerung Prognose
+;2352;2352;Verb. ggü. KI, 1M. <= 5J. - Ausst. EVR;;;Aussteuerung Prognose
+;2353;2353;Verb. ggü. KI, > 5 Jahre - Ausst. EVR;;;Aussteuerung Prognose
+;2358;2358;"Handelspassiva - ""Aussteuerung EVR""";;;Aussteuerung Prognose
+;2509;2509;Durchschn.Best.Spez.Fonds - Ausst. EVR;;;Aussteuerung Prognose
+;2540;2540;Schuldsch./Namenss. von KI Geldanlage;"Schuldscheine und Namensschuldverschreibungen von Kreditinstituten zu Geldanlagezwecken ""Aussteuerung EVR""";;Aussteuerung Prognose
+;2541;2541;Schulds./Namensschuldv. Nicht-KI Geldanl;"Schuldscheine und Namensschuldverschreibungen von Nichtkreditinstituten zu Geldanlagezwecken ""Aussteuerung EVR""";;Aussteuerung Prognose
+;2720;2720;Ausst.-Schl. SSD an Gesch.kunde bis 5 J.;Aussteuerungsschlüssel SSD an Geschäftskunden bis 5 Jahre;;Aussteuerung Prognose
+;2721;2721;Ausst.-Schl. SSD an Gesch.kunde ab 5 J.;Aussteuerungsschlüssel SSD an Geschäftskunden über 5 Jahre;;Aussteuerung Prognose
+;2723;2723;Ausst.-Schl. Schuldsch. öff. Haushalte;Aussteuerungsschlüssel Schuldscheine an öffentliche Haushalte;;Aussteuerung Prognose
+;2770;2770;Nachr.Verb.,Priv, >5J.LFZ - Ausst. EVR;;;Aussteuerung Prognose
+;2771;2771;Nachr.Verb.,Geschäft - Ausst. EVR;;;Aussteuerung Prognose
+;2772;2772;Nachr.Verb.,ggü.KI,<=5J.LFZ-Ausst. EVR;;;Aussteuerung Prognose
+;2773;2773;Nachr.Verb.,ggü.KI, >5J.LFZ-Ausst. EVR;;;Aussteuerung Prognose
+;2778;2778;Nachr.Verb.,Privat,<=2J.LFZ-Ausst. EVR;;;Aussteuerung Prognose
+;2779;2779;Nachr.Verb.Priv.>2J<=5J.LFZ-Ausst.EVR;;;Aussteuerung Prognose
+;3101;3101;Prov./Geb. aus Geschäftsgiro;;;Provisionsertrag
+;3102;3102;Prov./Geb. aus Privatgiro;;;Provisionsertrag
+;3104;3104;Erträge aus paydirekt;;;Provisionsertrag
+;3105;3105;Geb. im Barzahlungsverkehr;;;Provisionsertrag
+;3106;3106;Prov.Ertr. Kreditkar.geschäft;;;Provisionsertrag
+;3111;3111;PuG Kommissionsgeschäft: festverz. WP;;;Provisionsertrag
+;3112;3112;PuG Kommissionsgeschäft: Aktien etc.;;;Provisionsertrag
+;3113;3113;PuG Kommissionsgeschäft: Investmentz.;;;Provisionsertrag
+;3114;3114;PuG Kommissionsgeschäft: eig. Schuldv.;;;Provisionsertrag
+;3115;3115;PuG Kommissionsgeschäft: DTB, Optionen;;;Provisionsertrag
+;3116;3116;Depotgebühren;;;Provisionsertrag
+;3117;3117;Prov./Geb. aus sonstigem WP-Geschäft;;;Provisionsertrag
+;3121;3121;Prov./Geb. aus dem Sortengeschäft;;;Provisionsertrag
+;3122;3122;Prov./Geb. aus dem Reisescheckgeschäft;;;Provisionsertrag
+;3123;3123;Prov./Geb. aus dem Devisengeschäft;;;Provisionsertrag
+;3124;3124;Prov./Geb. aus nicht dokumentärem ZV;;;Provisionsertrag
+;3125;3125;Prov./Geb. aus dokumentärem ZV;;;Provisionsertrag
+;3126;3126;Prov./Geb. aus Auslandsfinanzierungen;;;Provisionsertrag
+;3131;3131;PuG aus Verm. von Bausparverträgen;;;Provisionsertrag
+;3132;3132;PuG aus Verm. von Immobilien;;;Provisionsertrag
+;3133;3133;PuG aus Verm. von Versicherungsverträg.;;;Provisionsertrag
+;3134;3134;PuG aus sonstigen Vermittlungen;;;Provisionsertrag
+;3135;3135;Prov.Ertr.Vermittlungsgeschäft Kredite;;;Provisionsertrag
+;3141;3141;Prov./Geb. aus dem Avalgeschäft;;;Provisionsertrag
+;3142;3142;Prov./Geb. aus dem Darlehensgeschäft;;;Provisionsertrag
+;3152;3152;Übriger Provisionsertrag;;;Provisionsertrag
+;3201;3201;Prov.aufw.Vermittl. Dritter Aktiv/Passiv;;;Provisionsaufwand
+;3202;3202;Provisionsaufw. dwpbank;;;Provisionsaufwand
+;3203;3203;Prov.aufw. s. Dienstleistungsgeschäft;;;Provisionsaufwand
+;3301;3301;Grundstücks- und Gebäudeerträge;;;Sonstiger ordentlicher Ertrag
+;3302;3302;Erträge aus EDV-Dienstleistungen;;;Sonstiger ordentlicher Ertrag
+;3303;3303;Übriger ordentlicher Ertrag;;;Sonstiger ordentlicher Ertrag
+;3304;3304;Entgelte Personalgestellung;Ordentliche Erträge aus der Gestellung von Personal an Dritte;;Sonstiger ordentlicher Ertrag
+;4101;4101;Gehälter banksp. besch. Vollzeitkräfte;;;Personalaufwand
+;4102;4102;Gehälter banksp. besch. Teilzeitkräfte;;;Personalaufwand
+;4103;4103;Gehälter/Löhne der nichtbanksp. Besch.;;;Personalaufwand
+;4104;4104;Vergütungen an Auszubildende;;;Personalaufwand
+;4111;4111;Soz. Abgaben banksp. besch. Vollzeitkr.;;;Personalaufwand
+;4112;4112;Soz. Abgaben banksp. besch. Teilzeitkr.;;;Personalaufwand
+;4113;4113;Soziale Abgaben nichtbankspez. Besch.;;;Personalaufwand
+;4114;4114;Soziale Abgaben der Auszubildenden;;;Personalaufwand
+;4121;4121;Versorgungsleistungen (ohne Pensions.);;;Personalaufwand
+;4122;4122;Zuführung Rückstellg. für Pensionsanw.;;;Personalaufwand
+;4124;4124;Zuf. Rü. mittelb. Versorgungsverpfl.;Zuführungen zur Rückstellung für mittelbare Versorgungsverpflichtungen;;Personalaufwand
+;4131;4131;Übriger Personalaufwand;;;Personalaufwand
+;4201;4201;Miete für Geschäftsräume;;;Sachaufwand
+;4202;4202;Aufwend. für Reinigung der Geschäftsr.;;;Sachaufwand
+;4203;4203;sonst. Aufwendungen für Geschäftsräume;;;Sachaufwand
+;4204;4204;Mieten/Instandh. f. Einricht./Maschin.;;;Sachaufwand
+;4205;4205;Abschr. auf spk.betr.gen. Grdst./Geb.;;;Sachaufwand
+;4206;4206;sonst.o.A. f.spk.betr.gen. Grdst./Geb.;;;Sachaufwand
+;4207;4207;o.A. auf sonst. Betriebs-/Geschäftsaus.;;;Sachaufwand
+;4211;4211;EDV-Aufwand für Hardware;;;Sachaufwand
+;4212;4212;EDV-Aufwand für Software;;;Sachaufwand
+;4213;4213;Aufwendungen für Rechenz./Buchungsgem.;;;Sachaufwand
+;4214;4214;Aufw. für sonst. EDV-Leistungen Dritter;;;Sachaufwand
+;4215;4215;Gebühren für EDV-Übertragungsleitungen;;;Sachaufwand
+;4216;4216;ordentl. Abschr. auf Hardware;;;Sachaufwand
+;4217;4217;ordentl. Abschr. auf Software;;;Sachaufwand
+;4223;4223;Sonstige Dienstleistungen Dritter;;;Sachaufwand
+;4224;4224;Porto- und Frachtaufwand;;;Sachaufwand
+;4225;4225;Fernsprechgebühren;;;Sachaufwand
+;4226;4226;Bürobedarf;;;Sachaufwand
+;4227;4227;Aus- und Fortbildungsaufwand;;;Sachaufwand
+;4228;4228;Kundenkarten/Kreditkarten;;;Sachaufwand
+;4229;4229;DIENSTLEISTUNG V. UNTERNEHMENSBERATUNGEN;;;Sachaufwand
+;4230;4230;INFORMATIONSBESCHAFFUNG;;;Sachaufwand
+;4233;4233;Beiträge, Gebühren, Versicherungen;;;Sachaufwand
+;4234;4234;Sonstiger Sachaufwand;;;Sachaufwand
+;4241;4241;Bankenabgabe;Bankenabgabe;;Sachaufwand
+;4252;4252;Werbeaufwand, Marktforschung;;;Sachaufwand
+;4256;4256;Werbeaufwand, Sponsoring;;;Sachaufwand
+;4257;4257;Werbeaufwand, Werbung;;;Sachaufwand
+;4258;4258;Werbeaufwand, Verkaufsförderung;;;Sachaufwand
+;4259;4259;Werbeaufwand, Öffentlichkeitsarbeit;;;Sachaufwand
+;4304;4304;Abschr. auf nicht spk.betr.gen. G.u.G.;;;Sonstiger ordentlicher Aufwand
+;4306;4306;sonst.o.A. f.nicht spk.betr.gen. G.u.G.;;;Sonstiger ordentlicher Aufwand
+;4314;4314;n. spkbetr.gen. Einr-Geg, Abschreibungen;"Nicht sparkassenbetrieblich genutzte Einrichtungsgegenstände und Maschinen; Abschreibungen";;Sonstiger ordentlicher Aufwand
+;4316;4316;n. spkbetr.gen. Einr-Geg, sonst. Aufwand;"nicht sparkassenbetrieblich genutzte Einrichtungsgegenstände und Maschinen; Sonstiger Aufwand";;Sonstiger ordentlicher Aufwand
+;4331;4331;Übriger ordentlicher Aufwand;;;Sonstiger ordentlicher Aufwand
+;5101;5101;Kursdiff. WP-Handel/Kunden: festv. WP;;;Nettoerg. aus Finanzgeschäften
+;5102;5102;Kursdiff. WP-Handel/Kunden: Aktien etc.;;;Nettoerg. aus Finanzgeschäften
+;5103;5103;Kursdiff. WP-Handel/Kunden: Investment.;;;Nettoerg. aus Finanzgeschäften
+;5104;5104;Kursdiff. WP-Handel/Kunden: eigene SV;;;Nettoerg. aus Finanzgeschäften
+;5151;5151;Handelsaktiva,-passiva,-derivate,lfd.Erf;Handelsaktiva, -passiva, -derivate, Laufende Erfolge;;Nettoerg. aus Finanzgeschäften
+;5152;5152;Handelsaktiva,-passiva,-derivate,ProvErf;Handelsaktiva, -passiva, -derivate, Provisionserfolge;;Nettoerg. aus Finanzgeschäften
+;5153;5153;Handelsaktiva,-passiva,-derivate,RealErf;Handelsaktiva, -passiva, -derivate, Realisierte Erfolge;;Nettoerg. aus Finanzgeschäften
+;5154;5154;Handelsaktiva,-passiva,-derivate,BewErf;Handelsaktiva, -passiva, -derivate, Bewertungserfolge;;Nettoerg. aus Finanzgeschäften
+;6101;6101;Abschr. festv. WP Liquiditätsreserve;;;Bewertungserg. Wertpapiergesch.
+;6102;6102;Abschr. Aktien etc. Liquiditätsreserve;;;Bewertungserg. Wertpapiergesch.
+;6103;6103;Abschr. Schuldsch. Liquiditätsreserve;;;Bewertungserg. Wertpapiergesch.
+;6111;6111;Abschr. festverz. WP Anlagebestand;;;Bewertungserg. Wertpapiergesch.
+;6112;6112;Abschr. Aktien etc. Anlagebestand;;;Bewertungserg. Wertpapiergesch.
+;6121;6121;Zuschr. Wertpapiere Liquiditätsreserve;;;Bewertungserg. Wertpapiergesch.
+;6122;6122;Zuschr. Wertpapiere Anlagebestand;;;Bewertungserg. Wertpapiergesch.
+;6131;6131;Realisierte Gewinne aus festverz. WP;;;Bewertungserg. Wertpapiergesch.
+;6132;6132;Realisierte Gewinne aus Aktien etc.;;;Bewertungserg. Wertpapiergesch.
+;6133;6133;Realisierte Gewinne aus Schuldscheinen;;;Bewertungserg. Wertpapiergesch.
+;6134;6134;Realisierte Gewinne aus Spezialfonds;;;Bewertungserg. Wertpapiergesch.
+;6141;6141;Realisierte Verluste aus festverz. WP;;;Bewertungserg. Wertpapiergesch.
+;6142;6142;Realisierte Verluste aus Aktien etc.;;;Bewertungserg. Wertpapiergesch.
+;6143;6143;Realisierte Verluste aus Schuldscheinen;;;Bewertungserg. Wertpapiergesch.
+;6144;6144;Realisierte Verluste aus Spezialfonds;;;Bewertungserg. Wertpapiergesch.
+;6151;6151;Erfolg Anlagebuch Derivate;;;Bewertungserg. Wertpapiergesch.
+;6211;6211;BILDUNG VON EINZELWERTBERICHTIGUNGEN;;;Bewertungserg. Kreditgeschäft
+;6212;6212;BILDUNG VON PAUSCHALWERTBERICHTIGUNGEN;;;Bewertungserg. Kreditgeschäft
+;6213;6213;DIREKTABSCHREIBUNGEN;;;Bewertungserg. Kreditgeschäft
+;6214;6214;ABZINSUNG VON FORDERUNGEN;;;Bewertungserg. Kreditgeschäft
+;6215;6215;BEITRAG FÜR KREDITVERSICHERUNGEN;;;Bewertungserg. Kreditgeschäft
+;6221;6221;AUFLÖSUNG VON EINZELWERTBERICHTIGUNGEN;;;Bewertungserg. Kreditgeschäft
+;6222;6222;AUFLÖSUNG VON PAUSCHALWERTBERICHTIGUNGEN;;;Bewertungserg. Kreditgeschäft
+;6223;6223;EINGÄNGE AUF ABGESCHRIEBENE FORDERUNGEN;;;Bewertungserg. Kreditgeschäft
+;6224;6224;ABZINSUNG VON FORDERUNGEN;;;Bewertungserg. Kreditgeschäft
+;6231;6231;ERFOLGSBEITRAG A. RETTUNGSERWERB IMMOBI.;;;Bewertungserg. Kreditgeschäft
+;6301;6301;VORSORGERES. GEM. § 340F HGB U.§ 26A KWG;;;Veränd. der Vorsorgereserven
+;6302;6302;Vorsorgereserven gem. § 340g/§ 340e HGB;Vorsorgereserven gemäß § 340g und § 340e HGB;;Veränd. der Vorsorgereserven
+;6303;6303;Vorsorgereserven nach § 340e HGB;Vorsorgereserven nach § 340e HGB;;Veränd. der Vorsorgereserven
+;6401;6401;Abschreibungen auf Beteiligungen etc.;;;Bewertungserg. Sonstige Bew.
+;6404;6404;Veräußergew./verl. Bet.,Sachanl.,s.Verm.;;;Bewertungserg. Sonstige Bew.
+;6405;6405;apl.Abschr.GuG + übr.Abschr.sonst.Verm.;;;Bewertungserg. Sonstige Bew.
+N;6406;6406;Bldg/Afl. Rückst. Vrl.fr. BW Zinsbez.Ges;Bildung und Auflösung von Rückstellungen für die verlustfreie Bewertung zinsbezogener Geschäfte des Bankbuches;;Bewertungserg. Sonstige Bew.
+;7101;7101;Aper.Zinsertr. Vorfälligk.Entsch.;;;Neutraler Ertrag
+;7102;7102;Aper.Ertrag Spezialfonds;;;Neutraler Ertrag
+;7103;7103;Sonst.neutraler Ertrag;;;Neutraler Ertrag
+;7104;7104;Ertr.aus Auflösung v.sonst.Rückst.;;;Neutraler Ertrag
+;7105;7105;Aper.Prov. u. Geb.ert.;;;Neutraler Ertrag
+;7106;7106;Aper.Zinsertr. Kred.u.Geldmarktgeschäft;;;Neutraler Ertrag
+;7201;7201;Aper.Zinsaufw. Vorfälligk.Entsch.;;;Neutraler Aufwand
+;7202;7202;Zuführung Pensionsrückst.;;;Neutraler Aufwand
+;7203;7203;Sonst.neutraler Aufwand;;;Neutraler Aufwand
+;7204;7204;Spenden;;;Neutraler Aufwand
+;7205;7205;Aper. Zins- und Gebührenaufwand;;;Neutraler Aufwand
+;7206;7206;Aper. Sachaufwand;;;Neutraler Aufwand
+;7207;7207;Aper. Personalaufwand;;;Neutraler Aufwand
+;7311;7311;Körperschaftsteuer, Berichtsjahr;;;Gewinnabhängige Steuern
+;7312;7312;Körperschaftsteuer, Erstattungen;;;Gewinnabhängige Steuern
+;7313;7313;Körperschaftsteuer, Nachzahlungen;;;Gewinnabhängige Steuern
+;7321;7321;Gewerbeertragsteuer, Berichtsjahr;;;Gewinnabhängige Steuern
+;7322;7322;Gewerbeertragsteuer, Erstattungen;;;Gewinnabhängige Steuern
+;7323;7323;Gewerbeertragsteuer, Nachzahlungen;;;Gewinnabhängige Steuern

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AuditTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EditorVersion="2.2.1">
+  <Tags StoragePath="..\..\..\SmartAnalyzer.dev">
+    <Tag Alias="acc!SSHOE_BETRAG">
+      <IsOptional>false</IsOptional>
+      <IsPeriod>false</IsPeriod>
+    </Tag>
+    <Tag Alias="acc!SSHOE_RAHMNR_2_OBR">
+      <IsOptional>false</IsOptional>
+      <IsPeriod>false</IsPeriod>
+    </Tag>
+  </Tags>
+  <Executable>
+    <Type>ISS</Type>
+    <Path>SKA_012_Storno_SollBuch_auf_HabenKto_in_EUR.iss</Path>
+  </Executable>
+  <InputFiles>
+    <Primary TaggingMode="Full" />
+    <Additional IsOptional="false" TaggingMode="Full" DisplayNameId="2c7d378a95c04cd39dbc192634eb1f0e">
+      <Alias>SKAStornoSollAufHabenNichtEUR</Alias>
+      <Tag Alias="acc!SSHONE_BETRAG">
+        <IsOptional>false</IsOptional>
+        <IsPeriod>false</IsPeriod>
+      </Tag>
+      <Tag Alias="acc!SSHONE_RAHMNR_2_OBR">
+        <IsOptional>false</IsOptional>
+        <IsPeriod>false</IsPeriod>
+      </Tag>
+    </Additional>
+  </InputFiles>
+</AuditTest>

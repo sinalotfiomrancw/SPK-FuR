@@ -1,0 +1,67 @@
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SK-FuR - Import Routine (Parameter).dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\en\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\de\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\es\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\fr\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\ja-JP\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\nl\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\ru\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\cs\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Client.CustomControls.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Common.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.IdeaAccess.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Parameters.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.COMDBLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Client.Controls.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.COMMONIDEACONTROLSLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.IDEASCRIPTCTRLLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.PivotTableLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.ScriptSupportOnServerLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.GlobalResources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.22TasksLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.IdeaLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Client.Common.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Client.DbLayer.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.GenericImportLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Cirs.Mpp.Interfaces.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Client.DialogLoader.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Cirs.StandardTables.Interfaces.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Cirs.AuDS.StandardTables.Interfaces.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Cirs.Common.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\stdole.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\EntityFramework.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\SA.Cirs.Common.Interfaces.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.FileControlsLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.DATACONTROLSLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\Interop.SummarizationLib.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\de\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\es\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\fr\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\nl\SA.Client.CustomControls.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\de\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\es\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\fr\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\bin\x64\Release\nl\SA.GlobalResources.resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK-FuR - Import Routine (Parameter).csproj.AssemblyReference.cache
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_._DialogMainForm.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.en.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.de.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.es.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.fr.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.ja-JP.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.nl.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.ru.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK_FuR___Import_Routine__Parameter_.DialogStrings.cs.resources
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK-FuR - Import Routine (Parameter).csproj.GenerateResource.cache
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK-FuR - Import Routine (Parameter).csproj.CoreCompileInputs.cache
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\en\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\de\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\es\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\fr\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\ja-JP\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\nl\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\ru\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\cs\SK-FuR - Import Routine (Parameter).resources.dll
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK-FuR - Import Routine (Parameter).csproj.CopyComplete
+C:\SmartAnalyzer.dev\SK-FuR\_GlobalDialogs\SK-FuR - Import Routine (Parameter)\SK-FuR - Import Routine (Parameter)\obj\x64\Release\SK-FuR - Import Routine (Parameter).dll

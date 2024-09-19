@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Audicon.SmartAnalyzer.Client.DbLayer.Trees">
+  <Children>
+    <Node>
+      <Children />
+      <Equation>
+        <anyType i:type="EquationElement">
+          <Negate>false</Negate>
+          <Type>SimpleElement</Type>
+          <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+          <PropertyType>String</PropertyType>
+          <Operator>StartsWith</Operator>
+          <Operand>SK_FuR_UmsatzPrüfung_</Operand>
+        </anyType>
+      </Equation>
+      <Name>6891d0c64d564e3db2964f6bff7b3a9a</Name>
+    </Node>
+    <Node>
+      <Children />
+      <Equation>
+        <anyType i:type="EquationElement">
+          <Negate>false</Negate>
+          <Type>SimpleElement</Type>
+          <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+          <PropertyType>String</PropertyType>
+          <Operator>StartsWith</Operator>
+          <Operand>SK_FuR_SaldenPrüfung_</Operand>
+        </anyType>
+      </Equation>
+      <Name>eb5149ac58294cc29e12b11ba4dd7411</Name>
+    </Node>
+    <Node>
+      <Children />
+      <Equation>
+        <anyType i:type="EquationElement">
+          <Negate>false</Negate>
+          <Type>SimpleElement</Type>
+          <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+          <PropertyType>String</PropertyType>
+          <Operator>StartsWith</Operator>
+          <Operand>SK_FuR_Stichprobe_</Operand>
+        </anyType>
+      </Equation>
+      <Name>23f298365ffd4880aec7a9ff7981bffc</Name>
+    </Node>
+    <Node>
+      <Children />
+      <Equation>
+        <anyType i:type="EquationElement">
+          <Negate>false</Negate>
+          <Type>SimpleElement</Type>
+          <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+          <PropertyType>String</PropertyType>
+          <Operator>StartsWith</Operator>
+          <Operand>SK_FuR_Rebu_</Operand>
+        </anyType>
+      </Equation>
+      <Name>bf63ed4da5a54cf0bfddc24e7a6bdc20</Name>
+    </Node>
+  </Children>
+  <Equation>
+    <anyType i:type="EquationElement">
+      <Negate>false</Negate>
+      <Type>SimpleElement</Type>
+      <PropertyId>fc1fcc3f-b560-5d06-94e0-06e70af2ca53</PropertyId>
+      <PropertyType>String</PropertyType>
+      <Operator>Equals</Operator>
+      <Operand>Audicon Consulting</Operand>
+    </anyType>
+    <anyType i:type="EquationElement">
+      <Negate>false</Negate>
+      <Type>SimpleElement</Type>
+      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+      <PropertyType>String</PropertyType>
+      <Operator>StartsWith</Operator>
+      <Operand>SK_FuR_</Operand>
+    </anyType>
+  </Equation>
+  <Name>5680d2dbfc974c019e385c6679da8c4e</Name>
+</Node>

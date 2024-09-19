@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomImportRoutine xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EditorVersion="2.2.1">
+  <IsServerSupported>false</IsServerSupported>
+  <SelectAllFiles>true</SelectAllFiles>
+  <SkipSourceSelection>true</SkipSourceSelection>
+  <PreliminaryTask Type="Iss">
+    <SkipSourceSelection>true</SkipSourceSelection>
+    <ExecutableFile>SK-FuR - Import Routine Vergleich OBR Konten_PreMacro.iss</ExecutableFile>
+  </PreliminaryTask>
+  <PreparationTask Type="Iss">
+    <ExecutableFile>SK-FuR - Import Routine Vergleich OBR Konten_DataPreparation.iss</ExecutableFile>
+  </PreparationTask>
+  <MainRoutine Type="SmartX">
+    <RoutineVisibility>AnyAudit</RoutineVisibility>
+    <GroupNames>
+      <Name>SK-FuR</Name>
+    </GroupNames>
+    <SeparateMainTasks>Never</SeparateMainTasks>
+  </MainRoutine>
+  <EmbeddedDialogs>
+    <EmbeddedDialog>
+      <Path>..\..\_GlobalDialogs\Import_OBR_Vergleich\Import_OBR_Vergleich\Import_OBR_Vergleich.csproj</Path>
+      <Identifier>FileChoice</Identifier>
+      <LocalizableItems>
+        <Item>!DialogMainForm.resx</Item>
+        <Item>DialogStrings.resx</Item>
+      </LocalizableItems>
+    </EmbeddedDialog>
+  </EmbeddedDialogs>
+</CustomImportRoutine>

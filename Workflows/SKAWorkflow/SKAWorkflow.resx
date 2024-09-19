@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContentObjectName" xml:space="preserve">
+    <value>SK-Prüfung Finanzen und Rechnungswesen</value>
+    <comment>Name of the content item/app (max. length =128 characters).</comment>
+  </data>
+  <data name="DeploymentFileName" xml:space="preserve">
+    <value>SKAWorkflow.dep</value>
+    <comment>Do Not Translate</comment>
+  </data>
+  <data name="1db46569cdbe480c973b6bc276510fc5" xml:space="preserve">
+    <value>Daten importieren</value>
+  </data>
+  <data name="7c6242b9e9dd4561b3667bbf9a3f18da" xml:space="preserve">
+    <value>Die prüfungsrelevanten Daten über die Sparkassen-Schnittstelle importieren. </value>
+  </data>
+  <data name="d6a8089de5ac4ee7931d2646648623b0" xml:space="preserve">
+    <value>Prüfungsschritte ausführen</value>
+  </data>
+  <data name="f7b259003f7e435eb836aa9521009063" xml:space="preserve">
+    <value>Prüfungsschritte für die Importierten Daten durchführen.</value>
+  </data>
+  <data name="103a5c8bc4dd461b837753ea7ab2ff4a" xml:space="preserve">
+    <value>Prüfungsschritt-Ergebnisse analysieren</value>
+  </data>
+  <data name="8501a0b3e4a446e99da3d318fd68683c" xml:space="preserve">
+    <value>Prüfungsschritt-Ergebnisse anzeigen und Analyseberichte erstellen.</value>
+  </data>
+  <data name="c2aeb942c1984a1990a9851cb4aa7895" xml:space="preserve">
+    <value>Prüfung verwalten</value>
+  </data>
+  <data name="2c9b0d43b4e64b57acb873314da4baeb" xml:space="preserve">
+    <value>Prüfungsordner erstellen oder löschen.</value>
+  </data>
+  <data name="dc2ea517d2134d0b9eb53bcada8a570b" xml:space="preserve">
+    <value>Prüfung auswählen</value>
+  </data>
+  <data name="9efd26822a9b4fd0b69ddafe424dbab2" xml:space="preserve">
+    <value>Prüfungsordner ändern.</value>
+  </data>
+  <data name="2c25d09c21ac4919ba6138c7e615c85c" xml:space="preserve">
+    <value>Datenanforderung erstellen</value>
+  </data>
+  <data name="dc292b7a93764472af16cd019a40297e" xml:space="preserve">
+    <value>Erstellt eine Anleitung, welche Schritt für Schritt erläutert, welche Daten benötigt werden.</value>
+  </data>
+  <data name="7d0b2a1c41ba45dd92801eafc89fc501" xml:space="preserve">
+    <value>Mehrperiodenaufbereitung</value>
+  </data>
+  <data name="d1fb06701d024ac0b2681219203220cf" xml:space="preserve">
+    <value>Get data from single periods and create multiple period databases with data of several periods.</value>
+  </data>
+  <data name="01b4d0da79554579a1c680c8f704ed13" xml:space="preserve">
+    <value>Importierte Daten aufbereiten</value>
+  </data>
+  <data name="ca3a419a40264f3596e07dfc53789d39" xml:space="preserve">
+    <value>Führen Sie die Datenaufbereitung mit anderen Parametern erneut durch. (Nur zu verwenden, falls die Schnittstelle SK-FuR - Import Routine (audit folder) verwendet wurde)</value>
+  </data>
+  <data name="d625f18913a647f38749c825fef0953c" xml:space="preserve">
+    <value>Mehrperiodenaufbereitung</value>
+  </data>
+  <data name="010dd709b40341c1b70e7e4d1d1134ad" xml:space="preserve">
+    <value>Fügen Sie die Daten aus mehreren Perioden zusammen. (Nur zu verwenden, falls die Schnittstelle SK-FuR - Import Routine(audit folder) verwendet wurde)</value>
+  </data>
+  <data name="1966a70ddfb14e82a71234d00189f598" xml:space="preserve">
+    <value>Arbeitsteilung Schritt 1</value>
+  </data>
+  <data name="fdfbfa17560c4db88f62b85c631e807d" xml:space="preserve">
+    <value>Erstellen einer Liste der durchgeführten Prüfschritte und der erstellten Ergebnistabellen</value>
+  </data>
+  <data name="788f63f571204fde96e2a653d26cf205" xml:space="preserve">
+    <value>Arbeitsteilung Schritt 2</value>
+  </data>
+  <data name="821570f59fa84234bcdc91ab68cbedc7" xml:space="preserve">
+    <value>Aufteilung der Ergebnistabellen und Einfügen in das ausgewählte Projekt basierend auf dem Eingabe des Prüfers</value>
+  </data>
+  <data name="369ec11f17f84771baae12519cd169f9" xml:space="preserve">
+    <value>Arbeitsteilung Schritt 1</value>
+  </data>
+  <data name="f911a9afbc344f7ea5d980f33c788b21" xml:space="preserve">
+    <value>Erstellen einer Liste der durchgeführten Prüfschritte und der erstellten Ergebnistabellen</value>
+  </data>
+  <data name="34aab5fc8cce48df9a487a213a836316" xml:space="preserve">
+    <value>Arbeitsteilung Schritt 2</value>
+  </data>
+  <data name="bdc311ed899145b4a4b59f74adadcf83" xml:space="preserve">
+    <value>Aufteilung der Ergebnistabellen und Einfügen in das ausgewählte Projekt basierend auf dem Eingabe des Prüfers</value>
+  </data>
+  <data name="d6f95ba84cd6489dad4814582eb55328" xml:space="preserve">
+    <value>Arbeitsteilung Schritt 1</value>
+  </data>
+  <data name="20d12f1fe237420391a1db4b2d5cd6de" xml:space="preserve">
+    <value>Erstellen einer Liste der durchgeführten Prüfschritte und der erstellten Ergebnistabellen</value>
+  </data>
+  <data name="63abc62e164242a9b5a7d1aad0068ba7" xml:space="preserve">
+    <value>Arbeitsteilung Schritt 2</value>
+  </data>
+  <data name="3ee37263a00c41cbbf2c315f83b710dd" xml:space="preserve">
+    <value>Aufteilung der Ergebnistabellen und Einfügen in das ausgewählte Projekt basierend auf dem Eingabe des Prüfers</value>
+  </data>
+  <data name="bb4b42bee7e3498f80de6521cc6d7f4f" xml:space="preserve">
+    <value>Arbeitsteilung Schritt 1</value>
+  </data>
+  <data name="32785948b9994116beaf2b8e4b5f9940" xml:space="preserve">
+    <value>Erstellen einer Liste der durchgeführten Prüfschritte und der erstellten Ergebnistabellen</value>
+  </data>
+  <data name="80ea8676230e4a40a25aa5bbbd0cc3ff" xml:space="preserve">
+    <value>Arbeitsteilung</value>
+  </data>
+  <data name="7e20ae5a1e464648aa02a39e84d19da2" xml:space="preserve">
+    <value>Aufteilung der Ergebnistabellen und Einfügen in das ausgewählte Projekt basierend auf dem Eingabe des Prüfers</value>
+  </data>
+  <data name="e386104c13684fc08065917c3139bc54" xml:space="preserve">
+    <value>Primanotenplan modifizieren</value>
+  </data>
+  <data name="bc59b0d2ea24444d8c30bf2657492c45" xml:space="preserve">
+    <value>(Optional) individuelle Anpassung von Primanoten für manuelle oder maschinelle Buchungen</value>
+  </data>
+</root>

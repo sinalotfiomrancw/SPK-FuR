@@ -1,0 +1,558 @@
+Exporting global entities: 24 items were exported successfully.
+
+Exporting content items: 28 of 28 content items were exported successfully.
+
+Exporting app definitions: 4 of 4 app definitions were exported successfully.
+
+Export output file was created: 'C:\SmartAnalyzer.dev\SKA-FuR\Project Export\CO_EXPORT_2019-08-08_15-10-02.col'
+
+PROJECT EXPORT PROTOCOL
+
+=================================================================
+Starting the export of the collection of properties; 21 items
+    Exporting an entity of type 'PROPERTIES', name: '936ec300-cc61-46d2-90e0-f0952259925a'
+    Exporting an entity of type 'PROPERTIES', name: 'a216e74a-c341-47de-9af6-fd8f94663c2d'
+    Exporting an entity of type 'PROPERTIES', name: '94e1f2e9-5e18-43cc-b158-e8dab4940fcd'
+    Exporting an entity of type 'PROPERTIES', name: 'c6349ea6-158e-45b5-a1fc-940f2d858f5c'
+    Exporting an entity of type 'PROPERTIES', name: '8d0ac8f0-7e44-4b12-8c63-041e580fac55'
+    Exporting an entity of type 'PROPERTIES', name: '7b8e78e1-56e5-46e2-af2f-3838c2705a50'
+    Exporting an entity of type 'PROPERTIES', name: 'f3d2222a-dc91-4a8e-8c53-b8491117cf6c'
+    Exporting an entity of type 'PROPERTIES', name: '623bd584-7678-4fac-9b0b-631d20c3a6bc'
+    Exporting an entity of type 'PROPERTIES', name: '3d1d7818-429f-4e04-9222-2639ee025a80'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '8a791cf7-8f28-4020-9904-81d5faf6893a'
+    Exporting an entity of type 'PROPERTIES', name: 'b9fc1914-e28e-4b87-b0b9-86cacf1e1347'
+    Exporting an entity of type 'PROPERTIES', name: 'fd936d2b-0284-4382-a174-c4e3f412222d'
+    Exporting an entity of type 'PROPERTIES', name: '69704cf3-8b51-4979-8d19-79c3efd9a7cb'
+    Exporting an entity of type 'PROPERTIES', name: '3a556ab9-479a-4f8e-8a7a-1ad0e429eb4a'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting an entity of type 'PROPERTIES', name: 'a2acdf31-03a3-4153-93bc-c073d0c5e09b'
+    Exporting an entity of type 'PROPERTIES', name: '30d8c46f-55ee-44a3-8631-659525875566'
+    Exporting an entity of type 'PROPERTIES', name: 'ab5e92a6-3d72-4e4f-8375-2ebb4f55d8c4'
+    Exporting an entity of type 'PROPERTIES', name: '34f17169-f435-4185-b051-80f73cde25ee'
+    Exporting an entity of type 'PROPERTIES', name: '49ff5600-12ee-4d77-9d1d-18aa136cbb3d'
+The collection of properties was successfully exported.
+---------------------------------------------------------------------
+Starting the export of the collection of document classes; 3 items
+    Exporting an entity of type 'DOCTYPES', name: '20000000000000000000000000000000'
+    Exporting an entity of type 'DOCTYPES', name: '7d33344ec66143028f6fbfd1c9968725'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+The collection of document classes was successfully exported.
+
+=================================================================
+Starting the export of the list of content item projects (28 items)
+---------------------------------------------------------------------
+Export of content item project 'SKA_012_Storno_Sollbuchungen_und_Habenkonten_in_EUR_summiert' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_012_Storno_Sollbuchungen_und_Habenkonten_in_EUR_summiert\SKA_012_Storno_Sollbuchungen_und_Habenkonten_in_EUR_summiert.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0022_Storno_Sollbuchungen_auf_Habenkonten-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_012_Storno_Sollbuchungen_und_Habenkonten_in_EUR_summiert.resx'
+    Exporting file 'SKA_012_Storno_Sollbuchungen_und_Habenkonten_in_EUR_summiert.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!SSHOE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SSHOE_RAHMNR_2_OBR'
+    Exporting file 'SKA_012_Storno_SollBuch_auf_HabenKto_in_EUR.iss'
+    Exporting file 'SKA_012_Storno_Sollbuchungen_und_Habenkonten_in_EUR_summiert.atbs'
+    Exporting file 'SKA_012_Storno_Sollbuchungen_und_Habenkonten_in_EUR_summiert.cobs'
+    --------------
+    Creating index entry for item: 'SKA_012_Storno_Sollbuchungen_und_Habenkonten_in_EUR_summiert'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_014_Habenbuchungen_auf_Sollkonten_nicht_in_EUR' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_014_Habenbuchungen_auf_Sollkonten_nicht_in_EUR\SKA_014_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting file 'SKA_014_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.resx'
+    Exporting file 'SKA_014_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.de.resx'
+    Exporting an entity of type 'TAGS', name: 'acc!HSONE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!HSONE_SHK_OBR'
+    Exporting file 'SKA_014_HabenBuch_auf_SollKto_nicht_EUR.iss'
+    Exporting file 'SKA_014_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.atbs'
+    Exporting file 'SKA_014_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.cobs'
+    --------------
+    Creating index entry for item: 'SKA_014_Habenbuchungen_auf_Sollkonten_nicht_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_015_Sollbuchungen_auf_Habenkonten_nicht_in_EUR' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_015_Sollbuchungen_auf_Habenkonten_nicht_in_EUR\SKA_015_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting file 'SKA_015_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.resx'
+    Exporting file 'SKA_015_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.de.resx'
+    Exporting an entity of type 'TAGS', name: 'acc!SHONE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SHONE_RAHMNR_2_OBR'
+    Exporting file 'SKA_015_SollBuch_auf_HabenKto_nicht_EUR.iss'
+    Exporting file 'SKA_015_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.atbs'
+    Exporting file 'SKA_015_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.cobs'
+    --------------
+    Creating index entry for item: 'SKA_015_Sollbuchungen_auf_Habenkonten_nicht_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_016_Storno_Habenbuchungen_auf_Sollkonten_nicht_in_EUR' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_016_Storno_Habenbuchungen_auf_Sollkonten_nicht_in_EUR\SKA_016_Storno_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting file 'SKA_016_Storno_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.resx'
+    Exporting file 'SKA_016_Storno_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.de.resx'
+    Exporting an entity of type 'TAGS', name: 'acc!SHSONE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SHSONE_RAHMNR_2_OBR'
+    Exporting file 'SKA_016_Storno_HabenBuch_auf_SollKto_nicht_EUR.iss'
+    Exporting file 'SKA_016_Storno_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.atbs'
+    Exporting file 'SKA_016_Storno_Habenbuchungen_auf_Sollkonten_nicht_in_EUR.cobs'
+    --------------
+    Creating index entry for item: 'SKA_016_Storno_Habenbuchungen_auf_Sollkonten_nicht_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_017_Storno_Sollbuchungen_auf_Habenkonten_nicht_in_EUR' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_017_Storno_Sollbuchungen_auf_Habenkonten_nicht_in_EUR\SKA_017_Storno_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting file 'SKA_017_Storno_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.resx'
+    Exporting file 'SKA_017_Storno_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.de.resx'
+    Exporting an entity of type 'TAGS', name: 'acc!SSHONE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SSHONE_RAHMNR_2_OBR'
+    Exporting file 'SKA_017_Storno_SollBuch_auf_HabenKto_nicht_EUR.iss'
+    Exporting file 'SKA_017_Storno_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.atbs'
+    Exporting file 'SKA_017_Storno_Sollbuchungen_auf_Habenkonten_nicht_in_EUR.cobs'
+    --------------
+    Creating index entry for item: 'SKA_017_Storno_Sollbuchungen_auf_Habenkonten_nicht_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_009_Sollbuchungen_auf_Habenkonten_in_EUR' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_009_Sollbuchungen_auf_Habenkonten_in_EUR\SKA_009_Sollbuchungen_auf_Habenkonten_in_EUR.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0009_Sollbuchungen_auf_Habenkonten_in_EUR-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_009_Sollbuchungen_auf_Habenkonten_in_EUR.resx'
+    Exporting file 'SKA_009_Sollbuchungen_auf_Habenkonten_in_EUR.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!SHOE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SHOE_RAHMNR_2_OBR'
+    Exporting file 'SKA_009_SollBuch_auf_HabenKto_in_EUR.iss'
+    Exporting file 'SKA_009_Sollbuchungen_auf_Habenkonten_in_EUR.atbs'
+    Exporting file 'SKA_009_Sollbuchungen_auf_Habenkonten_in_EUR.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR_0009_Sollbuchungen_auf_Habenkonten_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_001_Umsaetze manuell mit glatten 1000er Betraegen' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_001_Ums man glatte 1000er Betr\SKA_001_Umsaetze manuell mit glatten 1000er Betraegen.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0001_Umsaetze_manuell_mit_glatten_1000er_Betraegen-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_001_Umsaetze manuell mit glatten 1000er Betraegen.resx'
+    Exporting file 'SKA_001_Umsaetze manuell mit glatten 1000er Betraegen.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_REL'
+    Exporting file 'SKA_001_Umsaetze_manuell_mit_glatten_1000er_Betraegen.iss'
+    Exporting file 'SKA_001_Umsaetze manuell mit glatten 1000er Betraegen.atbs'
+    Exporting file 'SKA_001_Umsaetze manuell mit glatten 1000er Betraegen.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0001_Umsaetze manuell mit glatten 1000er Betraegen'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_002_Ums man Wertst nicht im Pruefjahr\SKA_002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0002_Umsaetze_manuell_Wertstellung_nicht_im_Prüfungsjahr-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.resx'
+    Exporting file 'SKA_002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_RAHMNR_2_OBR'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_POSSHORT'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_WERTJAHR'
+    Exporting file 'SKA_002_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr.iss'
+    Exporting file 'SKA_002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.atbs'
+    Exporting file 'SKA_002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_003_Automatische_Buchungen_je_Kontorahmen' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_003_Auto Buchungen je Kontorahmen\SKA_003_Automatische_Buchungen_je_Kontorahmen.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0003_Automatische_Buchungen_je_Kontorahmen-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_003_Automatische_Buchungen_je_Kontorahmen.resx'
+    Exporting file 'SKA_003_Automatische_Buchungen_je_Kontorahmen.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!AJEKTO_RAHMNR_2_OBR'
+    Exporting file 'SKA_003_Automatische_Buchungen_je_Kontorahmen.iss'
+    Exporting file 'SKA_003_Automatische_Buchungen_je_Kontorahmen.atbs'
+    Exporting file 'SKA_003_Automatische_Buchungen_je_Kontorahmen.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0003_Automatische_Buchungen_je_Kontorahmen'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_004_Manuelle_Buchungen_je_Kontorahmen' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_004_Man Buchungen je Kontorahmen\SKA_004_Manuelle_Buchungen_je_Kontorahmen.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0004_Manuelle_Buchungen_je_Kontorahmen-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_004_Manuelle_Buchungen_je_Kontorahmen.resx'
+    Exporting file 'SKA_004_Manuelle_Buchungen_je_Kontorahmen.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MJEKTO_RAHMNR_2_OBR'
+    Exporting file 'SKA_004_Manuelle_Buchungen_je_Kontorahmen.iss'
+    Exporting file 'SKA_004_Manuelle_Buchungen_je_Kontorahmen.atbs'
+    Exporting file 'SKA_004_Manuelle_Buchungen_je_Kontorahmen.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0004_Manuelle_Buchungen_je_Kontorahmen'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_005_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr_und_groesser_Nichtaufgriffsgrenze' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_005_Ums man Wertst nicht im Pruefjahr und rel Betr\SKA_005_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr_und_groesser_Nichtaufgriffsgrenze.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0005_Umsätze_manuell_Wertstellung_nicht_im_Prüfungsjahr_u_gr_NAGrenze-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_005_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr_und_groesser_Nichtaufgriffsgrenze.resx'
+    Exporting file 'SKA_005_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr_und_groesser_Nichtaufgriffsgrenze.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_RAHMNR_2_OBR'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_REL'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_WERTJAHR'
+    Exporting file '..\SKA_002_Ums man Wertst nicht im Pruefjahr\SKA_002_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr.iss'
+    Exporting file 'SKA_005_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr_und_groesser_Nichtaufgriffsgrenze.atbs'
+    Exporting file 'SKA_005_Umsaetze_manuell_Wertstellung_nicht_im_Pruefungsjahr_und_groesser_Nichtaufgriffsgrenze.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0005_UmsMan_Wertst_nicht_im_Pruefjahr_und_gr_Nichtaufgriffsgrenze'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94\SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0006_Habenbuchungen_gr_Nichtaufgriffsgrenze_im_Kr_92_bis_94.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.resx'
+    Exporting file 'SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!HSOE_RAHMNR_2_OBR'
+    Exporting an entity of type 'TAGS', name: 'acc!HSOE_BETRAG'
+    Exporting file 'SKA_006_HabenBuch_auf_SollKto_im_KtoRahmen_und_NAGrenze.iss'
+    Exporting file 'SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.atbs'
+    Exporting file 'SKA_006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0006_Habenbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_007_Habenbuchungen_auf_Sollkonten_in_EUR' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_007_Habenbuchungen_auf_Sollkonten_in_EUR\SKA_007_Habenbuchungen_auf_Sollkonten_in_EUR.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0007_Habenbuchungen_auf_Sollkonten-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_007_Habenbuchungen_auf_Sollkonten_in_EUR.resx'
+    Exporting file 'SKA_007_Habenbuchungen_auf_Sollkonten_in_EUR.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!HSOE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!HSOE_RAHMNR_2_OBR'
+    Exporting file 'SKA_007_HabenBuch_auf_SollKto_in_EUR.iss'
+    Exporting file 'SKA_007_Habenbuchungen_auf_Sollkonten_in_EUR.atbs'
+    Exporting file 'SKA_007_Habenbuchungen_auf_Sollkonten_in_EUR.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0007_Habenbuchungen_auf_Sollkonten_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94\SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0008_Sollbuchungen_gr_NAGrenze_im_Kr_92_bis_94.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.resx'
+    Exporting file 'SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!SHOE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SHOE_RAHMNR_2_OBR'
+    Exporting file 'SKA_008_SollBuch_auf_HabenKto_im_KtoRahmen_und_NAGrenze.iss'
+    Exporting file 'SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.atbs'
+    Exporting file 'SKA_008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0008_Sollbuchungen_groesser_Nichtaufgriffsgrenze_im_Kontorahmen_92_bis_94_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze\SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_NAGrenze-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.resx'
+    Exporting file 'SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!SHSOE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SHSOE_RAHMNR_2_OBR'
+    Exporting file 'SKA_011_Storno_HabenBuch_im_KtoRahmen_und_NAGrenze.iss'
+    Exporting file 'SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.atbs'
+    Exporting file 'SKA_011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0011_Storno_Habenbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze\SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_NAGrenze.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.resx'
+    Exporting file 'SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!SSHOE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SSHOE_RAHMNR_2_OBR'
+    Exporting an entity of type 'TAGS', name: 'acc!SSHOE_KTO_RAHMEN'
+    Exporting an entity of type 'TAGS', name: 'acc!SSHOE_NAGGRENZE'
+    Exporting file 'SKA_013_Storno_SollBuch_im_KtoRahmen_und_NAGrenze.iss'
+    Exporting file 'SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.atbs'
+    Exporting file 'SKA_013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0013_Storno_Sollbuchungen_im_KtoRahmen_92_bis_98_Nichtaufgriffsgrenze_in_EUR'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr\SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0018_Umsaetze_manuell_Wertstellung_nicht_im_Prüfungsjahr.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.resx'
+    Exporting file 'SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BEZ'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_POSSHORT'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_WERTJAHR'
+    Exporting file 'SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.iss'
+    Exporting file 'SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.atbs'
+    Exporting file 'SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0018_Umsaetze manuell Wertstellung nicht im Pruefungsjahr'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SK-FuR-0019_Habenbuchungen_auf_Sollkonten' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SK-FuR-0019_Habenbuchungen_auf_Sollkonten\SK-FuR-0019_Habenbuchungen_auf_Sollkonten.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0019_Habenbuchungen_auf_Sollkonten.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SK-FuR-0019_Habenbuchungen_auf_Sollkonten.resx'
+    Exporting file 'SK-FuR-0019_Habenbuchungen_auf_Sollkonten.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_AZ9SALDO'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_KTO'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_KONTO_BEZ'
+    Exporting file 'SK-FuR-0019_Habenbuchungen_auf_Sollkonten.iss'
+    Exporting file 'SK-FuR-0019_Habenbuchungen_auf_Sollkonten.atbs'
+    Exporting file 'SK-FuR-0019_Habenbuchungen_auf_Sollkonten.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0019_Habenbuchungen_auf_Sollkonten'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SK-FuR-0020_Sollbuchungen_auf_Habenkonten' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SK-FuR-0020_Sollbuchungen_auf_Habenkonten\SK-FuR-0020_Sollbuchungen_auf_Habenkonten.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0020_Sollbuchungen_auf_Habenkonten_in_EUR.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SK-FuR-0020_Sollbuchungen_auf_Habenkonten.resx'
+    Exporting file 'SK-FuR-0020_Sollbuchungen_auf_Habenkonten.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_AZ9SALDO'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BEZ'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_KTO'
+    Exporting file 'SK-FuR-0020_Sollbuchungen_auf_Habenkonten.iss'
+    Exporting file 'SK-FuR-0020_Sollbuchungen_auf_Habenkonten.atbs'
+    Exporting file 'SK-FuR-0020_Sollbuchungen_auf_Habenkonten.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0020_Sollbuchungen_auf_Habenkonten'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten\SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0021_Storno_Habenbuchungen_auf_Sollkonten.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten.resx'
+    Exporting file 'SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_AZ9SALDO'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BEZ'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_KTO'
+    Exporting file 'SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten.iss'
+    Exporting file 'SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten.atbs'
+    Exporting file 'SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert\SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0021_Storno_Habenbuchungen_auf_Sollkonten-ZdP.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert.resx'
+    Exporting file 'SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!SHSOE_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!SHSOE_RAHMNR_2_OBR'
+    Exporting file 'SKA_010_Storno_HabenBuch_auf_SollKto_in_EUR.iss'
+    Exporting file 'SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert.atbs'
+    Exporting file 'SKA_010_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0021_Storno_Habenbuchungen_und_Sollkonten_in_EUR_summiert'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SK-FuR-0022_Storno_SollBuch_auf_HabenKonten' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SK-FuR-0022_Storno_SollBuch_auf_HabenKonten\SK-FuR-0022_Storno_SollBuch_auf_HabenKonten.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0022_Storno_Sollbuchungen_auf_Habenkonten.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SK-FuR-0022_Storno_SollBuch_auf_HabenKonten.resx'
+    Exporting file 'SK-FuR-0022_Storno_SollBuch_auf_HabenKonten.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_KTO'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BEZ'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_AZ9SALDO'
+    Exporting file 'SK-FuR-0022_Storno_SollBuch_auf_HabenKonten.iss'
+    Exporting file 'SK-FuR-0022_Storno_SollBuch_auf_HabenKonten.atbs'
+    Exporting file 'SK-FuR-0022_Storno_SollBuch_auf_HabenKonten.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0022_Storno_SollBuch_auf_HabenKonten'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_023_Daueraufträge zulasten Hauptbuchkonten.iss' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_023_Daueraufträge zulasten Hauptbuchkonten.iss\SKA_023_Daueraufträge zulasten Hauptbuchkonten.iss.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0023_Dauerauftraege_zulasten_Hauptkonten.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_023_Daueraufträge zulasten Hauptbuchkonten.iss.de.resx'
+    Exporting file 'SKA_023_Daueraufträge zulasten Hauptbuchkonten.iss.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting file 'SKA_023_Daueraufträge zulasten Hauptbuchkonten.iss'
+    Exporting file 'SKA_023_Daueraufträge zulasten Hauptbuchkonten.iss.atbs'
+    Exporting file 'SKA_023_Daueraufträge zulasten Hauptbuchkonten.iss.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0023_Daueraufträge zulasten Hauptbuchkonten.iss'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Audit Tests\SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten\SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten.cobs'
+    Exporting content item of type 'AuditTest'
+    Exporting file 'SK-FuR-0024_CPD_Gliederung_der_Kontenumsätze_HK29_nach_Einzel-CPD-Konten.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting an entity of type 'PROPERTIES', name: '840709b0-a045-45cb-b313-345feea03fd8'
+    Exporting file 'SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten.resx'
+    Exporting file 'SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_BETRAG'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_KONTO_BEZ'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_KTO'
+    Exporting an entity of type 'TAGS', name: 'acc!MAN_AZ9SALDO'
+    Exporting file 'SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten.iss'
+    Exporting file 'SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten.atbs'
+    Exporting file 'SKA_024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR-0024_GliederungKontenumsätzeHK29nachEinzel-CPD-Konten'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_FuR' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Data Requests\SKA_FuR\SKA_FuR.cobs'
+    Exporting content item of type 'DataRequest'
+    Exporting file 'SKA_FuR.resx'
+    Exporting file 'SKA_FuR.de.resx'
+    Exporting file 'SKA_FuR (3).xml'
+    Exporting file 'IDEA-AppFinanzenRechenungswesen_Datenbeschaffung_v03.pdf'
+    Exporting file 'SKA_FuR.drbs'
+    Exporting file 'SKA_FuR.cobs'
+    --------------
+    Creating index entry for item: 'SK-Prüfung Finanzen und Rechnungswesen'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_FuR - Import Routine' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Import Routines\SKA_FuR - Import Routine\SKA_FuR - Import Routine.cobs'
+    Exporting content item of type 'CirItem'
+    Exporting file 'leer.rtf'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting file 'SKA_FuR - Import Routine.resx'
+    Exporting file 'SKA_FuR - Import Routine.de.resx'
+    Exporting an entity of type 'DOCTYPES', name: '10000000000000000000000000000000'
+    Exporting file 'SKA_FuR - Import Routine_DataPreliminary.iss' as 'SKA_FuR - Import Routine_DataPreliminary.iss'
+    Exporting file 'SKA_FuR - Import Routine-DataPreparation.iss' as 'SKA_FuR - Import Routine-DataPreparation.iss'
+    Exporting file 'SKA_FuR - Import Routine.cirbs'
+    Exporting file 'SKA_FuR - Import Routine.cobs'
+    --------------
+    Creating index entry for item: 'SK-FuR - Import Routine'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKA_FuR' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Navigators\SKA_FuR\SKA_FuR.cobs'
+    Exporting content item of type 'NavigationTree'
+    Exporting an entity of type 'PROPERTIES', name: 'd5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9'
+    Exporting file 'SKA_FuR.resx'
+    Exporting file 'SKA_FuR.de.resx'
+    Exporting file 'SKA_FuR.xml'
+    Exporting file 'SKA_FuR.trbs'
+    Exporting file 'SKA_FuR.cobs'
+    --------------
+    Creating index entry for item: 'SK-Prüfung Finanzen und Rechnungswesen'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+Export of content item project 'SKAWorkflow' starts; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\Workflows\SKAWorkflow\SKAWorkflow.cobs'
+    Exporting content item of type 'AppStartWorkflow'
+    Exporting file 'SKAWorkflow.resx'
+    Exporting file 'SKAWorkflow.de.resx'
+    Exporting file 'SKAWorkflow.aswf'
+    Exporting file 'SKAWorkflow.cobs'
+    --------------
+    Creating index entry for item: 'SK-Prüfung Finanzen und Rechnungswesen'
+The content item project was exported successfully.
+---------------------------------------------------------------------
+The list of content item projects was exported successfully; 28 items were exported
+
+=================================================================
+Starting the export of the list of app definitions (4 items)
+---------------------------------------------------------------------
+Starting the export of the app definition '095da5f7-d1d1-44d5-bde6-cba0b1209c6f'; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\App Build Scripts\SKA\095da5f7-d1d1-44d5-bde6-cba0b1209c6f.def'
+    Exporting content item of type 'AppDefinition'
+    Exporting file 'Workflow_Description.rtf'
+    Exporting file 'PDF-IDEA-AppFinanzenRechenungswesen_enthaltene_Tabellen.pdf'
+    Exporting file 'SKA.resx'
+    Exporting file 'SKA.de.resx'
+    Exporting file '095da5f7-d1d1-44d5-bde6-cba0b1209c6f.def'
+    --------------
+    Creating index entry for item: 'SK-FuR-Prüfung Finanzen und Rechnungswesen'
+The app definition was successfully exported.
+---------------------------------------------------------------------
+Starting the export of the app definition '95fb376b-5975-4428-bb1c-deffd684fad0'; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\App Build Scripts\SKA\95fb376b-5975-4428-bb1c-deffd684fad0.def'
+    Exporting content item of type 'AppDefinition'
+    Exporting file 'Workflow_Description.rtf'
+    Exporting file 'PDF-IDEA-AppFinanzenRechenungswesen_enthaltene_Tabellen.pdf'
+    Exporting file 'SKA.resx'
+    Exporting file 'SKA.de.resx'
+    Exporting file '95fb376b-5975-4428-bb1c-deffd684fad0.def'
+    --------------
+    Creating index entry for item: 'SK-FuR-Prüfung Finanzen und Rechnungswesen'
+The app definition was successfully exported.
+---------------------------------------------------------------------
+Starting the export of the app definition 'ff69485d-bc14-4162-a418-5cc464e6982a'; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\App Build Scripts\SKA\ff69485d-bc14-4162-a418-5cc464e6982a.def'
+    Exporting content item of type 'AppDefinition'
+    Exporting file 'PDF-IDEA-AppFinanzenRechenungswesen_enthaltene_Tabellen.pdf'
+    Exporting file 'SKA.resx'
+    Exporting file 'SKA.de.resx'
+    Exporting file 'ff69485d-bc14-4162-a418-5cc464e6982a.def'
+    --------------
+    Creating index entry for item: 'SK-FuR-Prüfung Finanzen und Rechnungswesen'
+The app definition was successfully exported.
+---------------------------------------------------------------------
+Starting the export of the app definition 'SKA'; build script: 'C:\SmartAnalyzer.dev\SKA-FuR\App Build Scripts\SKA\SKA.def'
+    Exporting content item of type 'AppDefinition'
+    Exporting file 'Workflow_Description.rtf'
+    Exporting file 'PDF-IDEA-AppFinanzenRechenungswesen_enthaltene_Tabellen.pdf'
+    Exporting file 'SKA.resx'
+    Exporting file 'SKA.de.resx'
+    Exporting file 'SKA.def'
+    Exporting content item of type 'AppStartWorkflow'
+    The exported content item 'C:\SmartAnalyzer.dev\SKA-FuR\Workflows\SKAWorkflow' already exists within the export storage.
+    --------------
+    Creating index entry for item: 'SK-FuR-Prüfung Finanzen und Rechnungswesen'
+The app definition was successfully exported.
+---------------------------------------------------------------------
+The list of app definitions was successfully exported; 4 items were exported.
+

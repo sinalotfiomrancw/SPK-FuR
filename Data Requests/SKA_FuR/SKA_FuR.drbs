@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataRequest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EditorVersion="2.2.1">
+  <Branch PathId="4a3b97aa2d33460f94134ce5d0d3efa9">
+    <Index>9999</Index>
+    <SectionName>0F19E720F48A4FD99F827092A17097EB</SectionName>
+  </Branch>
+  <Request DisplayNameId="812841af89404993bb67e3d469f960a3">
+    <Type>1</Type>
+    <Index>1</Index>
+    <RequestedData Language="English" LanguageNameId="EN" Default="true">
+      <DataFile>SKA_FuR (3).xml</DataFile>
+      <TemplateFile>IDEA-App Finanzen und Rechnungswesen_Datenbeschaffung.pdf</TemplateFile>
+    </RequestedData>
+  </Request>
+</DataRequest>

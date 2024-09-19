@@ -1,0 +1,1093 @@
+HK 2-stellig;HK 3-stellig;3mit *;Kontobezeichnung;HK;HK-4-Stellig;IDEA;Kontoneu;Prozess KI;Prozess EWB;WP;Sachanlagen;Personal;manuell;Hinweis
+11;111;*;Spareinlagen mit dreimonatiger Kündigungsfrist – normalverzinslich;111100;1111;;x;;;;;;;
+11;111;*;Spareinlagen mit dreimonatiger Kündigungsfrist – unbefristet höherverzinslich (geldmarktorientiert);111200;1112;;x;;;;;;;
+11;111;*;Spareinlagen mit dreimonatiger Kündigungsfrist – unbefristet höherverzinslich (kapitalmarktorientiert);111300;1113;;x;;;;;;;
+11;111;*;Spareinlagen mit dreimonatiger Kündigungsfrist – Einmalanlagen mit gleich bleibendem Zinssatz;111400;1114;;x;;;;;;;
+11;111;*;Spareinlagen mit dreimonatiger Kündigungsfrist – Einmalanlagen mit steigendem Zinssatz;111500;1115;;x;;;;;;;
+11;111;*;Spareinlagen mit dreimonatiger Kündigungsfrist – Ratensparverträge;111600;1116;;x;;;;;;;
+11;111;*;Spareinlagen mit dreimonatiger Kündigungsfrist – mit vorübergehender Bonifizierung;111700;1117;;x;;;;;;;
+11;111;*;bonifizierte Spareinlagen bis 3 Monate Kündigungsfrist;111710;1117;;x;;;;;;;
+11;112;*;befristete bonifizierte Spareinlagen bis 3 Monate Kündigungsfrist;111720;1117;;x;;;;;;;
+11;112;*;Spareinlagen mit mehr als dreimonatiger Kündigungsfrist – normalverzinslich;112100;1121;;x;;;;;;;
+11;112;*;Spareinlagen mit mehr als dreimonatiger Kündigungsfrist – unbefristet höherverzinslich (geldmarktorientiert);112200;1122;;x;;;;;;;
+11;112;*;Spareinlagen mit mehr als dreimonatiger Kündigungsfrist – unbefristet höherverzinslich (kapitalmarktorientiert);112300;1123;;x;;;;;;;
+11;112;*;Spareinlagen mit mehr als dreimonatiger Kündigungsfrist – Einmalanlagen mit gleich bleibendem Zinssatz;112400;1124;;x;;;;;;;
+11;112;*;Spareinlagen mit mehr als dreimonatiger Kündigungsfrist – Einmalanlagen mit steigendem Zinssatz;112500;1125;;x;;;;;;;
+11;112;*;Spareinlagen mit mehr als dreimonatiger Kündigungsfrist – Ratensparverträge;112600;1126;;x;;;;;;;
+11;112;*;Spareinlagen mit mehr als dreimonatiger Kündigungsfrist – mit vorübergehender Bonifizierung;112700;1127;;x;;;;;;;
+11;112;*;bonifizierte Spareinlagen über 3 Monate Kündigungsfrist;112710;1127;;x;;;;;;;
+11;113;*;befristete bonifizierte Spareinlagen über 3 Monate Kündigungsfrist;112720;1127;;x;;;;;;;
+11;113;*;Prämienverbindlichkeiten aus Existenzgründungssparverträgen;113400;1134;;x;;;;;;;
+11;114;*;"Prämienverbindlichkeiten - sonstige Sparverträge (FI-Ausweis ""Verbindlichkeiten ggü. Kdn. Unter 3 Monte)";113500;1135;;x;;;;;;;
+12;121;*;Anlagen nach dem Altersvermögensgesetz;114000;1140;;x;;;;;;;
+12;121;*;PS-Lose - Sparbeiträge;121000;1210;x;;;;;;;;manuell
+12;121;*;PS-Bestandskonto;121100;1211;x;;;;;;;;manuell
+12;123;*;PS-Auszahlungskonto;121200;1212;x;;;;;;;;manuell
+14;141;*;Geschenkspargutschein-Sammelkonto usw.;123000;1230;x;;;;;;;;manuell
+14;142;*;An Geschäftskunden verkaufte Sparkassenbriefe;141000;1410;;x;;;;;;;
+14;142;*;An Privatkunden verkaufte Sparkassenbriefe – mit einer Laufzeit bis zu 2 Jahren;142100;1421;;x;;;;;;;
+14;142;*;An Privatkunden verkaufte Sparkassenbriefe – mit einer Laufzeit von mehr als 2 bis zu 5 Jahren;142200;1422;;x;;;;;;;
+15;151;*;An Privatkunden verkaufte Sparkassenbriefe – mit einer Laufzeit von mehr als 5 Jahren;142300;1423;;x;;;;;;;
+15;152;*;An Geschäftskunden verkaufte Spk. Obligationen;151000;1510;;x;;;;;;;
+15;152;*;An Privatkunden verkaufte Sparkassenobligationen – mit einer Laufzeit bis zu 2 Jahren;152100;1521;;x;;;;;;;
+15;152;*;An Privatkunden verkaufte Sparkassenobligationen – mit einer Laufzeit von mehr als 2 bis zu 5 Jahren;152200;1522;;x;;;;;;;
+16;162;*;An Privatkunden verkaufte Sparkassenobligationen – mit einer Laufzeit von mehr als 5 Jahren;152300;1523;;x;;;;;;;
+16;163;*;S-Gewinnobligationen mit einer Laufzeit von mehr als 2 bis zu 5 Jahren;162000;1620;;x;;;;;;;
+17;171;*;S-Gewinnobligationen mit einer Laufzeit von mehr als 5 Jahren;163000;1630;;x;;;;;;;
+17;172;*;An Geschäftskunden verkaufte Inhaberschuldverschreibungen;171000;1710;;x;;;;;;;
+17;172;*;An Privatkunden verkaufte Inhaberschuldverschreibungen – mit einer Laufzeit bis zu 2 Jahren;172100;1721;;x;;;;;;;
+17;172;*;An Privatkunden verkaufte Inhaberschuldverschreibungen – mit einer Laufzeit von mehr als 2 bis zu 5 Jahren;172200;1722;;x;;;;;;;
+17;179;*;An Privatkunden verkaufte Inhaberschuldverschreibungen – mit einer Laufzeit von mehr als 5 Jahren;172300;1723;;x;;;;;;;
+18;181;*;An Privatkunden verkaufte Inhaberschuldverschreibungen Fällige, noch nicht ausgezahlte Zinsen auf Inhaberschuldverschreibungen;179000;1790;;x;;;;;;;
+18;181;*;Begebene Hypothekenpfandbriefe – Inhaberbriefe – an Geschäftskunden verkauft;181100;1811;;x;;;;;;;
+18;182;*;Begebene öffentliche Pfandbriefe – Inhaberbriefe – an Geschäftskunden verkauft;181400;1814;;x;;;;;;;
+18;182;*;Begebene Hypothekenpfandbriefe – Inhaberpapiere – an Privatkunden verkauft – mit einer Laufzeit bis zu 2 Jahren;182100;1821;;x;;;;;;;
+18;182;*;Begebene Hypothekenpfandbriefe – Inhaberpapiere – an Privatkunden verkauft – mit einer Laufzeit von mehr als 2 Jahren bis zu 5 Jahren;182200;1822;;x;;;;;;;
+18;182;*;Begebene Hypothekenpfandbriefe – Inhaberpapiere – an Privatkunden verkauft – mit einer Laufzeit von mehr als 5 Jahren;182300;1823;;x;;;;;;;
+18;182;*;Begebene öffentliche Pfandbriefe – Inhaberpapiere – an Privatkunden verkauft – mit einer Laufzeit bis zu 2 Jahren;182400;1824;;x;;;;;;;
+18;182;*;Begebene öffentliche Pfandbriefe – Inhaberpapiere – an Privatkunden verkauft – mit einer Laufzeit von mehr als 2 Jahren bis zu 5 Jahren;182500;1825;;x;;;;;;;
+18;182;*;Begebene öffentliche Pfandbriefe – Inhaberpapiere – an Privatkunden verkauft – mit einer Laufzeit von mehr als 5 Jahren;182600;1826;;x;;;;;;;
+18;183;*;Fällige, noch nicht ausgezahlte Zinsen auf Inhaberpfandbriefe;182900;1829;;x;;;;;;;
+18;183;*;Begebene Hypothekenpfandbriefe – Namenspapiere – an Geschäftskunden verkauft;183100;1831;;x;;;;;;;
+18;184;*;Begebene öffentliche Pfandbriefe – Namenspapiere – an Geschäftskunden verkauft;183400;1834;;x;;;;;;;
+18;184;*;Begebene Hypothekenpfandbriefe – Namenspapiere – an Privatkunden verkauft – mit einer Laufzeit bis zu 2 Jahren;184100;1841;;x;;;;;;;
+18;184;*;Begebene Hypothekenpfandbriefe – Namenspapiere – an Privatkunden verkauft – mit einer Laufzeit von mehr als 2 Jahren bis zu 5 Jahren;184200;1842;;x;;;;;;;
+18;184;*;Begebene Hypothekenpfandbriefe – Namenspapiere – an Privatkunden verkauft  – mit einer Laufzeit von mehr als 5 Jahren;184300;1843;;x;;;;;;;
+18;184;*;Begebene öffentliche Pfandbriefe – Namenspapiere – an Privatkunden verkauft – mit einer Laufzeit bis zu 2 Jahren;184400;1844;;x;;;;;;;
+18;184;*;Begebene öffentliche Pfandbriefe – Namenspapiere – an Privatkunden verkauft – mit einer Laufzeit von mehr als 2 Jahren bis zu 5 Jahren;184500;1845;;x;;;;;;;
+21;211;*;Begebene öffentliche Pfandbriefe – Namenspapiere – an Privatkunden verkauft  – mit einer Laufzeit von mehr als 5 Jahren;184600;1846;;x;;;;;;;
+21;211;*;Tagesgelder von Kunden – Geschäftskunden;211100;2111;;x;;;;;;;
+21;211;*;Tagesgelder von Kunden – öffentliche Haushalte;211200;2112;;x;;;;;;;
+21;212;*;Tagesgelder von Kunden – Privatkunden;211300;2113;;x;;;;;;;
+21;212;*;Andere befristete Verbindlichkeiten gegenüber Geschäftskunden  – Termineinlagen mit einer Laufzeit oder Kündigungsfrist bis zu 5 Jahren;212100;2121;;x;;;;;;;
+21;212;*;Andere befristete Verbindlichkeiten gegenüber Geschäftskunden – Termineinlagen mit einer Laufzeit oder Kündigungsfrist von mehr als 5 Jahren;212200;2122;;x;;;;;;;
+21;212;*;Andere befristete Verbindlichkeiten gegenüber Geschäftskunden  –  aufgenommene Darlehen mit einer Laufzeit oder Kündigungsfrist bis zu 5 Jahren;212300;2123;;x;;;;;;;
+21;213;*;Andere befristete Verbindlichkeiten gegenüber Geschäftskunden –  aufgenommene Darlehen mit einer Laufzeit oder Kündigungsfrist von mehr als 5 Jahren;212400;2124;;x;;;;;;;
+21;213;*;Andere befristete Verbindlichkeiten gegenüber Privatkunden – Termineinlagen mit einer Laufzeit oder Kündigungsfrist bis zu 3 Monaten;213100;2131;;x;;;;;;;
+21;213;*;Andere befristete Verbindlichkeiten gegenüber Privatkunden – Termineinlagen mit einer Laufzeit oder Kündigungsfrist von mehr als 3 Monaten;213200;2132;;x;;;;;;;
+21;213;*;Andere befristete Verbindlichkeiten gegenüber Privatkunden –  aufgenommene Darlehen mit einer Laufzeit oder Kündigungsfrist bis zu 3 Monaten;213300;2133;;x;;;;;;;
+22;221;*;Andere befristete Verbindlichkeiten gegenüber Privatkunden – aufgenommene Darlehen mit einer Laufzeit oder Kündigungsfrist von mehr als 3 Monaten;213400;2134;;x;;;;;;;
+22;221;*;Geschäftsgirokonten -mit normalverzinslichen Guthaben;221100;2211;;x;;;;;;;
+22;221;*;Geschäftsgirokonten - mit höherverzinslichen Guthaben - Geldmarktkonten;221210;2212;;x;;;;;;;
+22;222;*;Geschäftsgirokonten - mit höherverzinslichen Guthaben - Sonstige;221220;2212;;x;;;;;;;
+22;222;*;Privatgirokonten - mit normalverzinslichen Guthaben;222100;2221;;x;;;;;;;
+22;222;*;Privatgirokonten - mit höherverzinslichen Guthaben - Geldmarktkonten;222210;2222;;x;;;;;;;
+22;223;*;Privatgirokonten - mit höherverzinslichen Guthaben - Sonstige;222220;2222;;x;;;;;;;
+22;223;*;Girokonten öffentlicher Haushalte - mit normalverzinslichen Guthaben;223100;2231;;x;;;;;;;
+22;223;*;Girokonten öffentlicher Haushalte - mit höherverzinslichen Guthaben - Geldmarktkonten;223210;2232;;x;;;;;;;
+23;230;*;Girokonten öffentlicher Haushalte - mit höherverzinslichen Guthaben - Sonstige;223220;2232;;x;;;;;;;
+25;250;*;Akzeptkredite (Obligo);230000;2300;;x;;;;;;;
+26;261;*;Weiterleitungsmittel von Nichtkreditinstituten;250000;2500;;x;;;;;;;
+26;261;*;Fremdwährungs-Kontokorrentkredite an Kunden – an Geschäftskunden;261100;2611;;x;;;;;;;
+26;261;*;Fremdwährungs-Kontokorrentkredite an Kunden – an öffentliche Haushalte;261200;2612;;x;;;;;;;
+26;262;*;Fremdwährungs-Kontokorrentkredite an Kunden – an Privatkunden;261300;2613;;x;;;;;;;
+26;262;*;Fremdwährungs-Sichteinlagen von Kunden – auf normalverzinslichen Geschäftsgirokonten;262100;2621;;x;;;;;;;
+26;262;*;Fremdwährungs-Sichteinlagen von Kunden – auf höherverzinslichen Geschäftsgirokonten;262200;2622;;x;;;;;;;
+26;262;*;Fremdwährungs-Sichteinlagen von Kunden – auf normalverzinslichen Privatgirokonten;262300;2623;;x;;;;;;;
+26;263;*;Fremdwährungs-Sichteinlagen von Kunden – auf höherverzinslichen Privatgirokonten;262400;2624;;x;;;;;;;
+26;263;*;Fremdwährungs-Tagesgelder von Kunden – Geschäftskunden;263100;2631;;x;;;;;;;
+26;264;*;Fremdwährungs-Tagesgelder von Kunden – Privatkunden;263300;2633;;x;;;;;;;
+26;264;*;Andere befristete Fremdwährungs-Verbindlichkeiten gegenüber  Geschäftskunden – mit einer Laufzeit oder Kündigungsfrist bis zu 5 Jahren;264100;2641;;x;;;;;;;
+26;265;*;Andere befristete Fremdwährungs-Verbindlichkeiten gegenüber  Geschäftskunden – mit einer Laufzeit oder Kündigungsfrist von mehr als 5 Jahren;264200;2642;;x;;;;;;;
+26;265;*;Andere befristete Fremdwährungs-Verbindlichkeiten gegenüber Privatkunden – mit einer Laufzeit oder Kündigungsfrist bis zu drei Monaten;265100;2651;;x;;;;;;;
+29;291;*;Andere befristete Fremdwährungs-Verbindlichkeiten gegenüber Privatkunden – mit einer Laufzeit oder Kündigungsfrist von mehr als 3 Monaten;265200;2652;;x;;;;;;;
+29;292;*;Vorschüsse;291000;2910;x;;;;;;;;Übersicht: Summen S/H, Anzahl S/H, max, min, davon masch/man, evtl. Saldo
+31;310;*;Vorläufig gebuchte Eingänge;292000;2920;x;;;;;;;;Übersicht: Summen S/H, Anzahl S/H, max, min, davon masch/man, evtl. Saldo
+32;321;*;Kasse;310000;3100;x;;;;;;;;2-3 Belegungen in Stichproben
+32;322;*;Sorten (ohne Goldmünzen);321000;3210;x;;;;;;;;2-3 Belegungen in Stichproben
+32;323;*;Reisezahlungsmittel;322000;3220;x;;;;;;;;2-3 Belegungen in Stichproben
+33;330;*;Edelmetalle;323000;3230;x;;;;;;;;2-3 Belegungen in Stichproben
+41;411;*;Fällige Schuldverschreibungen, Zins- und Dividendenscheine;330000;3300;x;;;;;;;;2-3 Belegungen in Stichproben
+41;412;*;Laufendes Konto bei der eigenen GZ;411000;4110;;;x;;;;;;
+41;413;*;Tagesgeldanlagen bei der eigenen GZ;412000;4120;;;x;;;;;;
+41;413;*;Forderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von weniger als 1 Monat;413100;4131;;;x;;;;;;
+41;413;*;Forderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von mindestens 1 Monat bis zu 1 Jahr;413200;4132;;;x;;;;;;
+41;415;*;Forderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von mehr als 1 Jahr;413300;4133;;;x;;;;;;
+41;415;*;Schuldscheine und Namensschuldverschreibungen der eigenen GZ;415100;4151;;;x;;;;;;
+41;416;*;Rückzahlbare, nicht börsenfähige Genussrechte der eigenen GZ;415200;4152;;;x;;;;;;
+41;416;*;Laufende Fremdwährungsguthaben bei der eigenen GZ;416100;4161;;;x;;;;;;
+41;416;*;Laufende Fremdwährungsverbindlichkeiten gegenüber der eigenen GZ;416200;4162;;;x;;;;;;
+41;416;*;Fremdwährungstagesgeldanlagen bei der eigenen GZ;416300;4163;;;x;;;;;;
+41;416;*;Fremdwährungsforderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von weniger als 1 Monat;416400;4164;;;x;;;;;;
+41;416;*;Fremdwährungsforderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von mindestens 1 Monat bis zu   1 Jahr;416500;4165;;;x;;;;;;
+42;421;*;Fremdwährungsforderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von mehr als 1 Jahr;416600;4166;;;x;;;;;;
+42;423;*;Bbk – laufendes Konto;421000;4210;;;x;;;;;;
+42;424;*;Bbk – Übernachtguthaben;423000;4230;;;x;;;;;;
+42;424;*;Bbk – andere Guthaben;424000;4240;;;x;;;;;;
+42;424;*;Bbk – andere Guthaben mit einer Laufzeit von weniger als 1 Monat;424100;4241;;;x;;;;;;
+42;424;*;Bbk – andere Guthaben mit einer Laufzeit von mindestens 1 Monat bis zu 1 Jahr;424200;4242;;;x;;;;;;
+44;441;*;Bbk – andere Guthaben mit einer Laufzeit von mehr als 1 Jahr;424300;4243;;;x;;;;;;
+44;443;*;Laufende Konten bei anderen Kreditinstituten;441000;4410;;;x;;;;;;
+44;444;*;Tagesgeldanlagen bei anderen Kreditinstituten;443000;4430;;;x;;;;;;
+44;444;*;Forderungen an andere Kreditinstitute bei einer Laufzeit oder Kündigungsfrist von weniger als 1 Monat;444100;4441;;;x;;;;;;
+44;444;*;Forderungen an andere Kreditinstitute mit einer Laufzeit oder Kündigungsfrist von mindestens 1 Monat bis zu 1 Jahr;444200;4442;;;x;;;;;;
+44;445;*;Forderungen an andere Kreditinstitute mit einer Laufzeit oder Kündigungsfrist von mehr als 1 Jahr;444300;4443;;;x;;;;;;
+44;445;*;Schuldscheine und Namensschuldverschreibungen anderer Kreditinstitute;445100;4451;;;x;;;;;;
+44;446;*;Rückzahlbare, nicht börsenfähige Genussrechte anderer Kreditinstitute;445200;4452;;;x;;;;;;
+44;446;*;Laufende Fremdwährungsguthaben bei anderen Kreditinstituten;446100;4461;;;x;;;;;;
+44;446;*;Laufende Fremdwährungs-Verbindlichkeiten gegenüber anderen Kreditinstituten;446200;4462;;;x;;;;;;
+44;446;*;Fremdwährungs-Tagesgeldanlagen bei anderen Kreditinstituten;446300;4463;;;x;;;;;;
+44;446;*;Fremdwährungs-Forderungen an andere Kreditinstitute mit einer Laufzeit oder Kündigungsfrist von weniger als 1 Monat;446400;4464;;;x;;;;;;
+44;446;*;Fremdwährungs-Forderungen an andere Kreditinstitute mit einer Laufzeit oder Kündigungsfrist von mindestens 1 Monat  bis zu 1 Jahr;446500;4465;;;x;;;;;;
+45;451;*;Fremdwährungs-Forderungen an andere Kreditinstitute mit einer Laufzeit oder Kündigungsfrist von mehr als 1 Jahr;446600;4466;;;x;;;;;;
+45;451;*;Tagesgelder der eigenen GZ;451100;4511;;;x;;;;;;
+45;451;*;Verbindlichkeiten gegenüber der eigenen GZ mit einer Laufzeit oder Kündigungsfrist von weniger als 1 Monat (ohne  Weiterleitungsmittel);451200;4512;;;x;;;;;;
+45;451;*;Verbindlichkeiten gegenüber der eigenen GZ mit einer Laufzeit oder Kündigungsfrist von mindestens 1 Monat bis zu 5 Jahren  (ohne Weiterleitungsmittel);451300;4513;;;x;;;;;;
+45;452;*;Verbindlichkeiten gegenüber der eigenen GZ mit einer Laufzeit oder Kündigungsfrist von mehr als 5 Jahren (ohne  Weiterleitungsmittel);451400;4514;;;x;;;;;;
+45;452;*;Übernachtkredit der Bbk;452100;4521;;;x;;;;;;
+45;452;*;Offenmarktkredite der Bbk mit einer Laufzeit von weniger als 1 Monat;452200;4522;;;x;;;;;;
+45;453;*;Offenmarktkredite der Bbk mit einer Laufzeit von 1 Monat oder länger;452300;4523;;;x;;;;;;
+45;454;*;Akzeptverbindlichkeiten;453000;4530;;;x;;;;;;
+45;454;*;Tagesgelder anderer Kreditinstitute;454100;4541;;;x;;;;;;
+45;454;*;Verbindlichkeiten gegenüber anderen Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von weniger als 1 Monat (ohne  Weiterleitungsmittel);454200;4542;;;x;;;;;;
+45;454;*;Verbindlichkeiten gegenüber anderen Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von mindestens 1 Monat bis zu  5 Jahren (ohne Weiterleitungsmittel);454300;4543;;;x;;;;;;
+45;455;*;Verbindlichkeiten gegenüber anderen Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von mehr als 5 Jahren (ohne  Weiterleitungsmittel);454400;4544;;;x;;;;;;
+45;455;*;An die eigene GZ verkaufte, den Kreditnehmern nicht abgerechnete eigene Ziehungen;455100;4551;;;x;;;;;;
+45;456;*;An andere Kreditinstitute verkaufte, den Kreditnehmern nicht abgerechnete eigene Ziehungen;455400;4554;;;x;;;;;;
+45;456;*;Fremdwährungs-Tagesgelder der eigenen GZ;456100;4561;;;x;;;;;;
+45;456;*;Fremdwährungs-Verbindlichkeiten gegenüber der eigenen GZ mit einer Laufzeit oder Kündigungsfrist von weniger als 1  Monat;456200;4562;;;x;;;;;;
+45;456;*;Fremdwährungs-Verbindlichkeiten gegenüber der eigenen GZ mit einer Laufzeit oder Kündigungsfrist von mindestens 1  Monat bis zu 5 Jahren;456300;4563;;;x;;;;;;
+45;457;*;Fremdwährungs-Verbindlichkeiten gegenüber der eigenen GZ mit einer Laufzeit oder Kündigungsfrist von mehr als 5 Jahren;456400;4564;;;x;;;;;;
+45;457;*;Fremdwährungs-Tagesgelder von anderen Kreditinstituten;457100;4571;;;x;;;;;;
+45;457;*;Fremdwährungs-Verbindlichkeiten gegenüber anderen Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von  weniger als 1 Monat;457200;4572;;;x;;;;;;
+45;457;*;Fremdwährungs-Verbindlichkeiten gegenüber anderen Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von  mindestens 1 Monat bis zu 5 Jahren;457300;4573;;;x;;;;;;
+45;458;*;Fremdwährungs-Verbindlichkeiten gegenüber anderen Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von  mehr als 5 Jahren;457400;4574;;;x;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Ankauf bundesbankfähiger Wechsel;458100;4581;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Ankauf nicht bundesbankfähiger Wechsel;458200;4582;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Kontokorrentkredite auf Geschäftsgirokonten (ohne solche öffentlicher Haushalte);458310;4583;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Kontokorrentkredite an öffentliche Haushalte;458320;4583;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Kontokorrentkredite auf Privatgirokonten;458330;4583;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Wohnungsbau) – Wohnungsbau mit einer Laufzeit bis zu 5 Jahren;458411;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Wohnungsbau) – durch Grundpfandrechte gesichert;458412;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Wohnungsbau) – gegen kommunale Deckung;458413;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Wohnungsbau) – gegen sonstige bzw. ohne weitere Sicherheiten;458414;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Wohnungsbau) – Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren;458415;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Wohnungsbau) – durch Grundpfandrechte gesichert;458416;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Wohnungsbau) – gegen kommunale Deckung;458417;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Wohnungsbau) – gegen sonstige bzw. ohne weitere Sicherheiten;458418;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Sonstige Darlehen) – Sonstige mit einer Laufzeit bis zu 5 Jahren;458421;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Sonstige Darlehen) – durch Grundpfandrechte gesichert;458422;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Sonstige Darlehen) – gegen kommunale Deckung;458423;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Sonstige Darlehen) – gegen sonstige bzw. ohne weitere Sicherheiten;458424;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Sonstige Darlehen) – Sonstige mit einer Laufzeit von mehr als 5 Jahren;458425;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Sonstige Darlehen) – durch Grundpfandrechte gesichert;458426;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Sonstige Darlehen) – gegen kommunale Deckung;458427;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Geschäftskunden (Sonstige Darlehen) – gegen sonstige bzw. ohne weitere Sicherheiten;458428;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Privatkunden (Wohnungsbau) – Wohnungsbau mit einer Laufzeit bis zu 5 Jahren;458431;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Privatkunden (Wohnungsbau) – durch Grundpfandrechte gesichert;458432;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Privatkunden (Wohnungsbau) – gegen kommunale Deckung;458433;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Privatkunden (Wohnungsbau) – gegen sonstige bzw. ohne weitere Sicherheiten;458434;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Privatkunden (Wohnungsbau) – Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren;458435;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Privatkunden (Wohnungsbau) – durch Grundpfandrechte gesichert;458436;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Privatkunden (Wohnungsbau) – gegen kommunale Deckung;458437;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an Privatkunden (Wohnungsbau) – gegen sonstige bzw. ohne weitere Sicherheiten;458438;4584;;x;;;;;;;
+45;458;*;Konsortialverbindlichkeiten – Darlehen an öffentliche Haushalte;458440;4584;;x;;;;;;;
+45;459;*;Konsortialverbindlichkeiten – Fremdwährungs-Kredit;458460;4584;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte Sparkassenbriefe mit einer Laufzeit bis zu 5 Jahren;459100;4591;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte Sparkassenbriefe mit einer Laufzeit von mehr als 5 Jahren;459200;4592;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte Sparkassenobligationen und Inhaberschuldverschreibungen mit einer Laufzeit bis zu 5  Jahren;459300;4593;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte Sparkassenobligationen und Inhaberschuldverschreibungen mit einer Laufzeit von mehr als  5 Jahren;459400;4594;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte Hypothekenpfandbriefe – Inhaberpapiere – – mit einer Laufzeit von bis zu 5 Jahren;459510;4595;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte Hypothekenpfandbriefe – Inhaberpapiere – – mit einer Laufzeit von mehr als 5 Jahren;459520;4595;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte öffentliche Pfandbriefe – Inhaberpapiere – – mit einer Laufzeit von bis zu 5 Jahren;459530;4595;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte öffentliche Pfandbriefe – Inhaberpapiere – – mit einer Laufzeit von mehr als 5 Jahren;459540;4595;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte Hypothekenpfandbriefe – Namenspapiere – – mit einer Laufzeit von bis zu 5 Jahren;459610;4596;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte Hypothekenpfandbriefe – Namenspapiere – – mit einer Laufzeit von mehr als 5 Jahren;459620;4596;;x;;;;;;;
+45;459;*;An Kreditinstitute verkaufte öffentliche Pfandbriefe – Namenspapiere – – mit einer Laufzeit von bis zu 5 Jahren;459630;4596;;x;;;;;;;
+46;461;*;An Kreditinstitute verkaufte öffentliche Pfandbriefe – Namenspapiere – – mit einer Laufzeit von mehr als 5 Jahren;459640;4596;;x;;;;;;;
+46;461;*;Verbindlichkeiten aus Treuhandkrediten (im eigenen Namen, für fremde Rechnung verwaltete Kredite) – Kapitalverbindlichkeiten;461100;4611;;x;;;;;;;
+46;461;*;Verbindlichkeiten aus Treuhandkrediten (im eigenen Namen, für fremde Rechnung verwaltete Kredite) – Zinsverbindlichkeiten;461200;4612;;x;;;;;;;
+46;462;*;Verbindlichkeiten aus Treuhandkrediten (im eigenen Namen, für fremde Rechnung verwaltete Kredite) – Tilgungsverbindlichkeiten;461300;4613;;x;;;;;;;
+46;464;*;Verbindlichkeiten aus anderen Treuhandgeschäften;462000;4620;;x;;;;;;;
+46;464;*;Verbindlichkeiten aus im fremden Namen, für fremde Rechnung verwalteten Krediten – Kapitalverbindlichkeiten;464100;4641;;x;;;;;;;
+46;464;*;Verbindlichkeiten aus im fremden Namen, für fremde Rechnung verwalteten Krediten – Zinsverbindlichkeiten;464200;4642;;x;;;;;;;
+46;465;*;Verbindlichkeiten aus im fremden Namen, für fremde Rechnung verwalteten Krediten – Tilgungsverbindlichkeiten;464300;4643;;x;;;;;;;
+47;470;*;Verbindlichkeiten aus im fremden Namen, für fremde Rechnung verwalteten anderen Vermögensgegenständen;465000;4650;;x;;;;;;;
+48;480;*;Zweigstellen;470000;4700;;;;;;;;x;nicht relevant
+49;491;*;Betriebsverrechnungskonto;480000;4800;;;x;;;;;;Flip/Flop
+49;495;*;Weiterleitungsmittel der eigenen GZ;491000;4910;;x;;;;;;;
+51;511;*;Weiterleitungsmittel anderer Kreditinstitute;495000;4950;;x;;;;;;;
+51;511;*;Von Kunden angekaufte Wechsel sowie den Kreditnehmern abgerechnete eigene Ziehungen (Obligo);511100;5111;x;;;;;;;x;
+51;511;*;Von Kreditinstituten angekaufte Wechsel (Obligo);511210;5112;x;;;;;;;x;
+51;511;*;Rediskontierte Wechsel;511230;5112;x;;;;;;;x;
+51;511;*;Vor Verfall zum Einzug gegebene Diskontwechsel;511240;5112;x;;;;;;;x;
+51;511;*;Diskontwechsel–Ausgangskonto;511270;5112;x;;;;;;;x;
+51;511;*;Rediskontierte Wechsel;511300;5113;x;;;;;;;x;
+51;511;*;Vor Verfall zum Einzug gegebene Diskontwechsel;511400;5114;x;;;;;;;x;
+51;511;*;Mit Vollindossament weitergegebene Wechsel aus Gemeinschaftskrediten;511500;5115;x;;;;;;;x;
+51;511;*;Ohne Vollindossament weitergegebene Wechsel aus Gemeinschaftskrediten;511600;5116;x;;;;;;;x;
+51;513;*;Diskontwechsel-Ausgangskonto;511700;5117;x;;;;;;;x;
+51;516;*;Eigene Akzepte (soweit den Kreditnehmern abgerechnet);513000;5130;x;;;;;;;x;
+51;516;*;Von Kunden angekaufte Fremdwährungswechsel sowie den Kreditnehmern abgerechnete eigene Ziehungen (Obligo);516100;5161;x;;;;;;;x;
+51;516;*;Von Kreditinstituten angekaufte Fremdwährungs- Diskontwechsel (Obligo);516210;5162;x;;;;;;;x;
+51;516;*;Rediskontierte Fremdwährungswechsel;516230;5162;x;;;;;;;x;
+51;516;*;Vor Verfall zum Einzug gegebene Fremdwährungs- Diskontwechsel;516240;5162;x;;;;;;;x;
+51;516;*;Fremdwährungs-Diskontwechsel – Ausgangskonto;516270;5162;x;;;;;;;x;
+51;516;*;Rediskontierte Fremdwährungswechsel;516300;5163;x;;;;;;;x;
+51;516;*;Vor Verfall zum Einzug gegebene Fremdwährungs- Diskontwechsel;516400;5164;x;;;;;;;x;
+52;521;*;Fremdwährungs-Diskontwechsel – Ausgangskonto;516700;5167;x;;;;;;;x;
+52;523;*;Bei der Bundesbank refinanzierungsfähige unverzinsliche Schuldtitel öffentlicher Stellen, z.B. Schatzwechsel und  unverzinsliche Schatzanweisungen;521000;5210;x;;;;;;;x;
+53;531;*;Unverzinsliche andere Schuldtitel öffentlicher Emittenten;523000;5230;x;;;;;;;x;
+53;531;*;Bestand an Einzugswechseln, die dem Einreicher-Konto noch nicht gutgeschrieben sind;531100;5311;x;;;;;;;x;
+53;532;*;Bestand an Einzugswechseln, die dem Einreicher-Konto bereits gutgeschrieben sind;531200;5312;x;;;;;;;x;
+53;532;*;Ausgang von Einzugswechseln, die dem Einreicher-Konto noch nicht gutgeschrieben sind;532100;5321;x;;;;;;;x;
+54;541;*;Ausgang von Einzugswechseln, die dem Einreicher-Konto bereits gutgeschrieben sind;532200;5322;x;;;;;;;x;
+54;542;*;Einzugsscheck-Bestandskonto;541000;5410;x;;;;;;;x;
+55;551;*;Einzugsscheck-Ausgangskonto;542000;5420;x;;;;;;;x;
+55;552;*;Einzugsdokumente-Bestandskonto;551000;5510;x;;;;;;;x;
+61;611;*;Einzugsdokumente-Ausgangskonto 6. Kontenklasse 6 – Darlehen an Kunden, Treuhandvermögen;552000;5520;x;;;;;;;x;
+61;611;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit bis zu 5 Jahren – durch Grundpfandrechte gesichert;611100;6111;;x;;;;;;;
+61;611;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit bis zu 5 Jahren – gegen kommunale Deckung;611200;6112;;x;;;;;;;
+61;612;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit bis zu 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;611300;6113;;x;;;;;;;
+61;612;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit von mehr als 5 Jahren – durch Grundpfandrechte gesichert;612100;6121;;x;;;;;;;
+61;612;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit von mehr als 5 Jahren – gegen kommunale Deckung;612200;6122;;x;;;;;;;
+61;613;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit von mehr als 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;612300;6123;;x;;;;;;;
+61;613;*;Sonstige Darlehen mit einer Laufzeit bis zu 5 Jahren – durch Grundpfandrechte gesichert;613100;6131;;x;;;;;;;
+61;613;*;Sonstige Darlehen mit einer Laufzeit bis zu 5 Jahren – gegen kommunale Deckung;613200;6132;;x;;;;;;;
+61;614;*;Sonstige Darlehen mit einer Laufzeit bis zu 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;613300;6133;;x;;;;;;;
+61;614;*;Sonstige Darlehen mit einer Laufzeit von mehr als 5 Jahren – durch Grundpfandrechte gesichert;614100;6141;;x;;;;;;;
+61;614;*;Sonstige Darlehen mit einer Laufzeit von mehr als 5 Jahren – gegen kommunale Deckung;614200;6142;;x;;;;;;;
+62;621;*;Sonstige Darlehen mit einer Laufzeit von mehr als 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;614300;6143;;x;;;;;;;
+62;621;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit bis zu 5 Jahren – durch Grundpfandrechte gesichert;621100;6211;;x;;;;;;;
+62;621;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit bis zu 5 Jahren – gegen kommunale Deckung;621200;6212;;x;;;;;;;
+62;622;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit bis zu 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;621300;6213;;x;;;;;;;
+62;622;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit von mehr als 5 Jahren – durch Grundpfandrechte gesichert;622100;6221;;x;;;;;;;
+62;622;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit von mehr als 5 Jahren – gegen kommunale Deckung;622200;6222;;x;;;;;;;
+62;623;*;Darlehen für Wohnungsbauzwecke mit einer Laufzeit von mehr als 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;622300;6223;;x;;;;;;;
+62;623;*;Konsumentenkredite - Alle Laufzeiten - durch Grundpfandrechte gesichert;623100;6231;;x;;;;;;;
+63;630;*;Konsumentenkredite - Alle Laufzeiten - gegen sonstige bzw. ohne weitere Sicherheiten;623300;6233;;x;;;;;;;
+64;641;*;Darlehen an öffentliche Haushalte (aus eigenen Mitteln);630000;6300;;x;;;;;;;
+64;641;*;Treuhandkredite (im eigenen Namen, für fremde Rechnung verwaltete Kredite) – Kapitalforderungen;641100;6411;;x;;;;;;;
+64;641;*;Treuhandkredite (im eigenen Namen, für fremde Rechnung verwaltete Kredite) – Zinsforderungen;641200;6412;;x;;;;;;;
+64;642;*;Treuhandkredite (im eigenen Namen, für fremde Rechnung verwaltete Kredite) – Tilgungsforderungen;641300;6413;;x;;;;;;;
+64;644;*;Anderes Treuhandvermögen;642000;6420;;x;;;;;;;
+64;644;*;Im fremden Namen, für fremde Rechnung verwaltete Kredite – Kapitalforderungen;644100;6441;;x;;;;;;;
+64;644;*;Im fremden Namen, für fremde Rechnung verwaltete Kredite – Zinsforderungen;644200;6442;;x;;;;;;;
+64;645;*;Im fremden Namen, für fremde Rechnung verwaltete Kredite – Tilgungsforderungen;644300;6443;;x;;;;;;;
+65;651;*;Andere in fremden Namen, für fremde Rechnung verwaltete Vermögensgegenstände;645000;6450;;x;;;;;;;
+65;652;*;Schuldscheine und Namensschuldverschreibungen öffentlicher Stellen;651000;6510;x;;;;;;;x;
+65;653;*;Schuldscheine und Namensschuldverschreibungen anderer Nichtkreditinstitute;652000;6520;x;;;;;;;x;
+66;661;*;Rückzahlbare, nicht börsenfähige Genussrechte von Nichtkreditinstituten;653000;6530;x;;;;;;;x;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Wohnungsbau mit einer Laufzeit bis zu 5 Jahren – durch Grundpfandrechte gesichert;661110;6611;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Wohnungsbau mit einer Laufzeit bis zu 5 Jahren – gegen kommunale Deckung;661120;6611;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Wohnungsbau mit einer Laufzeit bis zu 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;661130;6611;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren – durch Grundpfandrechte gesichert;661210;6612;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren – gegen kommunale Deckung;661220;6612;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;661230;6612;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Sonstige mit einer Laufzeit bis zu 5 Jahren – durch Grundpfandrechte gesichert;661310;6613;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Sonstige mit einer Laufzeit bis zu 5 Jahren – gegen kommunale Deckung;661320;6613;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Sonstige mit einer Laufzeit bis zu 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;661330;6613;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Sonstige mit einer Laufzeit von mehr als 5 Jahren – durch Grundpfandrechte gesichert;661410;6614;;x;;;;;;;
+66;661;*;Fremdwährungsdarlehen an Geschäftskunden – Sonstige mit einer Laufzeit von mehr als 5 Jahren – gegen kommunale Deckung;661420;6614;;x;;;;;;;
+66;662;*;Fremdwährungsdarlehen an Geschäftskunden – Sonstige mit einer Laufzeit von mehr als 5 Jahren – gegen sonstige bzw. ohne weitere Sicherheiten;661430;6614;;x;;;;;;;
+66;662;*;Fremdwährungsdarlehen an Privatkunden – Wohnungsbau mit einer Laufzeit bis zu 5 Jahren;662100;6621;;x;;;;;;;
+66;662;*;Fremdwährungsdarlehen an Privatkunden – Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren;662200;6622;;x;;;;;;;
+66;662;*;Fremdwährungsdarlehen an Privatkunden – Sonstige Darlehen mit einer Laufzeit bis zu 5 Jahren;662300;6623;;x;;;;;;;
+66;663;*;Fremdwährungsdarlehen an Privatkunden – Sonstige Darlehen mit einer Laufzeit von mehr als 5 Jahren;662400;6624;;x;;;;;;;
+69;691;*;Fremdwährungsdarlehen an öffentliche Haushalte;663000;6630;;x;;;;;;;
+69;692;*;Weiterleitungsdarlehen an Geschäftskunden;691000;6910;;x;;;;;;;
+71;711;*;Weiterleitungsdarlehen an Privatkunden;692000;6920;;;;;;;;;
+71;711;*;Geldmarktpapiere (Liquiditätsreserve) – von öffentlichen Emittenten;711100;7111;;;;;x;;;;manuelle Umsätze
+71;712;*;Geldmarktpapiere (Liquiditätsreserve) – von anderen Emittenten;711200;7112;;;;;x;;;;manuelle Umsätze
+71;712;*;Anleihen und Schuldverschreibungen öffentlicher Emittenten (Liquiditätsreserve) – mit festem Zinssatz;712100;7121;;;;;x;;;;manuelle Umsätze
+71;713;*;Anleihen und Schuldverschreibungen öffentlicher Emittenten (Liquiditätsreserve) – sonstige;712900;7129;;;;;x;;;;manuelle Umsätze
+71;713;*;Anleihen und Schuldverschreibungen anderer Emittenten (Liquiditätsreserve) – mit festem Zinssatz;713100;7131;;;;;x;;;;manuelle Umsätze
+71;714;*;Anleihen und Schuldverschreibungen anderer Emittenten (Liquiditätsreserve) – sonstige;713900;7139;;;;;x;;;;manuelle Umsätze
+71;715;*;Aktien einschließlich Bezugsrechte (Liquiditätsreserve);714000;7140;;;;;x;;;;manuelle Umsätze
+71;716;*;Spezialfondsanteile (Liquiditätsreserve);715000;7150;;;;;x;;;;manuelle Umsätze
+71;716;*;Andere nicht festverzinsliche Wertpapiere (Liquiditätsreserve) - Börsenfähige Genussscheine;716100;7161;;;;;x;;;;manuelle Umsätze
+71;716;*;Andere nicht festverzinsliche Wertpapiere (Liquiditätsreserve) - Sonstige Investmentanteile;716200;7162;;;;;x;;;;manuelle Umsätze
+71;717;*;Sonstige andere nicht festverzinsliche Wertpapiere;716300;7163;;;;;x;;;;manuelle Umsätze
+71;717;*;Vor Fälligkeit zurückgekaufte eigene Schuldverschreibungen (Liquiditätsreserve) – börsenfähige;717100;7171;;;;;x;;;;manuelle Umsätze
+71;718;*;Vor Fälligkeit zurückgekaufte eigene Schuldverschreibungen (Liquiditätsreserve) – nicht börsenfähige;717900;7179;;;;;x;;;;manuelle Umsätze
+72;721;*;Planvermögen nach § 246 Abs. 2 Satz 2 HGB;718000;7180;;;;;x;;;;manuelle Umsätze
+72;721;*;Handelsaktiva (ohne Derivate) - Forderungen gegenüber Kreditinstituten – Euro;721100;7211;;;;;x;;;;manuelle Umsätze
+72;722;*;Handelsaktiva (ohne Derivate) - Forderungen gegenüber Kreditinstituten – Fremdwährung;721200;7212;;;;;x;;;;manuelle Umsätze
+72;722;*;Handelsaktiva (ohne Derivate) -Forderungen gegenüber Kunden – Euro;722100;7221;;;;;x;;;;manuelle Umsätze
+72;723;*;Handelsaktiva (ohne Derivate) -Forderungen gegenüber Kunden – Fremdwährung;722200;7222;;;;;x;;;;manuelle Umsätze
+72;723;*;Handelsaktiva (ohne Derivate) - Schuldverschreibungen und andere festverzinsliche Wertpapiere – Euro;723100;7231;;;;;x;;;;manuelle Umsätze
+72;724;*;Handelsaktiva (ohne Derivate) - Schuldverschreibungen und andere festverzinsliche Wertpapiere – Fremdwährung;723200;7232;;;;;x;;;;manuelle Umsätze
+72;724;*;Handelsaktiva (ohne Derivate) - Aktien und andere nicht festverzinsliche Wertpapiere – Euro;724100;7241;;;;;x;;;;manuelle Umsätze
+72;725;*;Handelsaktiva (ohne Derivate) - Aktien und andere nicht festverzinsliche Wertpapiere – Fremdwährung;724200;7242;;;;;x;;;;manuelle Umsätze
+72;725;*;Handelsaktiva (ohne Derivate) - Sonstige Vermögensgegenstände – Euro;725100;7251;;;;;x;;;;manuelle Umsätze
+73;730;*;Handelsaktiva (ohne Derivate) - Sonstige Vermögensgegenstände – Fremdwährung;725200;7252;;;;;x;;;;manuelle Umsätze
+74;741;*;Devisenkommissionsgeschäft;730000;7300;;;;;x;;;;manuelle Umsätze
+74;742;*;Ausgleichsforderungen gegen die öffentliche Hand aufgrund des Umstellungsgesetzes (UG-1948);741000;7410;;;;;x;;;;manuelle Umsätze
+74;743;*;Ausgleichsforderungen gegen die öffentliche Hand aufgrund des Umstellungsgesetzes (UG-1953);742000;7420;;;;;x;;;;manuelle Umsätze
+74;743;*;Zugeteilte Forderungen gegen den Ausgleichsfonds Währungsumstellung;743100;7431;;;;;x;;;;manuelle Umsätze
+75;752;*;Schuldverschreibungen aus der Umwandlung von Ausgleichsforderungen;743200;7432;;;;;x;;;;manuelle Umsätze
+75;752;*;Anleihen und Schuldverschreibungen öffentlicher Emittenten (Anlagebestand) – mit festem Zinssatz;752100;7521;;;;;x;;;;manuelle Umsätze
+75;753;*;Anleihen und Schuldverschreibungen öffentlicher Emittenten (Anlagebestand) – sonstige;752900;7529;;;;;x;;;;manuelle Umsätze
+75;753;*;Anleihen und Schuldverschreibungen anderer Emittenten (Anlagebestand) – mit festem Zinssatz;753100;7531;;;;;x;;;;manuelle Umsätze
+75;754;*;Anleihen und Schuldverschreibungen anderer Emittenten (Anlagebestand) – sonstige;753900;7539;;;;;x;;;;manuelle Umsätze
+75;755;*;Aktien einschl. Bezugsrechte (Anlagebestand);754000;7540;;;;;x;;;;manuelle Umsätze
+75;756;*;Spezialfondsanteile (Anlagebestand);755000;7550;;;;;x;;;;manuelle Umsätze
+75;756;*;Andere nicht festverzinsliche Wertpapiere (Anlagebestand) - Börsenfähige Genussscheine;756100;7561;;;;;x;;;;manuelle Umsätze
+75;756;*;Andere nicht festverzinsliche Wertpapiere (Anlagebestand) - Sonstige Investmentanteile;756200;7562;;;;;x;;;;manuelle Umsätze
+75;758;*;Andere nicht festverzinsliche Wertpapiere (Anlagebestand) - Sonstige andere nicht festverzinsliche Wertpapiere;756300;7563;;;;;x;;;;manuelle Umsätze
+76;760;*;Planvermögen nach § 246 Abs. 2 Satz 2 HGB;758000;7580;;;;;x;;;;manuelle Umsätze
+77;771;*;Wertpapierkommissionsgeschäft;760000;7600;;;;;x;;;;manuelle Umsätze
+77;772;*;(Handelsbestand) Derivate mit Fremdwährungsrisiken;771000;7710;;;;;x;;;;manuelle Umsätze
+77;773;*;(Handelsbestand) Derivate mit Zinsänderungsrisiken;772000;7720;;;;;x;;;;manuelle Umsätze
+78;781;*;(Handelsbestand) Derivate mit sonstigen Marktpreisrisiken;773000;7730;;;;;x;;;;manuelle Umsätze
+78;781;*;Handelspassiva (ohne Derivate) Verbindlichkeiten gegenüber Kreditinstituten – Euro;781100;7811;;;;;x;;;;manuelle Umsätze
+78;782;*;Handelspassiva (ohne Derivate) Verbindlichkeiten gegenüber Kreditinstituten – Fremdwährung;781200;7812;;;;;x;;;;manuelle Umsätze
+78;782;*;Handelspassiva (ohne Derivate) - Verbindlichkeiten gegenüber Kunden – Euro;782100;7821;;;;;x;;;;manuelle Umsätze
+78;783;*;Handelspassiva (ohne Derivate) - Verbindlichkeiten gegenüber Kunden – Fremdwährung;782200;7822;;;;;x;;;;manuelle Umsätze
+78;783;*;Handelspassiva (ohne Derivate) - Verbriefte Verbindlichkeiten – Euro;783100;7831;;;;;x;;;;manuelle Umsätze
+78;784;*;Handelspassiva (ohne Derivate) - Verbriefte Verbindlichkeiten – Fremdwährung;783200;7832;;;;;x;;;;manuelle Umsätze
+78;784;*;Handelspassiva (ohne Derivate) - Sonstige Verbindlichkeiten – Euro;784100;7841;;;;;x;;;;manuelle Umsätze
+81;811;*;Handelspassiva (ohne Derivate) - Sonstige Verbindlichkeiten – Fremdwährung;784200;7842;;;;;x;;;;manuelle Umsätze
+81;811;*;Sparkassenbetrieblich genutzte Grundstücke und Gebäude;811000;8110;x;;;;;x;;;Umsatzreport nach HK
+81;811;*;Sparkassenbetrieblich genutzte Grundstücke - unbebaut -;811100;8111;x;;;;;x;;;Umsatzreport nach HK
+81;811;*;Sparkassenbetrieblich grundstücksgleiche Rechte - unbebaut -;811200;8112;x;;;;;x;;;Umsatzreport nach HK
+81;811;*;Sparkassenbetrieblich genutzte Grundstücke -bebaut Anteil Grund u. Boden -;811300;8113;x;;;;;x;;;Umsatzreport nach HK
+81;811;*;Sparkassenbetrieblich genutzte Grundstücke - bebaut Anteil Gebäude;811400;8114;x;;;;;x;;;Umsatzreport nach HK
+81;811;*;Sparkassenbetrieblich genutzte Grundstücke - Bauten auf fremdem Grund u. Boden;811500;8115;x;;;;;x;;;Umsatzreport nach HK
+81;812;*;Sparkassenbetrieblich genutzte Grundstücke - ausländische Betriebsstätte;811800;8118;x;;;;;x;;;Umsatzreport nach HK
+81;812;*;Anderer Nutzung dienende Grundstücke und Gebäude (Anlagevermögen);812000;8120;x;;;;;x;;;Umsatzreport nach HK
+81;812;*;Anders genutzte Grundstücke - unbebaut;812100;8121;x;;;;;x;;;Umsatzreport nach HK
+81;812;*;Anders genutzte grundstücksgleiche Rechte - unbebaut;812200;8122;x;;;;;x;;;Umsatzreport nach HK
+81;812;*;Anders genutzte Grundstücke - bebaut Anteil Grund u. Boden;812300;8123;x;;;;;x;;;Umsatzreport nach HK
+81;812;*;Anders genutzte Grundstücke - bebaut Anteil Gebäude;812400;8124;x;;;;;x;;;Umsatzreport nach HK
+81;812;*;Anders genutzte Grundstücke - Bauten auf fremden Grund u. Boden-;812500;8125;x;;;;;x;;;Umsatzreport nach HK
+81;812;*;Anders genutze Grundstücke - ausländische Betriebsstätte;812800;8128;x;;;;;x;;;Umsatzreport nach HK
+81;813;*;übrige Grundstücke - nicht zuordenbar;812900;8129;x;;;;;x;;;Umsatzreport nach HK
+81;813;*;Anzahlungen auf Grundstücke und Gebäude – zur sparkassenbetrieblichen Nutzung;813100;8131;x;;;;;x;;;Umsatzreport nach HK
+81;813;*;Anzahlungen auf Grundstücke und Gebäude – zu anderer Nutzung (Anlagevermögen);813200;8132;x;;;;;x;;;Umsatzreport nach HK
+81;819;*;Anzahlungen auf Grundstücke und Gebäude – des Umlaufvermögens;813900;8139;x;;;;;x;;;Umsatzreport nach HK
+82;821;*;Grundstücke und Gebäude des Umlaufvermögens;819000;8190;x;;;;;x;;;Umsatzreport nach HK
+82;821;*;Geringwertige Vermögensgegenstände – geringwertige Vermögensgegenstände (Vollabschreibung im Anschaffungsjahr);821100;8211;x;;;;;x;;;Umsatzreport nach HK
+82;822;*;Geringwertige Vermögensgegenstände – Geringwertige Vermögensgegenstände (Sammelposten nach § 6 Abs. 2 a EStG);821200;8212;x;;;;;x;;;Umsatzreport nach HK
+82;823;*;Maschinen;822000;8220;x;;;;;x;;;Umsatzreport nach HK
+82;824;*;Kraftfahrzeuge;823000;8230;x;;;;;x;;;Umsatzreport nach HK
+82;825;*;Sonstige Einrichtungsgegenstände;824000;8240;x;;;;;x;;;Umsatzreport nach HK
+82;825;*;Betriebsvorrichtungen;825100;8251;x;;;;;x;;;Umsatzreport nach HK
+82;826;*;Mieterein- und -umbauten;825200;8252;x;;;;;x;;;Umsatzreport nach HK
+82;827;*;Nicht abschreibungsfähige Gegenstände;826000;8260;x;;;;;x;;;Umsatzreport nach HK
+83;831;*;Anzahlungen auf Betriebs- und Geschäftsausstattung;827000;8270;x;;;;;x;;;Umsatzreport nach HK
+83;831;*;Beteiligungen;831010;8310;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Beteiligungen;831020;8310;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Beteiligungen an Kreditinstituten;831100;8311;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Beteiligungen an Kreditinstituten;831110;8311;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Beteiligungen an Kreditinstiuten;831120;8311;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Beteiligungen an Finanzdienstleistungsinstituten;831200;8312;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Anteile an verbundenen Kreditinstituten;831210;8312;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Anteile an verbundenen Kreditinstituten;831220;8312;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Beteiligungen an anderen Unternehmen;831300;8313;x;;;;;;;x;Umsatzreport nach HK
+83;831;*;Beteiligungen an anderen Unternehmen;831310;8313;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Beteiligungen an anderen Unternehmen;831320;8313;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an verbundenen Kreditinstituten;832010;8320;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an verbundenen Kreditinstituten;832020;8320;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an verbundenen Kreditinstituten;832100;8321;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an verbundenen Kreditinstituten;832110;8321;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an verbundenen Kreditinstiuten;832120;8321;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an verbundenen Finanzdienstleistungsinstituten;832200;8322;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an verbundenen Finanzdienstleistungsinstituten;832210;8322;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an verbundenen Finazdienstleistungsinstituten;832220;8322;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an anderen verbundenen Unternehmen;832300;8323;x;;;;;;;x;Umsatzreport nach HK
+83;832;*;Anteile an anderen verbundenen Unternehmen;832310;8323;x;;;;;;;x;Umsatzreport nach HK
+83;838;*;Anteile an anderen verbundenen unternehmen;832320;8323;x;;;;;;;x;Umsatzreport nach HK
+83;839;*;Stille Beteiligungen;838000;8380;x;;;;;;;x;Umsatzreport nach HK
+84;840;*;Geschäftsguthaben bei Genossenschaften;839000;8390;x;;;;;;;x;Umsatzreport nach HK
+85;851;*;Eigene Bausparverträge;840000;8400;x;;;;;;;x;Umsatzreport nach HK
+85;852;*;Geringwertige Software;851000;8510;x;;;;;x;;;Umsatzreport nach HK
+85;852;*;Andere Software – entgeltlich erworbene Software;852100;8521;x;;;;;x;;;Umsatzreport nach HK
+85;852;*;Andere Software – selbst geschaffene Software;852200;8522;x;;;;;x;;;Umsatzreport nach HK
+85;859;*;Andere Software – Anzahlungen auf Software;852300;8523;x;;;;;x;;;Umsatzreport nach HK
+86;860;*;Sonstige immaterielle Anlagewerte;859000;8590;x;;;;;x;;;Umsatzreport nach HK
+86;861;*;Sonstige Vermögensgegenstände;860000;8600;x;;;;;;;x;Umsatzreport nach HK
+86;868;*;Sonstige Aktiva;861000;8610;;;;;;;;x;
+86;868;*;Vorsteuer Regelsteuersatz;868000;8680;;;;;;;;x;
+86;868;*;Vorsteuer ermäßigter Steuersatz;868050;8680;;;;;;;;x;
+86;868;*;Vorsteuer aus Edelmetall- und Münzenhandel;868100;8681;;;;;;;;x;
+86;868;*;Vorsteuer für Kantinenumsätze;868200;8682;;;;;;;;x;
+86;868;*;Vorsteuer für Sicherungsgut - Vorsteuer für Lieferungen aus Steuerschuldnerschaft;868310;8683;;;;;;;;x;
+86;868;*;Vorsteuer für Sicherungsgut - Vorsteuer für sonstige Leistungen/Werkleistungen aus einem EU-Land;868320;8683;;;;;;;;x;
+86;868;*;Vorsteuer für Sicherungsgut - Vorsteuer aus innergemeinschaftlichem Erwerb;868330;8683;;;;;;;;x;
+86;868;*;Vorsteuer unentgeltliche Wertabgaben;868700;8687;;;;;;;;x;
+86;868;*;Anteilig zurechenbare Vorsteuern für aktivierungspflichtige Wirtschaftsgüter (HK 810000, 820000);868800;8688;;;;;;;;x;
+86;868;*;Anteilig zurechenbare Vorsteuern für sonstige Lieferungen und Leistungen (HK 940000, 950000, 980000) -  Nachträglich abziehbare Vorsteuern nach § 15a UStG;868910;8689;;;;;;;;x;
+86;869;*;Anteilig zurechenbare Vorsteuern für sonstige Lieferungen und Leistungen (HK 940000, 950000, 980000) -  Zurückzuzahlende Vorsteuer nach § 15a UStG;868920;8689;;;;;;;;x;
+87;871;*;Zum Jahresabschluss aktivierte sonstige Forderungen (antizipative Posten);869000;8690;x;;;;;;;;HK aufsteigend, Umsätze absteigend, nur man. Buchungen
+87;877;*;Sonstige Passiva;871000;8710;x;;;;;;;x;
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -  Forderungen gegenüber Kreditinstituten;877110;8771;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -  Forderungen gegenüber Kunden;877120;8771;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -  Schuldverschreibungen und andere festverzinsliche Wertpapiere;877130;8771;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -  Aktien und andere nicht festverzinsliche Wertpapiere;877140;8771;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -  Sonstige Vermögensgegenstände;877150;8771;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -   Derivaten;877210;8772;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -   Verbindlichkeiten gegenüber Kreditinstituten;877310;8773;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -   Verbindlichkeiten gegenüber Kunden;877320;8773;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;877;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -   Verbriefte Verbindlichkeiten;877330;8773;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;878;*;Risikoabschlag bzw. -zuschlag nach § 340 e Abs. 3 HGB auf Handelsbestände -   Sonstige Verbindlichkeiten;877340;8773;x;;;;;;;x;sofern zutreffend: Hinweis geben
+87;878;*;Umsatzsteuer (Regelsteuersatz);878000;8780;;;;;;;;x;
+87;878;*;Umsatzsteuer ermäßigter Steuersatz;878050;8780;;;;;;;;x;
+87;878;*;Umsatzsteuer im Edelmetallgeschäft;878100;8781;;;;;;;;x;
+87;878;*;Umsatzsteuer im Kantinengeschäft;878200;8782;;;;;;;;x;
+87;878;*;Umsatzsteuer aus Verkauf von Sicherungsgut -  Umsatzsteuer für andere Lieferungen aus Steuerschuldnerschaft;878310;8783;;;;;;;;x;
+87;878;*;Umsatzsteuer aus Verkauf von Sicherungsgut -  Umsatzsteuer für sonstige Leistungen/Werkleistungen aus einem EU-Land;878320;8783;;;;;;;;x;
+87;878;*;Umsatzsteuer aus Verkauf von Sicherungsgut -  Umsatzsteuer aus innergemeinschaftlichem Erwerb;878330;8783;;;;;;;;x;
+87;878;*;Umsatzsteuer bei Steuerschuldnerschaft des Leistungsempfängers;878600;8786;;;;;;;;x;
+87;878;*;Umsatzsteuer für unentgeltliche Wertabgaben;878700;8787;;;;;;;;x;
+87;879;*;Sonstige Umsatzsteuer;878800;8788;;;;;;;;x;
+89;891;*;Zum Jahresabschluss passivierte sonstige Verbindlichkeiten (antizipative Posten);879000;8790;x;;;;;;;;HK aufsteigend, Umsätze absteigend, nur man. Buchungen
+89;891;*;Forderungen aus Bürgschaften;891100;8911;;;;;;;;x;
+89;891;*;Forderungen aus Gewährleistungsverträgen;891200;8912;;;;;;;;x;
+89;891;*;Forderungen aus Akkreditiven;891300;8913;;;;;;;;x;
+89;891;*;In Pension gegebene Vermögensgegenstände (unechte Pensionsgeschäfte);891400;8914;;;;;;;;x;
+89;891;*;Bestellte Sicherheiten für fremde Verbindlichkeiten;891500;8915;;;;;;;;x;
+89;892;*;Gegenkonto Unwiderrufliche Kreditzusagen;891600;8916;;;;;;;;x;
+89;892;*;Verbindlichkeiten aus Bürgschaften;892100;8921;;;;;;;;x;
+89;892;*;Verbindlichkeiten aus Gewährleistungsverträgen;892200;8922;;;;;;;;x;
+89;892;*;Verbindlichkeiten aus Akkreditiven;892300;8923;;;;;;;;x;
+89;892;*;Rücknahmeverpflichtungen aus unechten Pensionsgeschäften;892400;8924;;;;;;;;x;
+89;892;*;Haftung aus der Bestellung von Sicherheiten für fremde Verbindlichkeiten;892500;8925;;;;;;;;x;
+89;896;*;Unwiderrufliche Kreditzusagen;892600;8926;;;;;;;;x;
+89;896;*;Fremdwährungsforderungen aus Bürgschaften/Garantien;896100;8961;;;;;;;;x;
+89;897;*;Fremdwährungsforderungen aus Akkreditiven;896300;8963;;;;;;;;x;
+89;897;*;Fremdwährungsverbindlichkeiten aus Bürgschaften/Garantien;897100;8971;;;;;;;;x;
+89;899;*;Fremdwährungsverbindlichkeiten aus Akkreditiven;897300;8973;;;;;;;;x;
+89;899;*;Ansprüche aus dem Abschluss von Payer Swaps;899101;8991;;;;;;;;x;
+89;899;*;Verpflichtungen aus dem Abschluss von Payer Swaps;899102;8991;;;;;;;;x;
+89;899;*;Ansprüche aus dem Abschluss von Receiver Swaps;899103;8991;;;;;;;;x;
+89;899;*;Verpflichtungen aus dem Abschluss von Receiver Swaps;899104;8991;;;;;;;;x;
+89;899;*;Ansprüche aus dem Kauf von Futures;899111;8991;;;;;;;;x;
+89;899;*;Verpflichtungen aus dem Kauf von Futures;899112;8991;;;;;;;;x;
+89;899;*;Ansprüche aus dem Verkauf von Futures;899113;8991;;;;;;;;x;
+89;899;*;Verpflichtungen aus dem Verkauf von Futures;899114;8991;;;;;;;;x;
+89;899;*;Unbedingte Termingeschäfte;899149;8991;;;;;;;;x;
+89;899;*;Bedingte Termingeschäfte;899150;8991;;;;;;;;x;
+89;899;*;Ansprüche aus Long Calls;899151;8991;;;;;;;;x;
+89;899;*;Gegenkonto Long Calls;899152;8991;;;;;;;;x;
+89;899;*;Gegenkonto Short Calls;899153;8991;;;;;;;;x;
+89;899;*;Verpflichtungen aus Short Calls;899154;8991;;;;;;;;x;
+89;899;*;Ansprüche aus Long Puts;899155;8991;;;;;;;;x;
+89;899;*;Gegenkonto Long Puts;899156;8991;;;;;;;;x;
+89;899;*;Gegenkonto Short Puts;899157;8991;;;;;;;;x;
+89;899;*;Verpflichtungen aus Short Puts;899158;8991;;;;;;;;x;
+91;911;*;Bedingte Termingeschäfte;899199;8991;;;;;;;;x;
+91;911;*;Sicherheitsrücklage;911100;9111;;;;;;;;x;
+91;911;*;Andere Rücklagen;911200;9112;;;;;;;;x;
+91;911;*;Fonds für allgemeine Bankrisiken nach § 340 g HGB;911310;9113;;;;;;;;x;
+91;912;*;Fonds für allgemeine Bankrisiken nach § 340 g i. V. m. § 340 e HGB;911320;9113;;;;;;;;x;
+91;912;*;Dotationskapital;912100;9121;;;;;;;;x;
+91;912;*;Hafteinlagen;912200;9122;;;;;;;;x;
+91;912;*;Von Geschäftskunden gezeichnetes Genussrechtskapital;912310;9123;;;;;;;;x;
+91;912;*;Von Privatkunden gezeichnetes Genussrechtskapital;912330;9123;;;;;;;;x;
+91;912;*;Von Kreditinstituten gezeichnetes Genussrechtskapital;912340;9123;;;;;;;;x;
+91;913;*;Nachrangige Verbindlichkeiten;912400;9124;;x;;;;;;;
+91;914;*;Sonderposten mit Rücklageanteil;913000;9130;;;;;;;;x;
+91;914;*;Rückstellungen für laufende Pensionen;914110;9141;;;;;;;;x;
+91;914;*;Rückstellungen für Pensionsanwartschaften;914120;9141;;;;;;;;x;
+91;914;*;Rückstellungen für mittelbare Pensions- und ähnliche Verpflichtungen nach Artikel 28 Abs. 1 Satz 2 EGHGB  (Zusatzversorgung);914130;9141;;;;;;;;x;
+91;914;*;Steuerrückstellungen;914200;9142;;;;;;;;x;
+91;914;*;Rückstellungen für die Aufstellung, Prüfung und Veröffentlichung des Jahresabschlusses;914310;9143;;;;;;;;x;
+91;914;*;Rückstellungen für Bonusgewährung im Sparverkehr;914340;9143;;;;;;;;x;
+91;914;*;Rückstellungen für Spareinlagen mit steigender Verzinsung;914350;9143;;;;;;;;x;
+91;914;*;Rückstellungen für Altersteilzeitverpflichtungen;914370;9143;;;;;;;;x;
+91;914;*;Sonstige andere Rückstellungen;914390;9143;;;;;;;;x;
+91;914;*;Rückstellungen für drohende Inanspruchnahmen aus Eventualverbindlichkeiten – aus weitergegebenen abgerechneten Wechseln;914411;9144;;;;;;;;x;
+91;914;*;Rückstellungen für drohende Inanspruchnahmen aus Eventualverbindlichkeiten – aus Bürgschaften und Gewährleistungsverträgen;914412;9144;;;;;;;;x;
+91;914;*;Rückstellungen für drohende Inanspruchnahmen aus Eventualverbindlichkeiten – aus der Bestellung von Sicherheiten für fremde Verbindlichkeiten;914413;9144;;;;;;;;x;
+91;914;*;Rückstellungen für drohende Inanspruchnahmen aus anderen Verpflichtungen;914420;9144;;;;;;;;x;
+91;914;*;Rückstellungen für drohende Inanspruchnahmen aufgrund von Rücknahmeverpflichtungen aus unechten Pensionsgeschäften;914421;9144;;;;;;;;x;
+91;914;*;Rückstellungen für drohende Inanspruchnahmen aus sonstigen anderen Verpflichtungen;914422;9144;;;;;;;;x;
+91;914;*;Rückstellungen für drohende Inanspruchnahmen aus außerbilanziellen Geschäften;914430;9144;;;;;;;;x;
+91;915;*;Rückstellungen für Bewertungseinheiten;914440;9144;;;;;;;;x;
+91;915;*;Einzelwertberichtigungen auf täglich fällige Forderungen an Kreditinstitute;915121;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf befristete Forderungen an Kreditinstitute;915122;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf Forderungen an Kunden mit unbestimmter Laufzeit;915131;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf sonstige Forderungen an Kunden;915139;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf Beteiligungen an Kredit- und Finanzdienstleistungsinstituten;915171;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf Beteiligungen an anderen Unternehmen;915172;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf Anteile an verbundenen Kredit- und Finanzdienstleistungsinstituten;915173;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf Anteile an anderen verbundenen Unternehmen;915174;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf sparkassenbetrieblich genutzte Grundstücke und Gebäude;915181;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf anderer Nutzung dienende Grundstücke und Gebäude;915182;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf Betriebs- und Geschäftsausstattung;915183;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf immaterielle Anlagewerte;915185;9151;;;;x;;;;;
+91;915;*;Einzelwertberichtigungen auf sonstige Vermögensgegenstände;915190;9151;;;;x;;;;;
+91;915;*;Pauschalwertberichtigungen auf Forderungen an Kunden;915200;9152;;;;;;;;x;
+91;915;*;Vorsorgereserven (§26a KWG) zu täglich fälligen Forderungen an Kreditinstitute;915321;9153;;;;;;;;x;
+91;915;*;Vorsorgereserven (§26a KWG) zu befristeten Forderungen an Kreditinstitute;915322;9153;;;;;;;;x;
+91;915;*;Vorsorgereserven (§26a KWG) zu Forderungen an Kunden (einschl. angekauften Diskontwechseln und abgerechneten eigenen  Ziehungen);915330;9153;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§26a KWG) zu Geldmarktpapieren öffentlicher Emittenten (Liquiditätsreserve);915351;9153;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§26a KWG) zu Geldmarktpapieren anderer Emittenten (Liquiditätsreserve);915352;9153;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§26a KWG) zu Anleihen und Schuldverschreibungen öffentlicher Emittenten (Liquiditätsreserve);915353;9153;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§26a KWG) zu Anleihen und Schuldverschreibungen anderer Emittenten (Liquiditätsreserve);915355;9153;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§26a KWG) zu Aktien an anderen nicht festverzinslichen Wertpapieren (Liquiditätsreserve);915357;9153;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§340f HGB) zu täglich fälligen Forderungen an Kreditinstitute;915421;9154;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§340f HGB) zu befristeten Forderungen an Kreditinstitute;915422;9154;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§340f HGB) zu Forderungen an Kunden (einschl. angekauften Diskontwechseln und abgerechneten eigenen  Ziehungen);915430;9154;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§340f HGB) zu Geldmarktpapieren öffentlicher Emittenten (Liquiditätsreserve);915451;9154;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§340f HGB) zu Geldmarktpapieren anderer Emittenten (Liquiditätsreserve);915452;9154;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§340f HGB) zu Anleihen und Schuldverschreibungen öffentlicher Emittenten (Liquiditätsreserve);915453;9154;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§340f HGB) zu Anleihen und Schuldverschreibungen anderer Emittenten (Liquiditätsreserve);915455;9154;;;;;;;;x;
+91;915;*;Vorsorgereserven  (§340f HGB) zu Aktien und anderen nicht festverzinslichen Wertpapieren (Liquiditätsreserve);915457;9154;;;;;;;;x;
+91;915;*;Zinsausfallkorrekturposten für notleidende Kredite;915500;9155;;;;;;;;x;
+91;916;*;Einzelwertberichtigungen wegen Minderverzinslichkeit;915900;9159;;;;;;;;x;
+91;917;*;Gewinnverwendung;916000;9160;;;;;;;;x;
+91;918;*;Verlustvortrag;917000;9170;;;;;;;;x;
+91;918;*;Steuerbilianz Aktiva;918000;9180;;;;;;;;x;
+91;918;*;Aktiver Ausgleichsposten Organgesellschaft (A 19);918100;9181;;;;;;;;x;
+91;919;*;Aktiver Ausgleichsposten nach InvStG (A 20);918200;9182;;;;;;;;x;
+91;919;*;Steuerbilanz Passiva;919000;9190;;;;;;;;x;
+91;919;*;Sonderposten mit Rücklageanteil;919100;9191;;;;;;;;x;
+91;919;*;Genussrecht - Fremdkapital;919200;9192;;;;;;;;x;
+91;919;*;Passiver Ausgleichsposten Organgesellschaft;919300;9193;;;;;;;;x;
+92;921;*;Passiver Ausgleichsposten nach InvStG;919400;9194;;;;;;;;x;
+92;921;*;Zinsen für Spareinlagen – normalverzinslich;921101;9211;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für Spareinlagen – unbefristet höherverzinslich (geldmarktorientiert);921102;9211;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für Spareinlagen – unbefristet höherverzinslich (kapitalmarktorientiert);921103;9211;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für Spareinlagen – Einmalanlagen mit gleich bleibendem Zinssatz;921104;9211;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für Spareinlagen – Einmalanlagen mit steigendem Zinssatz;921105;9211;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für Spareinlagen – Ratensparverträge;921106;9211;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für Spareinlagen – mit vorübergehender Bonifizierung;921107;9211;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für Einlagen nach dem Altersvermögensgesetz;921140;9211;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Geschäftskunden verkaufte Sparkassenbriefe;921410;9214;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Sparkassenbriefe mit einer Laufzeit bis zu 2 Jahren;921421;9214;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Sparkassenbriefe mit einer Laufzeit von mehr als 2 bis zu 5 Jahren;921422;9214;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Sparkassenbriefe mit einer Laufzeit von mehr als 5 Jahren;921423;9214;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Geschäftskunden verkaufte Sparkassenobligationen;921510;9215;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Sparkassenobligationen mit einer Laufzeit bis zu 2 Jahren;921521;9215;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Sparkassenobligationen von mehr als 2 bis zu 5 Jahren;921522;9215;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Sparkassenobligationen mit einer Laufzeit von mehr als 5 Jahren;921523;9215;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für S-Gewinnobligationen mit einer Laufzeit bis zu 5 Jahren;921620;9216;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für S-Gewinnobligationen mit einer Laufzeit von mehr als 5 Jahren;921630;9216;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Geschäftskunden verkaufte Inhaberschuldverschreibungen;921710;9217;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Inhaberschuldverschreibungen mit einer Laufzeit bis zu 2  Jahren;921721;9217;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Inhaberschuldverschreibungen mit einer Laufzeit von mehr als  2 Jahren bis zu 5 Jahren;921722;9217;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Inhaberschuldverschreibungen mit einer Laufzeit von mehr als  5 Jahren;921723;9217;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Geschäftskunden verkaufte Pfandbriefe – Inhaberpapiere –;921810;9218;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Pfandbriefe – Inhaberpapiere – – mit einer Laufzeit bis zu 2 Jahren;921821;9218;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Pfandbriefe – Inhaberpapiere – – mit einer Laufzeit von mehr als 2 Jahren bis zu 5 Jahren;921822;9218;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Pfandbriefe – Inhaberpapiere – – mit einer Laufzeit von mehr als 5 Jahren;921823;9218;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Geschäftskunden verkaufte Pfandbriefe – Namenspapiere–;921830;9218;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Pfandbriefe – Namenspapiere – mit einer Laufzeit bis zu 2 Jahren;921841;9218;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;921;*;Zinsen für an Privatkunden verkaufte Pfandbriefe – Namenspapiere – mit einer Laufzeit von mehr als 2 Jahren bis zu 5 Jahren;921842;9218;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für an Privatkunden verkaufte Pfandbriefe – Namenspapiere – mit einer Laufzeit von mehr als 5 Jahren;921843;9218;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Tagesgelder von Geschäftskunden;922111;9221;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Tagesgelder von Privatkunden;922113;9221;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für andere befristete Verbindlichkeiten gegenüber Geschäftskunden mit einer Laufzeit oder Kündigungsfrist bis  zu 5 Jahren;922121;9221;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für andere befristete Verbindlichkeiten gegenüber Geschäftskunden mit einer Laufzeit oder Kündigungsfrist von  mehr als 5 Jahren;922122;9221;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für andere befristete Verbindlichkeiten gegenüber Privatkunden mit einer Laufzeit oder Kündigungsfrist bis zu  drei Monaten;922131;9221;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für andere befristete Verbindlichkeiten gegenüber Privatkunden mit einer Laufzeit oder Kündigungsfrist von mehr  als drei Monaten;922132;9221;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen und Kredit- bzw. Überziehungsprovisionen für Kontokorrentkredite auf Geschäftsgirokonten (ohne solche  öffentlicher Haushalte);922211;9222;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen und Kredit- bzw. Überziehungsprovisionen für Kontokorrentkredite an öffentliche Haushalte;922212;9222;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen und Überziehungsprovisionen für Kontokorrentkredite auf Privatgirokonten;922213;9222;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Sichteinlagen auf normalverzinslichen Geschäftsgirokonten;922221;9222;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Sichteinlagen auf höherverzinslichen Geschäftsgirokonten;922222;9222;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Sichteinlagen auf normalverzinslichen Privatgirokonten;922223;9222;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Sichteinlagen auf höherverzinslichen Privatgirokonten;922224;9222;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Akzeptkreditprovisionen;922300;9223;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Weiterleitungsmittel von Nichtkreditinstituten;922500;9225;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Fremdwährungs-Kontokorrentkredite an Kunden – an Geschäftskunden;922611;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Fremdwährungs-Kontokorrentkredite an Kunden – an öffentliche Haushalte;922612;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Fremdwährungs-Kontokorrentkredite an Kunden – an Privatkunden;922613;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Fremdwährungs-Sichteinlagen von Kunden;922620;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Fremdwährungs-Tagesgelder von Kunden – Geschäftskunden;922631;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für Fremdwährungs-Tagesgelder von Kunden – Privatkunden;922633;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für andere Fremdwährungsverbindlichkeiten gegenüber Geschäftskunden mit einer Laufzeit oder  Kündigungsfrist bis zu 5 Jahren;922641;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für andere Fremdwährungsverbindlichkeiten gegenüber Geschäftskunden mit einer Laufzeit oder  Kündigungsfrist von mehr als 5 Jahren;922642;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;922;*;Zinsen für andere Fremdwährungsverbindlichkeiten gegenüber Privatkunden mit einer Laufzeit oder  Kündigungsfrist bis zu drei Monaten;922651;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für andere Fremdwährungsverbindlichkeiten gegenüber Privatkunden mit einer Laufzeit oder Kündigungsfrist von mehr als drei Monaten;922652;9226;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für laufendes Guthaben bei der eigenen GZ (Zinserträge des Kontos 411000);924111;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für laufende Verbindlichkeiten gegenüber der eigenen GZ (Zinsaufwendungen des Kontos 411000);924112;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Tagesgelder bei der eigenen GZ;924120;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für befristete Forderungen an die eigene GZ mit einer Laufzeit von weniger als 1 Monat;924131;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für befristete Forderungen an die eigene GZ mit einer Laufzeit von mindestens 1 Monat bis zu 1 Jahr;924132;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für befristete Forderungen an die eigene GZ mit einer Laufzeit von mehr als 1 Jahr;924133;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Schuldscheine, Namensschuldverschreibungen und rückzahlbare, nicht börsenfähige Genussrechte der eigenen  GZ;924150;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für laufende Fremdwährungs-Guthaben bei der eigenen GZ;924161;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für laufende Fremdwährungsverbindlichkeiten gegenüber der eigenen GZ;924162;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Tagesgelder bei der eigenen GZ;924163;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Forderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von mehr als einem Tag,  aber weniger als 1 Monat;924164;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Forderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von mindestens 1 Monat  bis zu 1 Jahr;924165;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Forderungen an die eigene GZ mit einer Laufzeit oder Kündigungsfrist von mehr als 1 Jahr;924166;9241;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinserträge aus Mindestreservehaltung und Übernachtguthaben bei der Bbk;924210;9242;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinserträge aus anderen Guthaben bei der Bbk – mit einer Laufzeit von weniger als 1 Monat;924241;9242;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinserträge aus anderen Guthaben bei der Bbk – mit einer Laufzeit von mindestens 1 Monat bis zu 1 Jahr;924242;9242;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinserträge aus anderen Guthaben bei der Bbk – mit einer Laufzeit von mehr als 1 Jahr;924243;9242;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für laufende Guthaben bei anderen Kreditinstituten;924410;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für laufende Verbindlichkeiten gegenüber anderen Kreditinstituten;924420;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Tagesgelder bei anderen Kreditinstituten;924430;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Forderungen an andere Kreditinstitute mit einer Laufzeit von weniger als 1 Monat;924441;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Forderungen an andere Kreditinstitute mit einer Laufzeit von mindestens 1 Monat bis zu 1 Jahr;924442;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Forderungen an andere Kreditinstitute mit einer Laufzeit von mehr als 1 Jahr;924443;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Schuldscheine, Namensschuldverschreibungen und rückzahlbare, nicht börsenfähige Genussrechte anderer  Kreditinstitute;924450;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für laufende Fremdwährungs-Guthaben bei anderen Kreditinstituten;924461;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für laufende Fremdwährungs-Verbindlichkeiten gegenüber anderen Kreditinstituten;924462;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Tagesgelder bei anderen Kreditinstituten;924463;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Forderungen an andere Kreditinstitute mit einer Laufzeit oder Kündigungsfrist von  weniger als 1 Monat;924464;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Forderungen an andere Kreditinstitute mit einer Laufzeit oder Kündigungsfrist von  mindestens 1 Monat bis zu 1 Jahr;924465;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Forderungen an andere Kreditinstitute mit einer Laufzeit oder Kündigungsfrist von  mehr als 1 Jahr;924466;9244;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Tagesgelder von Kreditinstituten;924511;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für andere befristete Verbindlichkeiten gegenüber Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von  weniger als 1 Monat (ohne Weiterleitungsmittel);924512;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für andere befristete Verbindlichkeiten gegenüber Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von mindestens 1 Monat bis zu 5 Jahren (ohne  Weiterleitungsmittel);924513;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für andere befristete Verbindlichkeiten gegenüber Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von  mehr als 5 Jahren (ohne Weiterleitungsmittel);924514;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Weiterleitungsmittel von Kreditinstituten;924519;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Übernachtkredit und Offenmarktkredite der Bbk mit einer Laufzeit von weniger als 1 Monat;924521;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Offenmarktkredite der Bbk mit einer Laufzeit von 1 Monat oder länger;924522;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für verkaufte eigene Akzepte und Solawechsel;924530;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für verkaufte, den Kreditnehmern nicht abgerechnete eigene Ziehungen;924550;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Tagesgelder von Kreditinstituten;924561;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Verbindlichkeiten gegenüber Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von  weniger als 1 Monat;924562;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Verbindlichkeiten gegenüber Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von  mindestens 1 Monat bis zu 5 Jahren;924563;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für Fremdwährungs-Verbindlichkeiten gegenüber Kreditinstituten mit einer Laufzeit oder Kündigungsfrist von  mehr als 5 Jahren;924564;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für an Kreditinstitute verkaufte Sparkassenbriefe mit einer Laufzeit bis zu 5 Jahren;924591;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für an Kreditinstitute verkaufte Sparkassenbriefe mit einer Laufzeit von mehr als 5 Jahren;924592;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für an Kreditinstitute verkaufte Sparkassenobligationen und Inhaberschuldverschreibungen mit einer Laufzeit bis zu 5  Jahren;924593;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für an Kreditinstitute verkaufte Sparkassenobligationen und Inhaberschuldverschreibungen mit einer Laufzeit von  mehr als 5 Jahren;924594;9245;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für an Kreditinstitute verkaufte Pfandbriefe – Inhaberpapiere – – mit einer Laufzeit von bis zu 5 Jahren;924611;9246;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für an Kreditinstitute verkaufte Pfandbriefe – Inhaberpapiere – – mit einer Laufzeit von mehr als 5 Jahren;924612;9246;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;924;*;Zinsen für an Kreditinstitute verkaufte Pfandbriefe – Namenspapiere – – mit einer Laufzeit von bis zu 5 Jahren;924621;9246;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;925;*;Zinsen für an Kreditinstitute verkaufte Pfandbriefe – Namenspapiere – – mit einer Laufzeit von mehr als 5 Jahren;924622;9246;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;925;*;Zinsen und Provisionen für von Kunden angekaufte Wechsel (Zinserträge aus HK 511100 ohne Euro-Auslandswechsel  sowie HK 513000);925111;9251;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;925;*;Zinsen und Provisionen für von Kreditinstituten angekaufte Wechsel (Zinserträge aus HK 511210);925112;9251;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;925;*;Zinsen und Provisionen für rediskontierte Wechsel (Zinsaufwendungen für HK 511300, HK 511230 ohne Euro- Auslandswechsel);925113;9251;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;925;*;Zinsen und Provisionen für von Kunden angekaufte Euro- Auslandswechsel sowie Fremdwährungswechsel (Zinserträge  aus HK 516100 und HK 516210 sowie ggf. auf HK 511100  gebuchten Euro-Auslandswechseln);925161;9251;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;925;*;Zinsen und Provisionen für von Kreditinstituten angekaufte Euro-Auslandswechsel sowie Fremdwährungswechsel  (Zinserträge aus HK 516210 sowie ggf. auf HK 511210  gebuchten Euro-Auslandswechseln);925162;9251;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;925;*;Zinsen und Provisionen für rediskontierte Euro- Auslandswechsel sowie Fremdwährungswechsel  (Zinsaufwendungen für HK 516300, HK 516230 sowie ggf. auf HK 511300 und HK 511230 gebuchte Euro-Auslandswechsel);925163;9251;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Diskont und Rediskont für Schatzwechsel und unverzinsliche Schatzanweisungen;925200;9252;x;;x;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Darlehen an Geschäftskunden/Wohnungsbau mit einer Laufzeit bis zu 5 Jahren;926110;9261;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Darlehen an Geschäftskunden/Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren;926120;9261;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für sonstige Darlehen an Geschäftskunden mit einer Laufzeit bis zu 5 Jahren;926130;9261;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für sonstige Darlehen an Geschäftskunden mit einer Laufzeit von mehr als 5 Jahren;926140;9261;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Darlehen an Privatkunden/Wohnungsbau mit einer Laufzeit bis zu 5 Jahren;926210;9262;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Darlehen an Privatkunden/Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren;926220;9262;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Konsumentenkredite;926230;9262;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Darlehen an öffentliche Haushalte;926300;9263;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Schuldscheine, Namensschuldverschreibungen und rückzahlbare, nicht börsenfähige Genussrechte von  Nichtkreditinstituten;926500;9265;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an Geschäftskunden – Wohnungsbau mit einer Laufzeit bis zu 5 Jahren;926611;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an Geschäftskunden – Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren;926612;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an Geschäftskunden – Sonstige mit einer Laufzeit bis zu 5 Jahren;926613;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an Geschäftskunden – Sonstige mit einer Laufzeit von mehr als 5 Jahren;926614;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an Privatkunden – Wohnungsbau mit einer Laufzeit bis zu 5 Jahren;926621;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an Privatkunden – Wohnungsbau mit einer Laufzeit von mehr als 5 Jahren;926622;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an Privatkunden – Sonstige Darlehen mit einer Laufzeit bis zu 5 Jahren;926623;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an Privatkunden – Sonstige Darlehen mit einer Laufzeit von mehr als 5 Jahren;926624;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;926;*;Zinsen für Fremdwährungs-Darlehen an öffentliche Haushalte;926630;9266;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;927;*;Zinsen für Weiterleitungsdarlehen;926900;9269;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;927;*;Zinsen für festverzinsliche Wertpapiere (Bestandskonten 711000, 712000 und 713000 sowie 751000, 752000 und  753000) – mit festem Zinssatz (Liquiditätsreserve);927111;9271;;;;;x;;;;
+92;927;*;Zinsen für festverzinsliche Wertpapiere (Bestandskonten 711000, 712000 und 713000 sowie 751000, 752000 und  753000) – sonstige (Liquiditätsreserve);927119;9271;;;;;x;;;;
+92;927;*;Laufende Erträge (Dividenden) aus Aktien – steuerfrei – (Bestandskonten 714000 und 754000) (Liquiditätsreserve);927140;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus Spezialfondsanteilen (Bestandskonten 715000 und 755000) – laufende Erträge (aus Zinseinkünften) (Liquiditätsreserve);927151;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus Spezialfondsanteilen (Bestandskonten 715000 und 755000) – laufende Erträge (aus Dividendeneinkünften) – steuerfrei – (Liquiditätsreserve);927152;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus Spezialfondsanteilen (Bestandskonten 715000 und 755000) – laufende Erträge (ausgeschüttete Kursgewinne festverzinslicher Wertpapiere und Erträge aus  Termingeschäften) (Liquiditätsreserve);927153;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus Spezialfondsanteilen (Bestandskonten 715000 und 755000) – ordentliche Erträge (ausgeschüttete Kursgewinne von Aktien) – steuerfrei – (Liquiditätsreserve);927154;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus Spezialfondsanteilen (Bestandskonten 715000 und 755000) – ausgeschüttete, bereits versteuerte oder steuerfreie aperiodische Erträge (Liquiditätsreserve);927158;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus Spezialfondsanteilen (Bestandskonten 715000 und 755000) – ausgeschüttete, sonstige aperiodische Erträge (Liquiditätsreserve);927159;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus anderen nicht festverzinslichen Wertpapieren (Bestandskonten 716000 und 756000) – Genussscheine (Liquiditätsreserve);927161;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus anderen nicht festverzinslichen Wertpapieren (Bestandskonten 716000 und 756000) – Sonstige Investmentanteile (Publikumsfonds) (aus Zinseinkünften und Kursgewinnen von festverzinslichen  Wertpapieren) (Liquiditätsreserve);927162;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus anderen nicht festverzinslichen Wertpapieren (Bestandskonten 716000 und 756000) – Sonstige Investmentanteile (Publikumsfonds) (aus Dividendeneinkünften und Kursgewinnen von Aktien) –  steuerfrei – (Liquiditätsreserve);927163;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus anderen nicht festverzinslichen Wertpapieren (Bestandskonten 716000 und 756000) – sonstige andere (Liquiditätsreserve);927164;9271;;;;;x;;;;
+92;927;*;Zinsen für vor Fälligkeit zurückgekaufte eigene Schuldverschreibungen – börsenfähige (Liquiditätsreserve);927171;9271;;;;;x;;;;
+92;927;*;Zinsen für vor Fälligkeit zurückgekaufte eigene Schuldverschreibungen – nicht börsenfähige (Liquiditätsreserve);927179;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus Planvermögen nach § 246 Abs. 2 Satz 2 HGB (Liquiditätsreserve);927180;9271;;;;;x;;;;
+92;927;*;Laufende Erträge aus Handelsaktiva (ohne Derivate) -  Forderungen an Kreditinstitute;927210;9272;;;;;x;;;;
+92;927;*;Laufende Erträge aus Handelsaktiva (ohne Derivate) -  Forderungen an Kunden;927220;9272;;;;;x;;;;
+92;927;*;Laufende Erträge aus Handelsaktiva (ohne Derivate) -  Schuldverschreibungen und andere festverzinsliche Wertpapiere;927230;9272;;;;;x;;;;
+92;927;*;Laufende Erträge aus Handelsaktiva (ohne Derivate) -  Aktien und andere nicht festverzinsliche Wertpapiere;927240;9272;;;;;x;;;;
+92;927;*;Laufende Erträge aus Handelsaktiva (ohne Derivate) -  Sonstige Vermögensgegenstände;927250;9272;;;;;x;;;;
+92;927;*;Zinsen für Ausgleichsforderungen gegen die öffentliche Hand -  Zinserträge aus Buchforderungen;927431;9274;;;;;x;;;;
+92;927;*;Zinsen für Ausgleichsforderungen gegen die öffentliche Hand -  Zinserträge aus in Schuldverschreibungen umgewandelten Ausgleichsforderungen;927432;9274;;;;;x;;;;
+92;927;*;Laufende Erfolge aus Handelsderivaten;927700;9277;;;;;x;;;;
+92;927;*;Laufende Aufwendungen aus Handelspassiva (ohne Derivate) -  Verbindlichkeiten gegenüber Kreditinstituten;927810;9278;;;;;x;;;;
+92;927;*;Laufende Aufwendungen aus Handelspassiva (ohne Derivate) -  Verbindlichkeiten gegenüber Kunden;927820;9278;;;;;x;;;;
+92;927;*;Laufende Aufwendungen aus Handelspassiva (ohne Derivate) -  Verbriefte Verbindlichkeiten;927830;9278;;;;;x;;;;
+92;928;*;Laufende Aufwendungen aus Handelspassiva (ohne Derivate) -  Sonstige Verbindlichkeiten;927840;9278;;;;;x;;;;
+92;929;*;Zinserträge aus eigenen Bausparverträgen;928400;9284;;;;;;;;x;
+92;929;*;Sonstige ordentliche Zinsaufwendungen aus Kredit- und Geldmarktgeschäften;929011;9290;x;;;;;;;x;
+92;929;*;Zinsaufwendungen für Swaps und ähnliche Finanzinstrumente (wie z.B. Floors, Caps, Collars);929012;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Übrige sonstige ordentliche Zinsaufwendungen;929019;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Aperiodische Zinsaufwendungen;929020;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Sonstige ordentliche Zinserträge aus Kredit- und Geldmarktgeschäften;929031;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Zinserträge aus Swaps und ähnlichen Finanzinstrumenten (wie z.B. Floors, Caps, Collars);929032;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Übrige sonstige ordentliche Zinserträge;929039;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Aperiodische Zinserträge aus Kredit- und Geldmarktgeschäften;929041;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Aperiodische Zinserträge aus Wertpapieren und Schuldbuchforderungen;929042;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Sonstige aperiodische Zinserträge;929049;9290;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Zinsen für Hafteinlagen;929122;9291;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Zinsen für Genussrechtskapital;929123;9291;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Zinsen für nachrangige Verbindlichkeiten;929124;9291;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+92;929;*;Zinsaufwendungen aus der Aufzinsung von Rückstellungen – für Ratensparverträge;929211;9292;;x;;;;;;;
+92;929;*;Zinsaufwendungen aus der Aufzinsung von Rückstellungen – für Einmalanlagen;929212;9292;;x;;;;;;;
+92;929;*;Zinsaufwendungen aus der Aufzinsung von Rückstellungen – für Personalaufwendungen;929213;9292;;;;;;;;x;
+92;929;*;Zinsaufwendungen aus der Aufzinsung von Rückstellungen – für Altersversorgungsverpflichtungen;929214;9292;;;;;;;;x;
+92;929;*;Zinsaufwendungen aus der Aufzinsung von Rückstellungen – Sonstiges;929219;9292;;;;;;;;x;
+92;929;*;Zinserträge aus der Abzinsung von Rückstellungen – für Ratensparverträge;929221;9292;;x;;;;;;;
+92;929;*;Zinserträge aus der Abzinsung von Rückstellungen – für Einmalanlagen;929222;9292;;x;;;;;;;
+92;929;*;Zinserträge aus der Abzinsung von Rückstellungen – Personalaufwendungen;929223;9292;;;;;;;;x;
+92;929;*;Zinserträge aus der Abzinsung von Rückstellungen – für Altersversorgungsverpflichtungen;929224;9292;;;;;;;;x;
+93;931;*;Zinserträge aus der Abzinsung von Rückstellungen – Sonstiges;929229;9292;;;;;;;;x;
+93;932;*;Gebühren aus dem Sparverkehr;931000;9310;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;932;*;Bearbeitungsgebühren für Kontokorrentkredite;932210;9322;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;932;*;Provisionen und Gebühren aus Geschäftsgirokonten;932221;9322;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;932;*;Provisionen und Gebühren aus Privatgirokonten;932223;9322;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;932;*;Gebühren im Barzahlungsverkehr;932290;9322;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;932;*;Bearbeitungsgebühren für Fremdwährungs- Kontokorrentkredite – Geschäftsgirokonten;932611;9326;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;932;*;Bearbeitungsgebühren für Fremdwährungs- Kontokorrentkredite – Privatgirokonten;932613;9326;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;932;*;Provisionen und Gebühren aus Fremdwährungs-Girokonten – Geschäftsgirokonten;932621;9326;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;933;*;Provisionen und Gebühren aus Fremdwährungs-Girokonten – Privatgirokonten;932623;9326;x;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;933;*;Provisionen und Gebühren aus dem Sortengeschäft;933210;9332;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;933;*;Provisionen und Gebühren für Reiseschecks;933220;9332;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;933;*;Provisionen und Gebühren aus Edelmetallgeschäften;933230;9332;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;935;*;Provisionen und Gebühren für die Einlösung gekündigter oder ausgeloster Schuldverschreibungen, den Einzug von Zins- und  Dividendenscheinen sowie die Besorgung neuer Zins- und  Dividendenscheinbogen (umsatzsteuerpflichtig);933300;9333;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;935;*;Provisionen und Gebühren für den Ankauf von Euro- Inlandswechseln;935110;9351;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;935;*;Provisionen und Gebühren für den Ankauf von Euro- Auslandswechseln sowie Fremdwährungswechseln;935160;9351;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;935;*;Provisionen und Gebühren für den Einzug von Wechseln;935300;9353;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;935;*;Provisionen und Gebühren für den Einzug von Schecks und Lastschriften;935400;9354;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;936;*;Provisionen und Gebühren für den Einzug von Dokumenten;935500;9355;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;936;*;Provisionen und Gebühren aus dem Darlehensgeschäft (mit Zinscharakter);936100;9361;;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;936;*;Provisionen und Gebühren für durchlaufende und Verwaltungskredite sowie Führungsprovisionen für  Konsortialkredite;936410;9364;;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;936;*;Provisionen und Gebühren für andere Treuhand- und Verwaltungsgeschäfte;936420;9364;;x;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Andere Gebühren aus dem Darlehensgeschäft (ohne Zinscharakter);936900;9369;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Auslandsgeschäften – nicht dokumentärer Zahlungsverkehr (Eigengeschäft);937301;9373;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Auslandsgeschäften – Dokumentengeschäfte (Eigengeschäft);937302;9373;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Auslandsgeschäften – Devisengeschäfte mit Kunden;937303;9373;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Auslandsgeschäften – Bearbeitung von Auslandsfinanzierungen;937304;9373;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Auslandsgeschäften – nicht dokumentärer Zahlungsverkehr (Botengeschäft);937308;9373;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Auslandsgeschäften – Dokumentengeschäfte (Botengeschäft);937309;9373;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Wertpapiergeschäften mit Kunden (Boten- und Kommissionsgeschäfte) – festverzinsliche Wertpapiere (ohne eigene Schuldverschreibungen);937610;9376;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Wertpapiergeschäften mit Kunden (Boten- und Kommissionsgeschäfte) – Aktien und andere nicht festverzinsliche Wertpapiere;937640;9376;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Wertpapiergeschäften mit Kunden (Boten- und Kommissionsgeschäfte) – Investmentanteile;937650;9376;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Wertpapiergeschäften mit Kunden (Boten- und Kommissionsgeschäfte) – eigene Schuldverschreibungen;937670;9376;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Provisionen und Gebühren aus Eurex-Geschäften im Kundeninteresse;937800;9378;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Depotgebühren (umsatzsteuerpflichtig);937910;9379;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Gebühren für Schließfächer (umsatzsteuerpflichtig);937920;9379;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;937;*;Vermögensmanagementvergütungen (umsatzsteuerpflichtig);937970;9379;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;938;*;Sonstige Provisionen und Gebühren aus der Verwahrung und Verwaltung von Wertpapieren (umsatzsteuerpflichtig);937990;9379;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisionen und Gebühren für Bürgschaften;938900;9389;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Ordentliche Provisions- und Gebührenaufwendungen;939010;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisions- und Gebührenaufwendungen für Dienstleistungsgeschäfte;939011;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;An Konsorten abgeführte Avalprovisionsanteile;939012;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Bereitstellungsprovisionen für aufgenommene Darlehen;939013;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisions- und Gebührenaufwendungen aus Handelsbeständen (Anschaffungsnebenkosten);939014;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Sonstige ordentliche Provisions- und Gebührenaufwendungen;939019;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Aperiodische Provisions- und Gebührenaufwendungen für Dienstleistungsgeschäfte;939021;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Sonstige aperiodische Provisions- und Gebührenaufwendungen;939029;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisionserträge aus der Vermittlung von Bausparverträgen (umsatzsteuerfrei);939031;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisionserträge aus der Vermittlung von Immobiliengeschäften (umsatzsteuerpflichtig);939032;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisionserträge aus der Vermittlung von Versicherungsverträgen (umsatzsteuerfrei);939033;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisionserträge aus der Vermittlung sonstiger Geschäfte (umsatzsteuerfrei);939034;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisionserträge aus der Vermittlung sonstiger Geschäfte (umsatzsteuerpflichtig);939035;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;"Provisionserträge aus der Vermittlung von Geschäften über den &spk;-Broker";939036;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisionserträge aus der Vermittlung von Vermögensmanagementverträgen;939037;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisionserträge Kreditkartengeschäft;939041;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Übrige sonstige ordentliche Provisions- und Gebührenerträge;939042;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Übrige sonstige ordentliche Provisions- und Gebührenerträge (umsatzsteuerpflichtig);939043;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Provisions- und Gebührenerträge aus Handelsbeständen;939044;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Aperiodische Provisions- und Gebührenerträge aus Kreditgeschäften (mit Zinscharakter);939051;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+93;939;*;Aperiodische Provisions- und Gebührenerträge aus Dienstleistungsgeschäften (umsatzsteuerfrei);939052;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+94;941;*;Aperiodische Provisions- und Gebührenerträge aus Dienstleistungsgeschäften (umsatzsteuerpflichtig);939053;9390;x;;;;;;;;manuelle Umsätze ab xxx, atypische (Soll auf Haben, Haben auf Soll), 
+94;941;*;Gehälter der Vollzeitkräfte;941110;9411;;;;;;;x;;
+94;941;*;Gehälter der Teilzeitkräfte;941120;9411;;;;;;;x;;
+94;941;*;Vergütungen der Auszubildenden;941140;9411;;;;;;;x;;
+94;941;*;Löhne und Gehälter der nicht bankspezifisch beschäftigten Mitarbeiter;941150;9411;;;;;;;x;;
+94;941;*;Soziale Abgaben für Vollzeitkräfte;941210;9412;;;;;;;x;;
+94;941;*;Soziale Abgaben für Teilzeitkräfte;941220;9412;;;;;;;x;;
+94;941;*;Soziale Abgaben für Auszubildende;941240;9412;;;;;;;x;;
+94;941;*;Soziale Abgaben für nicht bankspezifisch beschäftigte Mitarbeiter;941250;9412;;;;;;;x;;
+94;941;*;Beiträge zu Zusatzversorgungskassen für Vollzeitkräfte;941310;9413;;;;;;;x;;
+94;941;*;Beiträge zu Zusatzversorgungskassen für Teilzeitkräfte;941320;9413;;;;;;;x;;
+94;941;*;Beiträge zu Zusatzverordnungskassen für Auszubildende;941340;9413;;;;;;;x;;
+94;941;*;Beiträge zu Zusatzversorgungskassen für nicht bankspezifisch beschäftigte Mitarbeiter;941350;9413;;;;;;;x;;
+94;941;*;Nichtruhegehaltsfähige Aufwandsentgelte;941400;9414;;;;;;;x;;
+94;941;*;Beihilfen und Unterstützungen;941510;9415;;;;;;;x;;
+94;941;*;Freiwillige soziale Leistungen;941520;9415;;;;;;;x;;
+94;941;*;Ruhegehälter;941610;9416;;;;;;;x;;
+94;941;*;Übergangsgehälter;941620;9416;;;;;;;x;;
+94;941;*;Versorgungsleistungen an Witwen und Waisen;941630;9416;;;;;;;x;;
+94;941;*;Beiträge und Umlagen an Ruhegehaltseinrichtungen;941640;9416;;;;;;;x;;
+94;941;*;Zuführungen zu den Rückstellungen für Pensionsanwartschaften;941650;9416;;;;;;;x;;
+94;941;*;Zuführungen zur Rückstellung für mittelbare Versorgungsverpflichtungen;941660;9416;;;;;;;x;;
+94;942;*;Sonstige Personalaufwendungen;941900;9419;;;;;;;x;;
+94;942;*;Mieten und ähnliche Aufwendungen;942100;9421;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;942;*;Aufwand für Fremdreparaturen und Instandhaltung für Grundstücke u. Gebäude;942110;9421;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;942;*;Leasing u. ähnliche Aufwendungen für Grundstück und Gebäude;942150;9421;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;942;*;Heizung;942200;9422;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;942;*;Reinigung;942300;9423;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;942;*;Beleuchtung, Kraft und Wasser;942400;9424;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;943;*;Sonstige Hauswirtschaftskosten;942900;9429;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;943;*;Mieten für Einrichtungsgegenstände und Maschinen;943100;9431;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;943;*;Leasing für bewegliche Gegenstände und Wirtschaftsgüter;943150;9431;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;943;*;Instandhaltung der Einrichtungsgegenstände und Maschinen;943200;9432;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;943;*;Kraftfahrzeugaufwendungen;943300;9433;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;943;*;Informationsbeschaffung;943400;9434;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;944;*;Bürobedarf;943500;9435;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;944;*;Aufwendungen für EDV-Anlagen – Hardware;944100;9441;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;944;*;Aufwendungen für EDV-Anlagen – Software;944200;9442;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;944;*;Gebühren für EDV-Übertragungsleitungen;944300;9443;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;944;*;Aufwendungen für Rechenzentrum;944410;9444;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;944;*;Aufwendungen für sonstige EDV-Dienstleistungen Dritter;944420;9444;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Aufwendungen für Konzessionen und Liezenzen;944430;9444;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Steuerlich abziehbare Aufwendungen für Geschenke von geringem Wert;945100;9451;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Übrige steuerlich abziehbare Aufwendungen für Geschenke;945200;9452;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Steuerlich nicht abziehbare Aufwendungen für Geschenke;945300;9453;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Werbegeschenkspargutscheine;945400;9454;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Sonstige Aufwendungen für Werbung, Verkaufsförderung, Öffentlichkeitsarbeit und Marktforschung -  Veranstaltungen;945910;9459;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Sonstige Aufwendungen für Werbung, Verkaufsförderung, Öffentlichkeitsarbeit und Marktforschung -  Marktforschung;945920;9459;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Sonstige Aufwendungen für Werbung, Verkaufsförderung, Öffentlichkeitsarbeit und Marktforschung -  Gemeinschaftswerbung;945930;9459;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;945;*;Sonstige Aufwendungen für Werbung, Verkaufsförderung, Öffentlichkeitsarbeit und Marktforschung -  Individualwerbung;945940;9459;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Sonstige Aufwendungen für Werbung, Verkaufsförderung, Öffentlichkeitsarbeit und Marktforschung -  Sonstige Aufwendungen für Werbung, Verkaufsförderung und Öffentlichkeitsarbeit;945990;9459;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Porto- und Frachtaufwendungen, sonstige Postgebühren;946100;9461;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Fernsprech- und Fernschreibgebühren;946200;9462;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Auskunftsgebühren;946300;9463;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Gerichtskosten, Anwalts- und Notargebühren;946400;9464;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Prüfungsgebühren;946500;9465;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Aufwendungen für die Vermittlungstätigkeit Dritter im Aktiv- oder Passivgeschäft;946800;9468;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Aufwendungen für Unternehmensberatungsleistungen Dritter;946910;9469;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;946;*;Aufwendungen im Kartengeschäft und Herstellungsaufwand für SparkassenCards;946920;9469;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Sonstige Aufwendungen für Dienstleistungen Dritter;946990;9469;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Aufwendungen für Aus- und Fortbildung;948100;9481;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Sonstige Aufwendungen für Personal;948150;9481;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Reisekosten;948200;9482;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Kreditversicherungen;948310;9483;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Andere Versicherungen;948320;9483;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Plichtbeiträge – steuerlich abzugsfähig –;948410;9484;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Bankenabgabe – steuerlich nicht abzugsfähig –;948420;9484;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Dispositionsfonds;948500;9485;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Bewirtungsaufwendungen für Geschäftsfreunde;948610;9486;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Bewirtungsaufwendungen für eigene Mitarbeiter;948620;9486;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Aufwendungen für Aufmerksamkeiten;948630;9486;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Aufwendungen für die Beherbergung von Geschäftsfreunden;948640;9486;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Entschädigung der nebenberuflichen Annahmestellenverwalter und nebenberuflicher Abholer;948910;9489;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Vergütungen an Mitglieder des Verwaltungsrates;948920;9489;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Aufwendungen für Sitzungen der Zweckverbandsversammlung;948930;9489;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;948;*;Aufwendungen für Personaleinstellungen;948940;9489;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Übrige sonstige Sachaufwendungen für das Sparkassengeschäft;948990;9489;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Aperiodische Löhne und Gehälter sowie sonstige Zuwendungen;949110;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Aperiodische soziale Abgaben;949120;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Aperiodische Aufwendungen für Beihilfen und Unterstützung;949130;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Aperiodische freiwillige soziale Leistungen;949140;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Aperiodische Aufwendungen für Altersversorgung (ohne Zuführungen zu den Pensionsrückstellungen);949160;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Zuführungen zu den Rückstellungen für laufende Pensionen;949171;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Aperiodische Zuführungen zu den Rückstellungen für Pensionsanwartschaften;949172;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Aperiodische Zuführungen zu den Rückstellungen für mittelbare Versorgungsverpflichtungen;949173;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+94;949;*;Aperiodische sonstige Personalaufwendungen (vgl. HK 941900);949190;9491;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;951;*;Aperiodische Sachaufwendungen für das Sparkassengeschäft;949200;9492;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;951;*;Instandhaltungsaufwand für sparkassenbetrieblich genutzte Grundstücke und Gebäude bzw. -teile;951111;9511;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;951;*;Versicherungsaufwendungen für sparkassenbetrieblich genutzte Grundstücke und Gebäude bzw. -teile;951112;9511;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;951;*;Sonstige Aufwendungen für sparkassenbetrieblich genutzte Grundstücke und Gebäude;951113;9511;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;951;*;Aufwendungen für nicht sparkassenbetrieblich genutzte Grundstücke und Gebäude bzw. -teile;951120;9511;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;951;*;Aufwendungen für gemischt genutzte Grundstücke und Gebäude;951130;9511;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;951;*;Aperiodische Aufwendungen für sparkassenbetrieblich genutzte Grundstücke und Gebäude bzw. -teile;951910;9519;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;952;*;Aperiodische Aufwendungen für nicht sparkassenbetrieblich genutzte Grundstücke und Gebäude bzw. -teile;951920;9519;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische (Haben)
+95;952;*;Ordentliche Grundstücks- und Gebäudeerträge;952100;9521;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische
+96;961;*;Aperiodische Grundstücks- und Gebäudeerträge;952900;9529;x;;;;;;;;IKS, Stichprobe nach Zufall, atypische
+96;961;*;Körperschaftsteuer;961100;9611;;;;;;;;x;
+96;961;*;Kapitalertragsteuer;961200;9612;;;;;;;;x;
+96;961;*;Gewerbesteuer;961300;9613;;;;;;;;x;
+96;961;*;Anrechenbare ausländische Quellensteuer;961410;9614;;;;;;;;x;
+96;961;*;Nicht anrechenbare ausländische Quellensteuer;961420;9614;;;;;;;;x;
+96;962;*;Steuerabgrenzung nach § 274 HGB – Aufwendungen;961500;9615;;;;;;;;x;
+96;962;*;Sonstige Steuern;962000;9620;;;;;;;;x;
+96;962;*;Grundsteuern auf sparkassenbetrieblich genutzte Grundstücke und Gebäude bzw. Gebäudeteile;962310;9623;;;;;;;;x;
+96;962;*;Grundsteuer auf nicht sparkassenbetrieblich genutzte Grundstücke und Gebäude bzw. Gebäudeteile;962320;9623;;;;;;;;x;
+96;963;*;Übrige sonstige Steuern;962900;9629;;;;;;;;x;
+96;963;*;Steuererstattungen und Erträge aus der Auflösung von Steuerrückstellungen – Steuern vom Einkommen und vom Ertrag;963100;9631;;;;;;;;x;
+96;963;*;Steuererstattungen und Erträge aus der Auflösung von Steuerrückstellungen – Sonstige Steuern;963200;9632;;;;;;;;x;
+96;969;*;Steuerabgrenzung nach § 274 HGB – Erträge;963500;9635;;;;;;;;x;
+96;969;*;Aperiodische Steuern vom Einkommen und vom Ertrag;969100;9691;;;;;;;;x;
+97;971;*;Aperiodische sonstige Steuern;969200;9692;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Wertberichtigungen auf Forderungen (ohne Schuldscheine und Namensschuldverschreibungen) bzw. Rückstellungen im  Kreditgeschäft;971110;9711;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Wertberichtigungen auf Schuldscheine und Namensschuldverschreibungen;971120;9711;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Schuldverschreibungen und  andere festverzinsliche Wertpapiere (Liquiditätsreserve);971210;9712;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Aktien – steuerlich nicht  abzugsfähig –  (Liquiditätsreserve);971240;9712;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Spezialfondsanteile  (Liquiditätsreserve);971250;9712;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf andere nicht festverzinsliche  Wertpapiere (Liquiditätsreserve);971260;9712;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf zurückgekaufte eigene  Schuldverschreibungen (Liquiditätsreserve);971270;9712;;;;;;;;x;
+97;971;*;Abschreibungen auf Planvermögen nach § 246 Abs. 2 Satz 2 HGB (Liquiditätsreserve);971280;9712;;;;;;;;x;
+97;971;*;Bewertungsaufwand für Handelsbestände -  Forderungen an Kreditinstitute;971311;9713;;;;;;;;x;
+97;971;*;Bewertungsaufwand für Handelsbestände -  Forderungen an Kunden;971312;9713;;;;;;;;x;
+97;971;*;Bewertungsaufwand für Handelsbestände -  Schuldverschreibungen und andere festverzinsliche Wertpapiere;971313;9713;;;;;;;;x;
+97;971;*;Bewertungsaufwand für Handelsbestände -  Aktien und andere nicht festverzinsliche Wertpapiere;971314;9713;;;;;;;;x;
+97;971;*;Bewertungsaufwand für Handelsbestände -  Sonstige Vermögensgegenstände;971315;9713;;;;;;;;x;
+97;971;*;Handelsderivate -  Derivate mit Fremdwährungsrisiken;971321;9713;;;;;;;;x;
+97;971;*;Handelsderivate -  Derivate mit Zinsänderungsrisiken;971322;9713;;;;;;;;x;
+97;971;*;Handelsderivate -  Derivate mit sonstigen Marktpreisrisiken;971323;9713;;;;;;;;x;
+97;971;*;Handelspassiva (ohne Derivate) Verbindlichkeiten gegenüber Kreditinstituten;971331;9713;;;;;;;;x;
+97;971;*;Handelspassiva (ohne Derivate) Verbindlichkeiten gegenüber Kunden;971332;9713;;;;;;;;x;
+97;971;*;Handelspassiva (ohne Derivate) Verbriefte Verbindlichkeiten;971333;9713;;;;;;;;x;
+97;971;*;Handelspassiva (ohne Derivate) Sonstige Verbindlichkeiten;971334;9713;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Schuldverschreibungen und  andere festverzinsliche Wertpapiere (Anlagebestand);971410;9714;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Aktien – steuerlich nicht  abzugsfähig – (Anlagebestand);971440;9714;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Spezialfondsanteile (Anlagebestand);971450;9714;;;;;;;;x;
+97;971;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf andere nicht festverzinsliche  Wertpapiere (Anlagebestand);971460;9714;;;;;;;;x;
+97;971;*;Abschreibungen auf Planvermögen nach § 246 Abs. 2 Satz 2 HGB (Anlagebestand);971480;9714;;;;;;;;x;
+97;971;*;Zuführung zu Vorsorgereserven gem. § 340f HGB;971500;9715;;;;;;;;x;
+97;971;*;Zuführung zum Fonds für allgemeine Bankrisiken nach § 340 g Abs. 2 HGB;971610;9716;;;;;;;;x;
+97;972;*;Zuführung zum Fonds für allgemeine Bankrisiken nach § 340 e Abs. 4 HGB;971620;9716;;;;;;;;x;
+97;972;*;Ordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Gebäude – auf sparkassenbetrieblich genutzte Gebäude und Gebäudeteile;972110;9721;;;;;;x;;;
+97;972;*;Ordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Gebäude – auf nicht sparkassenbetrieblich genutzte Gebäude und Gebäudeteile;972120;9721;;;;;;x;;;
+97;972;*;Ordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Betriebs- und  Geschäftsausstattung;972200;9722;;;;;;x;;;
+97;972;*;Ordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf eigene EDV-Anlagen (Hardware);972210;9722;;;;;;x;;;
+97;972;*;Ordentliche Abschreibung GWG auf BGA;972220;9722;;;;;;x;;;
+97;972;*;Ordentliche Abschreibung GWG auf Hardware;972230;9722;;;;;;x;;;
+97;972;*;Auflösung Sammelposten BGA;972240;9722;;;;;;x;;;
+97;972;*;Auflösung Sammelposten Hardeware;972250;9722;;;;;;x;;;
+97;972;*;Ordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf die sonstige Betriebs- und  Geschäftsausstattung;972290;9722;;;;;;x;;;
+97;972;*;Ordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf immaterielle Anlagewerte – auf erworbene EDV-Software;972310;9723;;;;;;x;;;
+97;972;*;Ordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf immaterielle Anlagewerte – auf sonstige immaterielle Anlagewerte;972390;9723;;;;;;x;;;
+97;972;*;Außerordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Sachanlagen und immaterielle  Anlagewerte – auf Sachanlagen;972910;9729;;;;;;x;;;
+97;973;*;Außerordentliche Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Sachanlagen und immaterielle  Anlagewerte – auf immaterielle Anlagewerte;972930;9729;;;;;;x;;;
+97;973;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Beteiligungen und Anteile an  verbundenen Unternehmen – auf Beteiligungen;973100;9731;;;;;;;;x;
+97;973;*;Abschreibungen auf Beteiligungen  i. S. d. § 8b Abs. 3 KStG;973110;9731;;;;;;;;x;
+97;973;*;Abschreibungen und Zuführungen zu Einzelwertberichtigungen auf Beteiligungen und Anteile an  verbundenen Unternehmen – auf Anteile an verbundenen Unternehmen;973200;9732;;;;;;;;x;
+97;974;*;Abschreibungen auf Anteile an  verbundenen Unternehmen  i. S. d. § 8b Abs. 3 KStG;973210;9732;;;;;;;;x;
+97;974;*;Abschreibungen und Zuführungen zu Wertberichtigungen auf sonstige Vermögensgegenstände – auf sonstige Forderungen;974100;9741;;;;;;;;x;
+97;974;*;Abschreibungen und Zuführungen zu Wertberichtigungen auf sonstige Vermögensgegenstände – auf Grundstücke und Gebäude des Umlaufvermögens – Rettungserwerbe –;974200;9742;;;;;;;;x;
+97;974;*;Abschreibungen und Zuführungen zu Wertberichtigungen auf sonstige Vermögensgegenstände – auf Grundstücke und Gebäude des Umlaufvermögens – Sonstige –;974300;9743;;;;;;;;x;
+98;981;*;Abschreibungen und Zuführungen zu Wertberichtigungen auf sonstige Vermögensgegenstände – auf übrige sonstige Vermögensgegenstände;974900;9749;;;;;;;;x;
+98;981;*;Sonstige Aufwendungen für Hafteinlagen;981110;9811;x;;;;;;;x;nach HK und Größe
+98;981;*;Aufwendungen für Geschäfte mit Derivaten (ohne Handelsbestand und Bewertungseinheiten);981130;9811;x;;;;;;;x;nach HK und Größe
+98;981;*;Aufwendungen aus der Währungsumrechnung für Forderungen – soweit sie unter Posten 13 GuV auszuweisen sind;981141;9811;x;;;;;;;x;nach HK und Größe
+98;981;*;Aufwendungen aus der Währungsumrechnung für Forderungen – soweit sie unter Posten 15 GuV auszuweisen sind;981142;9811;x;;;;;;;x;nach HK und Größe
+98;981;*;Aufwendungen aus der Währungsumrechnung für Forderungen – soweit sie unter Posten 12 GuV auszuweisen sind;981150;9811;x;;;;;;;x;nach HK und Größe
+98;981;*;Übrige sonstige ordentliche Aufwendungen;981190;9811;x;;;;;;;x;nach HK und Größe
+98;981;*;Spenden;981220;9812;x;;;;;;;x;nach HK und Größe
+98;981;*;Aufwendungen aus Verlustübernahmen;981230;9812;x;;;;;;;x;nach HK und Größe
+98;981;*;Außerordentliche Aufwendungen gem. § 277 Abs. 4 HGB – Übergangseffekte aus dem BilMoG;981281;9812;x;;;;;;;x;nach HK und Größe
+98;981;*;Außerordentliche Aufwendungen gem. § 277 Abs. 4 HGB – Sonstige außerordentliche Aufwendungen;981282;9812;x;;;;;;;x;nach HK und Größe
+98;981;*;Außerordentliche Aufwendungen – Veräußerungsverluste aus Grundstücken und Gebäuden des Umlaufvermögens –  Rettungserwerbe –;981291;9812;x;;;;;;;x;nach HK und Größe
+98;981;*;Außerordentliche Aufwendungen – Veräußerungsverluste aus Grundstücken und Gebäuden des Umlaufvermögens –  Sonstige –;981292;9812;x;;;;;;;x;nach HK und Größe
+98;981;*;Weitere übrige sonstige außerordentliche Aufwendungen;981299;9812;x;;;;;;;x;nach HK und Größe
+98;981;*;Zinsaufwand nach § 233a AO KSt;981300;9813;;;;;;;;x;
+98;981;*;Zinsaufwand nach § 233a AO - GewSt ab 2008;981310;9813;;;;;;;;x;
+98;982;*;Zinsaufwand nach § 233a AO - übrige Steuern, insbes. USt u. GewSt bis 2007;981320;9813;;;;;;;;x;
+98;982;*;Ordentliche Erträge aus EDV-Dienstleistungen (umsatzsteuerpflichtig);982110;9821;x;;;;;;;x;nach HK und Größe
+98;982;*;Erträge aus Geschäften mit Derivaten (ohne Handelsbestand und Bewertungseinheiten);982130;9821;x;;;;;;;x;nach HK und Größe
+98;982;*;Erträge aus der Währungsumrechnung – soweit sie unter Posten 14 GuV auszuweisen sind;982141;9821;x;;;;;;;x;nach HK und Größe
+98;982;*;Erträge aus der Währungsumrechnung – soweit sie unter Posten 16 GuV auszuweisen sind;982142;9821;x;;;;;;;x;nach HK und Größe
+98;982;*;Erträge aus der Währungsumrechnung – soweit sie unter Posten 8 GuV auszuweisen sind;982150;9821;x;;;;;;;x;nach HK und Größe
+98;982;*;Ordentliche Erträge aus der Gestellung von Personal an Dritte (umsatzsteuerpflichtig);982180;9821;x;;;;;;;x;nach HK und Größe
+98;982;*;Übrige sonstige ordentliche Erträge;982190;9821;x;;;;;;;x;nach HK und Größe
+98;982;*;Erträge aus der Auflösung von Sonderposten mit Rücklageanteil;982210;9822;;;;;;;;x;
+98;982;*;Erträge aus dem Eingang abgeschriebener Forderungen sowie aus der Auflösung von Wertberichtigungen auf  Forderungen und von Rückstellungen im Kreditgeschäft – ohne „Kursgewinne“/Erträge aus Zuschreibungen auf Schuldscheine und Namensschuldverschreibungen;982221;9822;;;;;;;;x;
+98;982;*;Erträge aus dem Eingang abgeschriebener Forderungen sowie aus der Auflösung von Wertberichtigungen auf  Forderungen und von Rückstellungen im Kreditgeschäft – „Kursgewinne“/Erträge aus Zuschreibungen auf Schuldscheine und Namensschuldverschreibungen;982222;9822;;;;;;;;x;
+98;982;*;Erträge aus der Auflösung von sonstigen Rückstellungen;982230;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Liquiditätsreserve) – Schuldverschreibungen und andere festverzinsliche Wertpapiere;982241;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Liquiditätsreserve) – Aktien – steuerfrei – (soweit die Zuschreibung nicht auf abzugsfähigen Abschreibungen der Vergangenheit beruht);982244;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Liquiditätsreserve) – Spezialfondsanteile;982245;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Liquiditätsreserve) – andere nicht festverzinsliche Wertpapiere;982246;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Liquiditätsreserve) – Planvermögen nach § 246 Abs. 2 Satz 2 HGB;982248;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Anlagebestand) – Schuldverschreibungen und andere festverzinsliche Wertpapiere;982251;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Anlagebestand) – Aktien – steuerfrei – (soweit die Zuschreibung nicht auf abzugsfähigen Abschreibungen der Vergangenheit beruht);982254;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Anlagebestand) – Spezialfondsanteile;982255;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Anlagebestand) – andere nicht festverzinsliche Wertpapiere;982256;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf eigene Wertpapiere (Anlagebestand) – Planvermögen nach § 246 Abs. 2 Satz 2 HGB;982258;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen zu Beteiligungen;982261;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen zu Anteilen an verbundenen Unternehmen;982262;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf Beteiligungen i. S. d. § 8b Abs. 2 KStG;982263;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf Anteile an verbundene Unternehmen i. S. d. § 8b Abs. 2 KStG;982264;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf sonstige Forderungen;982271;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf Grundstücke und Gebäude des Umlaufvermögens – Rettungserwerbe –;982272;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf Grundstücke und Gebäude des Umlaufvermögens – Sonstige –;982273;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf Grundstücke und Gebäude des Anlagevermögens;982274;9822;;;;;;;;x;
+98;982;*;Erträge aus Zuschreibungen auf übrige sonstige Vermögensgegenstände;982279;9822;;;;;;;;x;
+98;982;*;Außerordentliche Erträge gem. § 277 Abs. 4 HGB – Übergangseffekte aus dem BilMoG;982281;9822;;;;;;;;x;
+98;982;*;Außerordentliche Erträge gem. § 277 Abs. 4 HGB – Sonstige außerordentliche Erträge;982282;9822;;;;;;;;x;
+98;982;*;Übrige sonstige außerordentliche Erträge – Veräußerungsgewinne aus Grundstücken und Gebäuden des  Umlaufvermögens – Rettungserwerbe –;982291;9822;;;;;;;;x;
+98;982;*;Übrige sonstige außerordentliche Erträge – Veräußerungsgewinne aus Grundstücken und Gebäuden des  Umlaufvermögens – Sonstige –;982292;9822;;;;;;;;x;
+98;982;*;Weitere übrige sonstige außerordentliche Erträge;982299;9822;x;;;;;;;x;nach HK und Größe
+98;982;*;Zinsertrag nach § 233a AO KSt;982300;9823;;;;;;;;x;
+98;982;*;Zinsertrag nach § 233a AO - GewSt ab 2008;982310;9823;;;;;;;;x;
+98;983;*;Zinsertrag nach § 233a AO - übrige Steuern, insbes. USt u. GewSt bis 2007;982320;9823;;;;;;;;x;
+98;983;*;Laufende Erträge aus Beteiligungen;983100;9831;;;;;;;;x;
+98;983;*;Erträge Beteiligung PersG;983110;9831;;;;;;;;x;
+98;983;*;Erträge Beteiligung KapG;983120;9831;;;;;;;;x;
+98;983;*;Laufende Erträge aus Anteilen an verbundenen Unternehmen;983200;9832;;;;;;;;x;
+98;983;*;Erträge aus verbundenen Unternehmen PersG;983210;9832;;;;;;;;x;
+98;983;*;Erträge aus verbundenen Unternehmen KapG;983220;9832;;;;;;;;x;
+98;984;*;Erträge aus Gewinnabführungsverträgen;983300;9833;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Forderungen an Kreditinstitute;984111;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Forderungen an Kunden;984112;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Schuldverschreibungen und andere festverzinsliche Wertpapiere;984113;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Aktien und andere nicht festverzinsliche Wertpapiere;984114;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Sonstige Vermögensgegenstände;984115;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Handelsderivate;984120;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Derivate mit Fremdwährungsrisiken;984121;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Derivate mit Zinsänderungsrisiken;984122;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Derivate mit sonstigen Marktpreisrisiken;984123;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Handelspassiva (ohne Derivate);984130;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Verbindlichkeiten gegenüber Kreditinstituten;984131;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Verbindlichkeiten gegenüber Kunden;984132;9841;;;;;;;;x;
+98;984;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Verbriefte Verbindlichkeiten;984133;9841;;;;;;;;x;
+98;985;*;Realisierte Erfolge aus Handelsbeständen -  Handelsaktiva (ohne Derivate) – Sonstige Verbindlichkeiten;984134;9841;;;;;;;;x;
+98;987;*;Erträge aus der Auflösung von Vorsorgereserven;985000;9850;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Liquiditätsreserve) – festverzinsliche Wertpapiere (ohne eigene Schuldverschreibungen);987111;9871;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Liquiditätsreserve) – Aktien – steuerfrei – (soweit der Kursgewinn nicht auf abzugsfähigen Abschreibungen der Vergangenheit beruht);987114;9871;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Liquiditätsreserve) – Investmentanteile;987115;9871;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Liquiditätsreserve) – Sonstige nicht festverzinsliche Wertpapiere;987117;9871;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Liquiditätsreserve) – eigene Schuldverschreibungen;987118;9871;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Liquiditätsreserve) – festverzinsliche Wertpapiere;987121;9871;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Liquiditätsreserve) – Aktien – steuerfrei – (soweit der Kursgewinn nicht auf abzugsfähigen Abschreibungen der Vergangenheit beruht);987124;9871;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Liquiditätsreserve) – Investmentanteile einschließlich Spezialfonds;987125;9871;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Liquiditätsreserve) – Sonstige nicht festverzinsliche Wertpapiere;987127;9871;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren – Planvermögen nach § 246 Abs. 2 Satz 2 HGB;987128;9871;;;;;;;;x;
+98;987;*;Bewertungserträge aus Handelsbeständen – Handelsaktiva (ohne Derivate) – Forderungen an Kreditinstitute;987211;9872;;;;;;;;x;
+98;987;*;Bewertungserträge aus Handelsbeständen – Handelsaktiva (ohne Derivate) – Forderungen an Kunden;987212;9872;;;;;;;;x;
+98;987;*;Bewertungserträge aus Handelsbeständen – Handelsaktiva (ohne Derivate) – Schuldverschreibungen und andere festverzinsliche Wertpapiere;987213;9872;;;;;;;;x;
+98;987;*;Bewertungserträge aus Handelsbeständen – Handelsaktiva (ohne Derivate) – Aktien und andere nicht festverzinsliche Wertpapiere;987214;9872;;;;;;;;x;
+98;987;*;Bewertungserträge aus Handelsbeständen – Handelsaktiva (ohne Derivate) – Sonstige Vermögensgegenstände;987215;9872;;;;;;;;x;
+98;987;*;Bewertungserträge aus Handelsderivate – Derivate mit Fremdwährungsrisiken;987221;9872;;;;;;;;x;
+98;987;*;Bewertungserträge aus Handelsderivate – Derivate mit Zinsänderungsrisiken;987222;9872;;;;;;;;x;
+98;987;*;Bewertungserträge aus Handelsderivate – Derivate mit sonstigen Marktpreisrisiken;987223;9872;;;;;;;;x;
+98;987;*;Bewertungserträge Handelspassiva (ohne Derivate) – Verbindlichkeiten gegenüber Kreditinstituten;987231;9872;;;;;;;;x;
+98;987;*;Bewertungserträge Handelspassiva (ohne Derivate) – Verbindlichkeiten gegenüber Kunden;987232;9872;;;;;;;;x;
+98;987;*;Bewertungserträge Handelspassiva (ohne Derivate) – Verbriefte Verbindlichkeiten;987233;9872;;;;;;;;x;
+98;987;*;Bewertungserträge Handelspassiva (ohne Derivate) – Sonstige Verbindlichkeiten;987234;9872;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Anlagebestand) – festverzinsliche Wertpapiere (ohne eigene Schuldverschreibungen);987511;9875;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Anlagebestand) – Aktien – steuerfrei – (soweit der Kursgewinn nicht auf abzugsfähigen Abschreibungen der Vergangenheit beruht);987514;9875;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Anlagebestand) – Investmentanteile;987515;9875;;;;;;;;x;
+98;987;*;Kursgewinne aus der Veräußerung eigener Wertpapiere an Kunden (Anlagebestand) – Sonstige nicht festverzinsliche Wertpapiere;987517;9875;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Anlagebestand) – festverzinsliche Wertpapiere;987521;9875;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Anlagebestand) – Aktien – steuerfrei – (soweit der Kursgewinn nicht auf abzugsfähigen Abschreibungen der Vergangenheit beruht);987524;9875;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Anlagebestand) – Investmentanteile einschl. Spezialfonds;987525;9875;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Anlagebestand) – Sonstige nicht festverzinsliche Wertpapiere;987527;9875;;;;;;;;x;
+98;987;*;Übrige Kursgewinne aus eigenen Wertpapieren (Anlagebestand) – Planvermögen nach § 246 Abs. 2 Satz 2 HGB;987528;9875;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Liquiditätsreserve) – festverzinsliche Wertpapiere;987911;9879;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Liquiditätsreserve) – Aktien – steuerlich nicht abzugsfähig –;987914;9879;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Liquiditätsreserve) – Investmentanteile einschl. Spezialfonds;987915;9879;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Liquiditätsreserve) – Sonstige nicht festverzinsliche Wertpapiere;987917;9879;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Liquiditätsreserve) – Planvermögen nach § 246 Abs. 2 Satz 2 HGB;987918;9879;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Anlagebestand) – festverzinsliche Wertpapiere;987951;9879;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Anlagebestand) – Aktien – steuerlich nicht abzugsfähig –;987954;9879;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Anlagebestand) – Investmentanteile einschl. Spezialfonds;987955;9879;;;;;;;;x;
+98;987;*;Kursverluste aus dem Abgang eigener Wertpapiere (Anlagebestand) – Sonstige nicht festverzinsliche Wertpapiere;987957;9879;;;;;;;;x;
+98;988;*;Kursverluste aus dem Abgang eigener Wertpapiere (Anlagebestand) – Planvermögen nach § 246 Abs. 2 Satz 2 HGB;987958;9879;;;;;;;;x;
+98;988;*;Ertrag aus der Auflösung des Fonds für allgemeine Bankrisiken – nach § 340 g Abs. 2 HGB;988110;9881;;;;;;;;x;
+98;988;*;Ertrag aus der Auflösung des Fonds für allgemeine Bankrisiken – nach § 340 e Abs. 4 HGB;988120;9881;;;;;;;;x;
+98;988;*;Erfolge aus dem Abgang von Beteiligungen;988300;9883;;;;;;;;x;
+98;988;*;Gewinne aus dem Abgang von Beteiligungen;988310;9883;;;;;;;;x;
+98;989;*;Verluste aus dem Abgang von Beteiligungen;988320;9883;;;;;;;;x;
+98;989;*;lfd. Eträge aus Aktien u. a. nicht festverz. WP der LI die nach KWG dem HB zugeordnet sind;989010;9890;;;;;;;;x;
+98;989;*;Ertrag aus der Auflösung RL § 6b EStG;989020;9890;;;;;;;;x;
+98;989;*;Ertrag aus der Auflösung RL RFE R 6.6 EStR;989025;9890;;;;;;;;x;
+98;989;*;Ertrag aus sonstr. RL (z. B. BMF-Schreiben);989029;9890;;;;;;;;x;
+98;989;*;Sonderabschreibung aus steuerlichen Wahlrechten (sonstige);989100;9891;;;;;;;;x;
+98;989;*;Sonderabschreibung aus steurelichen Wahlrechten Sachanlagen § 6b EStG;989110;9891;;;;;;;;x;
+98;989;*;Sonderabschreibung aus steuerlichen Wahlrechten Sachanlagen §7h EStG, § 7i EStG;989120;9891;;;;;;;;x;
+98;989;*;Sonderabschreibung aus steuerlichen Wahlrechten Sachanlagen z. B. § 6.6 RFE;989130;9891;;;;;;;;x;
+98;989;*;Erträge aus Zuschreibungen i. S. d. § 8b Abs. 3 Satz 8 KStG;989200;9892;;;;;;;;x;
+98;989;*;Ergebnis der ausländischen Betriebsstätten;989200;9892;;;;;;;;x;
+99;991;*;Abschreibungen i. S. d. § 8b Abs. 3 Satz 4 - 7 KStG;989210;9892;;;;;;;;x;
+99;991;*;Rechnungsabgrenzungsposten zugunsten des laufenden Jahres wegen Disagio bei Verbindlichkeiten;991010;9910;;x;;;;;;;
+99;991;*;Rechnungsabgrenzungsposten zugunsten des laufenden Jahres für an Privatkunden verkaufte abgezinste  Schuldverschreibungen – mit einer Laufzeit bis zu 2 Jahren;991021;9910;;x;;;;;;;
+99;991;*;Rechnungsabgrenzungsposten zugunsten des laufenden Jahres für an Privatkunden verkaufte abgezinste  Schuldverschreibungen – mit einer Laufzeit von mehr als 2 bis zu 5 Jahren;991022;9910;;x;;;;;;;
+99;991;*;Rechnungsabgrenzungsposten zugunsten des laufenden Jahres für an Privatkunden verkaufte abgezinste  Schuldverschreibungen – mit einer Laufzeit von mehr als 5 Jahren;991023;9910;;x;;;;;;;
+99;991;*;Rechnungsabgrenzungsposten zugunsten des laufenden Jahres für an Geschäftskunden verkaufte abgezinste  Schuldverschreibungen;991030;9910;;x;;;;;;;
+99;991;*;Rechnungsabgrenzungsposten zugunsten des laufenden Jahres für an Kreditinstitute verkaufte abgezinste  Schuldverschreibungen – mit einer Laufzeit bis zu 5 Jahren;991041;9910;;x;;;;;;;
+99;991;*;Rechnungsabgrenzungsposten zugunsten des laufenden Jahres für an Kreditinstitute verkaufte abgezinste  Schuldverschreibungen – mit einer Laufzeit von mehr als 5 Jahren;991042;9910;;x;;;;;;;
+99;991;*;Rechnungsabgrenzungsposten zugunsten des laufenden Jahres wegen Agio bei Darlehen;991060;9910;;x;;;;;;;
+99;991;*;Steuerabgrenzungsposten nach § 274 Abs. 2 HGB;991080;9910;;;;;;;;x;
+99;992;*;Sonstige Rechnungsabgrenzungsposten zugunsten des laufenden Jahres;991090;9910;;;;;;;;x;
+99;992;*;Rechnungsabgrenzungsposten zulasten des laufenden Jahres wegen Agio bei Verbindlichkeiten;992010;9920;;x;;;;;;;
+99;992;*;Rechnungsabgrenzungsposten zulasten des laufenden Jahres wegen Disagio bei Darlehen;992060;9920;;x;;;;;;;
+99;992;*;Steuerabgrenzung nach § 274 Abs. 1 Satz 1 HGB;992080;9920;;;;;;;;x;
+99;996;*;Sonstige Rechnungsabgrenzungsposten zulasten des laufenden Jahres;992090;9920;;x;;;;;;;
+99;997;*;Vorwegzuführungen zu den Rücklagen;996000;9960;;;;;;;;x;
+99;998;*;Entnahmen aus den Rücklagen;997000;9970;;;;;;;;x;
+99;999;*;Zuwendungen;998000;9980;;;;;;;;x;
+;;;Auffangkonto;999999;9999;;;;;;;;x;

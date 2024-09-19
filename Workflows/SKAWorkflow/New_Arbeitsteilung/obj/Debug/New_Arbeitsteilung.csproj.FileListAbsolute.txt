@@ -1,0 +1,13 @@
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.csproj.AssemblyReference.cache
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung._DialogMainForm.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.en.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.de.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.es.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.fr.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.ja-JP.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.nl.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.ru.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.DialogStrings.cs.resources
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.csproj.GenerateResource.cache
+C:\SmartAnalyzer.dev\SK-FuR-Developing\Workflows\SKAWorkflow\New_Arbeitsteilung\obj\Debug\New_Arbeitsteilung.csproj.CoreCompileInputs.cache

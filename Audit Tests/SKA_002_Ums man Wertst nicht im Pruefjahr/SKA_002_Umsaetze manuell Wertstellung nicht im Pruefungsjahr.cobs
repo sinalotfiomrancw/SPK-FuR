@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EditorVersion="2.2.1">
+  <ContentObjectType>1</ContentObjectType>
+  <Documentation>
+    <Document Type="Rtf" Sequence="0" Visible="true" Flags="1">
+      <ID>10000000000000000000000000000000</ID>
+      <Path>SK-FuR-0002_Umsaetze_manuell_Wertstellung_nicht_im_Prüfungsjahr-ZdP.rtf</Path>
+    </Document>
+  </Documentation>
+  <ID>8a7a6ab0-abfc-46c6-b65d-1578c0b1f94f</ID>
+  <Version>1.0.3.0</Version>
+  <Owner>Audicon Consulting</Owner>
+  <Creator>kai.krajewski</Creator>
+  <CreateDate>2018-08-31</CreateDate>
+  <ModifyDate>2020-11-22</ModifyDate>
+  <Validity>
+    <From>2018-08-31</From>
+    <To>2050-12-31</To>
+  </Validity>
+  <SupportedIdeaVersions>
+    <GreaterThan>10.2.0</GreaterThan>
+  </SupportedIdeaVersions>
+  <SourceLanguage>de</SourceLanguage>
+  <SupportedLanguages>
+    <Language>de</Language>
+  </SupportedLanguages>
+  <Resources NameId="ContentObjectName" DeploymentFileNameId="DeploymentFileName">SKA_002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.resx</Resources>
+  <Properties2 StoragePath="..\..\SmartAnalyzer.dev">
+    <Property ID="d5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9">
+      <Values>
+        <Value ID="134863aa-d38c-4989-a7e9-d95993ccf868" />
+      </Values>
+    </Property>
+    <Property ID="840709b0-a045-45cb-b313-345feea03fd8">
+      <Values>
+        <Value ID="d80c2c38-ec1b-470a-a0e4-b43e99accf61" />
+      </Values>
+    </Property>
+  </Properties2>
+  <TypeBuildScriptFile>SKA_002_Umsaetze manuell Wertstellung nicht im Pruefungsjahr.atbs</TypeBuildScriptFile>
+  <Flags>1</Flags>
+  <IsPublished>false</IsPublished>
+</ContentObject>

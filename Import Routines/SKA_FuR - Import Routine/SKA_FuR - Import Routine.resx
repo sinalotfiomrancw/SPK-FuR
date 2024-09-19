@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContentObjectName" xml:space="preserve">
+    <value>SK-FuR - Import Routine</value>
+    <comment>Name of the content item/app (max. length =128 characters).</comment>
+  </data>
+  <data name="DeploymentFileName" xml:space="preserve">
+    <value>SKA_FuR - Import Routine.dep</value>
+    <comment>Do Not Translate</comment>
+  </data>
+  <data name="d9c0ae75c9f347f9831d4d5e1be0a766" xml:space="preserve">
+    <value>OBR_Konten_2015.csv</value>
+  </data>
+  <data name="91cae225cdc248e4b019e6f3ccd811e7" xml:space="preserve">
+    <value>OBR_Konten_2015</value>
+  </data>
+  <data name="4cfa0fd9c5394b0997d177827b99a342" xml:space="preserve">
+    <value>OBR_Konten_2016.csv</value>
+  </data>
+  <data name="c5c2c5fa047246218e89b6a80cdfb4d5" xml:space="preserve">
+    <value>OBR_Konten_2016</value>
+  </data>
+  <data name="IndexXmlTemplate" xml:space="preserve">
+    <value>&lt;?xml version="1.0" encoding="UTF-16" standalone="no" ?&gt;
+&lt;!DOCTYPE DataSet SYSTEM "gdpdu-01-09-2004.dtd"&gt;
+&lt;DataSet&gt;
+
+  &lt;Version&gt;1.1&lt;/Version&gt;
+
+  &lt;DataSupplier&gt;
+    &lt;Name&gt;SmartAnalyzer&lt;/Name&gt;
+    &lt;Location&gt;Temp folder&lt;/Location&gt;
+    &lt;Comment&gt;Standard Import Routine generated file&lt;/Comment&gt;
+  &lt;/DataSupplier&gt;
+
+  &lt;Media&gt;
+    &lt;Name&gt;Disk 1&lt;/Name&gt;
+  &lt;/Media&gt;
+
+&lt;/DataSet&gt;
+</value>
+    <comment>Do Not Translate</comment>
+  </data>
+  <data name="IndexXmlDtd" xml:space="preserve">
+    <value>&lt;?xml version="1.0" encoding="UTF-16"?&gt;
+&lt;!--Versions available:
+1.1 (August-01-2002)
+
+1.2 (June-01-2003)
+  New Element Alias
+
+1.3 (November-01-2003)
+  New Element Extension
+
+1.4 (May-01-2004)
+  New Element AcceptNoTables
+  &lt;Table&gt; is now optional
+
+1.5 (September-01-2004)
+  Updated the ForeignKey and Alias elements so they allow
+  multiple Alias elements per ForeignKey. This allows you to use alias
+  elements for a Composite key.
+
+  Example:
+
+  &lt;ForeignKey&gt;
+    &lt;Name&gt;Order&lt;/Name&gt;
+    &lt;Name&gt;Customer&lt;/Name&gt;
+    &lt;References&gt;Orders&lt;/References&gt;
+    &lt;Alias&gt;
+      &lt;From&gt;Order&lt;/From&gt;
+      &lt;To&gt;OrderId&lt;/To&gt;
+    &lt;/Alias&gt;
+    &lt;Alias&gt;
+      &lt;From&gt;Customer&lt;/From&gt;
+      &lt;To&gt;CustomerId&lt;/To&gt;
+    &lt;/Alias&gt;
+--&gt;
+
+&lt;!-- Start Simple Types --&gt;
+
+&lt;!-- Supplementary Vocabulary --&gt;
+&lt;!ELEMENT Version (#PCDATA)&gt;
+&lt;!ELEMENT Location (#PCDATA)&gt;
+&lt;!ELEMENT Comment (#PCDATA)&gt;
+&lt;!ELEMENT Length (#PCDATA)&gt;
+&lt;!ELEMENT References (#PCDATA)&gt;
+&lt;!ELEMENT From (#PCDATA)&gt;
+&lt;!ELEMENT To (#PCDATA)&gt;
+
+&lt;!-- Sometimes it is desirable to have a &lt;Media&gt; with
+     no tables.
+
+     Example:
+       An extension might provide metadata
+       that describes all tax-relevant data.
+
+     This option is turned off by default. --&gt;
+&lt;!ELEMENT AcceptNoTables (#PCDATA)&gt;
+
+&lt;!-- Use Alias to reference columns with different names in
+     a ForeignKey element. These Alias elements are optional.
+
+     The following rules apply to the Alias element:
+       - One Alias can be used per ForeignKey.
+       - Alias elements can appear in any order.
+
+     Example:
+       Table Orders has a primary key OrderId.
+       Table Accounts has a foreign key Order.
+
+       You can use the Alias element to specify Order references OrderId.
+
+       &lt;ForeignKey&gt;
+          &lt;Name&gt;Order&lt;/Name&gt;
+          &lt;Name&gt;Customer&lt;/Name&gt;
+          &lt;References&gt;Orders&lt;/References&gt;
+          &lt;Alias&gt;
+            &lt;From&gt;Order&lt;/From&gt;
+            &lt;To&gt;OrderId&lt;/To&gt;
+          &lt;/Alias&gt;
+        &lt;/ForeignKey&gt; --&gt;
+&lt;!ELEMENT Alias (From, To)&gt;
+
+&lt;!-- Specifying a maximum length for a VariableLength column can
+     reduce the import time of a VariableLength table. If MaxLength
+	 is not specified, then the URL is parsed to determine the 
+         MaxLength for each column.
+
+	 * Only applies to VariableLength tables. --&gt;
+&lt;!ELEMENT MaxLength (#PCDATA)&gt;
+
+&lt;!-- Specifies which character (if any) encapsulates a
+     VariableLength AlphaNumeric column.
+
+	 Doublequote is the default TextEncapsulator "
+
+	 * Only applies to VariableLength tables. (Optional) --&gt;
+&lt;!ELEMENT TextEncapsulator (#PCDATA)&gt;
+
+&lt;!-- Specifies how many digits appear to the right of the decimal symbol.
+
+	 CAUTION: Results are undefined when importing numeric data with
+	          greater accuracy than the accuracy defined in index.xml
+
+			  For example trying to import the value 1000,25 with an
+			  accuracy of 0 might result in 1000 or an error. This
+			  behavior is specific to the implementation.
+
+	 Zero is the default accuracy '0' (Optional)
+--&gt;
+&lt;!ELEMENT Accuracy (#PCDATA)&gt;
+
+&lt;!-- The decimal place is not always stored with numbers. If each number
+     is supposed to have decimal places, use ImpliedAccuracy --&gt;
+&lt;!ELEMENT ImpliedAccuracy (#PCDATA)&gt;
+
+&lt;!-- Enables you to change how GDPdU or GoBD displays dates.
+	 DD.MM.YYYY is the default format --&gt;
+&lt;!ELEMENT Format (#PCDATA)&gt;
+
+&lt;!-- Specifies the symbol that indicates decimal values.
+     Comma is the default DecimalSymbol. ','
+	 Specified once per table. --&gt;
+&lt;!ELEMENT DecimalSymbol (#PCDATA)&gt;
+
+&lt;!-- Specifies the symbol that groups the digits in large numbers.
+     Dot is the default DigitGroupingSymbol or ThousandsSeperator. '.'
+	 Specified once per table --&gt;
+&lt;!ELEMENT DigitGroupingSymbol (#PCDATA)&gt;
+
+&lt;!-- Commands are executed in the following manner
+      * before the import process
+	  * after the import process
+	  * before a Media is imported
+	  * after a Media is imported
+--&gt;
+&lt;!ELEMENT Command (#PCDATA)&gt;
+
+&lt;!-- Only the file protocol is supported at this time.
+
+     * The standard uses relative URLs.
+
+	 Absolute URLs are not allowed. The following are all invalid:
+	 * http://www.somewhere.com/data/Accounts.dat
+	 * ftp://ftp.somewhere.com/data/Accounts.dat
+	 * file://localhost/Accounts.dat
+     * file:///Accounts.dat
+
+	The following are valid examples:
+	  * Accounts.dat
+      * data/Accounts.dat
+      * data/january/Accounts.dat
+      * ../Accounts.dat
+--&gt;
+&lt;!ELEMENT URL (#PCDATA)&gt;
+
+&lt;!-- Textual description of specified element (Optional) --&gt;
+&lt;!ELEMENT Description (#PCDATA)&gt;
+
+&lt;!-- The logical name of the specified element.
+     Sometimes referred to business name.
+
+	 If missing, URL will be used in place of Name. --&gt;
+&lt;!ELEMENT Name (#PCDATA)&gt;
+
+&lt;!-- Y2K Window Any year before Epoch is 2000+
+     Default value 30.  --&gt;
+&lt;!ELEMENT Epoch (#PCDATA)&gt;
+
+&lt;!-- Elements that separate columns or records.
+     Semicolon is the default ColumnDelimiter. ';'
+	 CRLF or &amp;#13;&amp;#10; is the default RecordDelimiter. --&gt;
+&lt;!ELEMENT ColumnDelimiter (#PCDATA)&gt;
+&lt;!ELEMENT RecordDelimiter (#PCDATA)&gt;
+
+&lt;!-- The number of bytes skipped before reading of URL commences.
+     Zero is the default when not specified. '0'
+--&gt;
+&lt;!ELEMENT SkipNumBytes (#PCDATA)&gt;
+
+&lt;!-- End Simple Types --&gt;
+&lt;!-- Start Complex Types --&gt;
+
+&lt;!-- Use Extension when you want to add application-specific
+     functionality to the existing standard.
+
+     Name - the extension name or identifier.
+     URL  - the supplementary .xml file that corresponds to the
+            extension.
+
+     An application that extends the standard should scan the
+     Dataset element for the presence of zero or more Extension
+     elements. The application can use the Name element to identify
+     the extension.
+
+     When choosing a name for your extension, do not choose a common
+     name. This will reduce undefined results for name conflicts.
+
+     It is possible that future extensions will be ratified as
+     mandatory to meet GDPdU or GoBD guidelines. --&gt;
+&lt;!ELEMENT Extension (Name, URL)&gt;
+
+&lt;!-- Self-explanatory --&gt;
+&lt;!ELEMENT Range (From, (To | Length)?)&gt;
+&lt;!ELEMENT FixedRange (From, (To | Length))&gt;
+
+&lt;!-- The document element --&gt;
+&lt;!ELEMENT DataSet (Extension*, Version, DataSupplier?, Command*, Media+, Command*)&gt;
+
+&lt;!-- Supported datatypes (mandatory) --&gt;
+&lt;!ELEMENT AlphaNumeric EMPTY&gt;
+&lt;!ELEMENT Date (Format?)&gt;
+&lt;!ELEMENT Numeric ((ImpliedAccuracy | Accuracy)?)&gt;
+
+&lt;!-- Supported codepages:
+     Be careful to explicitly define RecordDelimiter when using
+	 a non-default codepage.
+
+     ANSI is the default codepage when not specified --&gt;
+&lt;!ELEMENT ANSI EMPTY&gt;
+&lt;!ELEMENT Macintosh EMPTY&gt;
+&lt;!ELEMENT OEM EMPTY&gt;
+&lt;!ELEMENT UTF16 EMPTY&gt;
+&lt;!ELEMENT UTF7 EMPTY&gt;
+&lt;!ELEMENT UTF8 EMPTY&gt;
+
+&lt;!-- Supported file formats:
+     FixedLength
+	 VariableLength --&gt;
+&lt;!ELEMENT FixedLength ((Length | RecordDelimiter)?, ((FixedPrimaryKey+, FixedColumn*) | (FixedColumn+)), ForeignKey*)&gt;
+&lt;!ELEMENT FixedColumn (Name, Description?, (Numeric | AlphaNumeric | Date), Map*, FixedRange)&gt;
+&lt;!ELEMENT FixedPrimaryKey (Name, Description?, (Numeric | AlphaNumeric | Date), Map*, FixedRange)&gt;
+&lt;!ELEMENT VariableLength (ColumnDelimiter?, RecordDelimiter?, TextEncapsulator?, ((VariablePrimaryKey+, VariableColumn*) | (VariableColumn+)), ForeignKey*)&gt;
+&lt;!ELEMENT VariableColumn (Name, Description?, (Numeric | (AlphaNumeric, MaxLength?) | Date), Map*)&gt;
+&lt;!ELEMENT VariablePrimaryKey (Name, Description?, (Numeric | (AlphaNumeric, MaxLength?) | Date), Map*)&gt;
+
+&lt;!-- Description of the entity supplying the data. (Optional) --&gt;
+&lt;!ELEMENT DataSupplier (Name, Location, Comment)&gt;
+
+&lt;!-- The first Media will contain index.xml. Importing will process each media listed --&gt;
+&lt;!ELEMENT Media (Name, Command*, Table*, Command*, AcceptNoTables?)&gt;
+
+&lt;!-- Elements common to FixedLength &amp; VariableLength are propagated to Table. --&gt;
+&lt;!ELEMENT Table (URL, Name?, Description?, Validity?, (ANSI | Macintosh | OEM | UTF16 | UTF7 | UTF8)?, (DecimalSymbol, DigitGroupingSymbol)?, SkipNumBytes?, Range?, Epoch?, (VariableLength | FixedLength))&gt;
+
+&lt;!-- ForeignKeys denote joins or relationships between tables.
+     To successfully join two tables make sure both the PrimaryKey
+	 and the referenced column (ForeignKey) are of the same data type.
+	 Results are undefined when joining two tables with different
+	 key data types. Most likely an error will occur.
+
+     see line 35 for information about Alias --&gt;
+&lt;!ELEMENT ForeignKey (Name+, References, Alias*)&gt;
+
+&lt;!-- Maps AlphaNumeric columns from 'From' to 'To'
+     i.e.   From        To
+	     ============ =============
+		 True         1
+		 True         -1
+		 False        0
+
+	 Basically, a map is an associative container.
+
+	 The standard implementation only supports
+	 AlphaNumeric data types. The following
+	 conversions are NOT supported.
+
+	 Numeric      -&gt; AlphaNumeric
+	 Date         -&gt; AlphaNumeric
+	 AlphaNumeric -&gt; Date
+	 AlphaNumeric -&gt; Numeric
+--&gt;
+&lt;!ELEMENT Map (Description?, From, To)&gt;
+
+&lt;!-- Documentation for table validity. --&gt;
+&lt;!ELEMENT Validity (Range, Format?)&gt;
+
+&lt;!-- End Complex Types --&gt;</value>
+    <comment>Do Not Translate</comment>
+  </data>
+</root>

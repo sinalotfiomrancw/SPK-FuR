@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentObject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EditorVersion="2.2.1">
+  <ContentObjectType>8</ContentObjectType>
+  <ID>22d14e64-affc-453a-aeee-c0c32a0db1ba</ID>
+  <Version>1.0.4.0</Version>
+  <Owner>Audicon Consulting</Owner>
+  <Creator>kai.krajewski</Creator>
+  <CreateDate>2018-10-15</CreateDate>
+  <ModifyDate>2021-12-20</ModifyDate>
+  <Validity>
+    <From>2018-10-15</From>
+    <To>2050-12-31</To>
+  </Validity>
+  <SupportedIdeaVersions>
+    <GreaterThan>10.0.0</GreaterThan>
+  </SupportedIdeaVersions>
+  <SourceLanguage>de</SourceLanguage>
+  <SupportedLanguages>
+    <Language>de</Language>
+    <Language>en</Language>
+  </SupportedLanguages>
+  <Resources NameId="ContentObjectName" DeploymentFileNameId="DeploymentFileName">SKA_FuR.resx</Resources>
+  <TypeBuildScriptFile>SKA_FuR.drbs</TypeBuildScriptFile>
+  <Flags>0</Flags>
+  <IsPublished>false</IsPublished>
+</ContentObject>

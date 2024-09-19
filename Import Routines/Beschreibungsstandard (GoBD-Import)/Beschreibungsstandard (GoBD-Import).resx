@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContentObjectName" xml:space="preserve">
+    <value>Beschreibungsstandard (GoBD-Import)</value>
+    <comment>Name of the content item/app (max. length =128 characters).</comment>
+  </data>
+  <data name="DeploymentFileName" xml:space="preserve">
+    <value>Beschreibungsstandard (GoBD-Import).dep</value>
+    <comment>Do Not Translate</comment>
+  </data>
+  <data name="8c0e89baca5c45009c60d87a2f829d54" xml:space="preserve">
+    <value>woopwoop</value>
+  </data>
+  <data name="2a945b2003074ffe90e9d3a012008e3f" xml:space="preserve">
+    <value>Anlage.txt</value>
+  </data>
+  <data name="b0ee994b6f2946eba0b44ca295005c62" xml:space="preserve">
+    <value>Anlage</value>
+  </data>
+  <data name="a28cc2ad34844b669c6b6909952acf78" xml:space="preserve">
+    <value>Anlagen AfA-Buch.txt</value>
+  </data>
+  <data name="487de0007592434595d0f0b52ec464f8" xml:space="preserve">
+    <value>Anlagen-AfA-Buch</value>
+  </data>
+  <data name="5801471a3d8547ea911ab14db7bf6509" xml:space="preserve">
+    <value>Anlagenbuchungsgruppe.txt</value>
+  </data>
+  <data name="094937bb1cd7405b8b54e7bb78cfd699" xml:space="preserve">
+    <value>Anlagenbuchungsgruppe</value>
+  </data>
+  <data name="8d4f589a7443464fab1345c4ed628dc6" xml:space="preserve">
+    <value>Anlagenposten.txt</value>
+  </data>
+  <data name="f95e34fdd60b4703ac72a1044301d697" xml:space="preserve">
+    <value>Anlagenposten</value>
+  </data>
+  <data name="56afde186be04bb9ab5c3dd35cecb22a" xml:space="preserve">
+    <value>Artikel.txt</value>
+  </data>
+  <data name="c6c4495d53e04deeb36a92deee2bed31" xml:space="preserve">
+    <value>Artikel</value>
+  </data>
+  <data name="cf3d8cce06614f60b1a431e966dd4348" xml:space="preserve">
+    <value>Artikelposten.txt</value>
+  </data>
+  <data name="8ed930b59b7243b9ae763ba274c37556" xml:space="preserve">
+    <value>Artikelposten</value>
+  </data>
+  <data name="4f36a987f4884d4eb66ff2e5cf7174e1" xml:space="preserve">
+    <value>Debitor.txt</value>
+  </data>
+  <data name="725710d13b204d02a3fe16aa433c09b2" xml:space="preserve">
+    <value>Debitor</value>
+  </data>
+  <data name="cbd599034ba54cbba9a6dcfd04be6fc2" xml:space="preserve">
+    <value>Debitorenposten.txt</value>
+  </data>
+  <data name="1f39551d872843c1856303eb04bff0eb" xml:space="preserve">
+    <value>Debitorenposten</value>
+  </data>
+  <data name="84fcc927a1474b22a8dfe9f146874e63" xml:space="preserve">
+    <value>Detaillierte Debitorenposten.txt</value>
+  </data>
+  <data name="2d21d327005c4131aa8d286397387036" xml:space="preserve">
+    <value>Detaillierte Debitorenposten</value>
+  </data>
+  <data name="5c9c7b105561489493aad4ce0797738d" xml:space="preserve">
+    <value>Detaillierte Kreditorenposten.txt</value>
+  </data>
+  <data name="e0a9dcbf24ae469f8d4391a6f8f0b368" xml:space="preserve">
+    <value>Detaillierte Kreditorenposten</value>
+  </data>
+  <data name="f75d0fc1f6b5461ea2219d877422b3ce" xml:space="preserve">
+    <value>Dimensionswert.txt</value>
+  </data>
+  <data name="cdbe4e2778a44a9f935f769bb620865d" xml:space="preserve">
+    <value>Dimensionswert</value>
+  </data>
+  <data name="bb8c38372a52414897e9cfd25057c251" xml:space="preserve">
+    <value>Fibujournal.txt</value>
+  </data>
+  <data name="6ea86b79257c4f389d2f83cb5558af62" xml:space="preserve">
+    <value>Fibujournal</value>
+  </data>
+  <data name="d7540772a792414ca5b4666f256f4f4b" xml:space="preserve">
+    <value>Finanzbuchhaltung Einrichtung.txt</value>
+  </data>
+  <data name="4931e9d46b6f4ff7aa7243ea3e4f31a9" xml:space="preserve">
+    <value>Finanzbuchhaltung Einrichtung</value>
+  </data>
+  <data name="cd905dd509ef418d8ce8b7169c639dcb" xml:space="preserve">
+    <value>Kreditor.txt</value>
+  </data>
+  <data name="c7a8f8f9442d4f08976709e06cf91bb2" xml:space="preserve">
+    <value>Kreditor</value>
+  </data>
+  <data name="1217633286f54f929d85050607511e16" xml:space="preserve">
+    <value>Kreditorenposten.txt</value>
+  </data>
+  <data name="1070b227eca34c0b97dc205bc7fe512d" xml:space="preserve">
+    <value>Kreditorenposten</value>
+  </data>
+  <data name="fec9468329ad469e9dcc6a224de15eb9" xml:space="preserve">
+    <value>Land.txt</value>
+  </data>
+  <data name="3ad21f8ab1944377abe6f99cf48fa729" xml:space="preserve">
+    <value>Land/Region</value>
+  </data>
+  <data name="2c5b173fd31343e989219698434d619f" xml:space="preserve">
+    <value>MwSt.-Buchungsmatrix Einr.txt</value>
+  </data>
+  <data name="55cb2ad0f85d4f71afdfbb7534dce3ba" xml:space="preserve">
+    <value>MwSt.-Buchungsmatrix Einr.</value>
+  </data>
+  <data name="4a30b707d01d409288fd6866fda7e6f1" xml:space="preserve">
+    <value>MwSt.-Posten.txt</value>
+  </data>
+  <data name="54b1810b7ac4432cbdfe64c13a7ad8db" xml:space="preserve">
+    <value>MwSt.-Posten</value>
+  </data>
+  <data name="79ee175f2b734fc0b147457378553e45" xml:space="preserve">
+    <value>Sachkonto.txt</value>
+  </data>
+  <data name="949f9ea7caaa4c91aca4015f2f1b2d17" xml:space="preserve">
+    <value>Sachkonto</value>
+  </data>
+  <data name="cb106eaabbf0411e85fe22fbc405df16" xml:space="preserve">
+    <value>Sachposten.txt</value>
+  </data>
+  <data name="af725d209b21463b90d8600df50e0ce6" xml:space="preserve">
+    <value>Sachposten</value>
+  </data>
+  <data name="00bef47c7c9545b2abe5cd88a18cfdd2" xml:space="preserve">
+    <value>Verkaufsgutschriftskopf.txt</value>
+  </data>
+  <data name="a22f76c79d694721b837fb980177b70b" xml:space="preserve">
+    <value>Verkaufsgutschriftskopf</value>
+  </data>
+  <data name="8ea1b7266cc24c8ba03fe4627c47f50c" xml:space="preserve">
+    <value>Verkaufsrechnungskopf.txt</value>
+  </data>
+  <data name="ef72b69672d649ff9fc90bc66b3643e0" xml:space="preserve">
+    <value>Verkaufsrechnungskopf</value>
+  </data>
+</root>

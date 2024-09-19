@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Node xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Audicon.SmartAnalyzer.Client.DbLayer.Trees">
+  <Children>
+    <Node>
+      <Children>
+        <Node>
+          <Children>
+            <Node>
+              <Children />
+              <Equation>
+                <anyType i:type="EquationElement">
+                  <Negate>false</Negate>
+                  <Type>SimpleElement</Type>
+                  <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                  <PropertyType>String</PropertyType>
+                  <Operator>StartsWith</Operator>
+                  <Operand>SKA_UmsatzAutoJeKto_</Operand>
+                </anyType>
+              </Equation>
+              <Name>e585274ccbbf4adbb990d1167a47fb65</Name>
+            </Node>
+            <Node>
+              <Children />
+              <Equation>
+                <anyType i:type="EquationElement">
+                  <Negate>false</Negate>
+                  <Type>SimpleElement</Type>
+                  <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                  <PropertyType>String</PropertyType>
+                  <Operator>StartsWith</Operator>
+                  <Operand>SKA_UmsatzAutoInEUR_</Operand>
+                </anyType>
+              </Equation>
+              <Name>c8f1d4400d89428b84cd44f43dd9ebbe</Name>
+            </Node>
+            <Node>
+              <Children />
+              <Equation>
+                <anyType i:type="EquationElement">
+                  <Negate>false</Negate>
+                  <Type>SimpleElement</Type>
+                  <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                  <PropertyType>String</PropertyType>
+                  <Operator>StartsWith</Operator>
+                  <Operand>SKA_UmsatzAutoNichtEUR_</Operand>
+                </anyType>
+              </Equation>
+              <Name>23862878e41245d8b1e2c68ada0598a1</Name>
+            </Node>
+          </Children>
+          <Equation>
+            <anyType i:type="EquationElement">
+              <Negate>false</Negate>
+              <Type>SimpleElement</Type>
+              <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+              <PropertyType>String</PropertyType>
+              <Operator>StartsWith</Operator>
+              <Operand>SKA_UmsatzAuto_</Operand>
+            </anyType>
+          </Equation>
+          <Name>573e5c268af94a6bb62a6c1fab0e47f4</Name>
+        </Node>
+        <Node>
+          <Children>
+            <Node>
+              <Children />
+              <Equation>
+                <anyType i:type="EquationElement">
+                  <Negate>false</Negate>
+                  <Type>SimpleElement</Type>
+                  <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                  <PropertyType>String</PropertyType>
+                  <Operator>StartsWith</Operator>
+                  <Operand>SKA_UmsatzManuellJeKto_</Operand>
+                </anyType>
+              </Equation>
+              <Name>8330d841f3434896b7c97c158b5b6501</Name>
+            </Node>
+            <Node>
+              <Children>
+                <Node>
+                  <Children />
+                  <Equation>
+                    <anyType i:type="EquationElement">
+                      <Negate>false</Negate>
+                      <Type>SimpleElement</Type>
+                      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                      <PropertyType>String</PropertyType>
+                      <Operator>StartsWith</Operator>
+                      <Operand>SKA_HabenAufSollInEUR_</Operand>
+                    </anyType>
+                  </Equation>
+                  <Name>84031ce4e9bd4f8b9a16f68e7c541e79</Name>
+                </Node>
+                <Node>
+                  <Children />
+                  <Equation>
+                    <anyType i:type="EquationElement">
+                      <Negate>false</Negate>
+                      <Type>SimpleElement</Type>
+                      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                      <PropertyType>String</PropertyType>
+                      <Operator>StartsWith</Operator>
+                      <Operand>SKA_SollAufHabenInEUR_</Operand>
+                    </anyType>
+                  </Equation>
+                  <Name>16bbcb42290c4f49b6e5ac584f712910</Name>
+                </Node>
+                <Node>
+                  <Children />
+                  <Equation>
+                    <anyType i:type="EquationElement">
+                      <Negate>false</Negate>
+                      <Type>SimpleElement</Type>
+                      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                      <PropertyType>String</PropertyType>
+                      <Operator>StartsWith</Operator>
+                      <Operand>SKA_StornoHabenAufSollInEUR_</Operand>
+                    </anyType>
+                  </Equation>
+                  <Name>c2e1d6d3283e46c78a1015e2da1c55fa</Name>
+                </Node>
+                <Node>
+                  <Children />
+                  <Equation>
+                    <anyType i:type="EquationElement">
+                      <Negate>false</Negate>
+                      <Type>SimpleElement</Type>
+                      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                      <PropertyType>String</PropertyType>
+                      <Operator>StartsWith</Operator>
+                      <Operand>SKA_StornoSollAufHabenInEUR_</Operand>
+                    </anyType>
+                  </Equation>
+                  <Name>79bdd9c2cbdc4239b22a4f03d2145d98</Name>
+                </Node>
+              </Children>
+              <Equation>
+                <anyType i:type="EquationElement">
+                  <Negate>false</Negate>
+                  <Type>SimpleElement</Type>
+                  <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                  <PropertyType>String</PropertyType>
+                  <Operator>StartsWith</Operator>
+                  <Operand>SKA_UmsatzManuellInEUR_</Operand>
+                </anyType>
+              </Equation>
+              <Name>868f103298e246b38fba46b917e8a0e2</Name>
+            </Node>
+            <Node>
+              <Children>
+                <Node>
+                  <Children />
+                  <Equation>
+                    <anyType i:type="EquationElement">
+                      <Negate>false</Negate>
+                      <Type>SimpleElement</Type>
+                      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                      <PropertyType>String</PropertyType>
+                      <Operator>StartsWith</Operator>
+                      <Operand>SKA_HabenAufSollNichtEUR_</Operand>
+                    </anyType>
+                  </Equation>
+                  <Name>b5f01ba5c07c48c1a7e1aa5b91368840</Name>
+                </Node>
+                <Node>
+                  <Children />
+                  <Equation>
+                    <anyType i:type="EquationElement">
+                      <Negate>false</Negate>
+                      <Type>SimpleElement</Type>
+                      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                      <PropertyType>String</PropertyType>
+                      <Operator>StartsWith</Operator>
+                      <Operand>SKA_SollAufHabenNichtEUR_</Operand>
+                    </anyType>
+                  </Equation>
+                  <Name>0e9bc42605fd44038901962d742abf95</Name>
+                </Node>
+                <Node>
+                  <Children />
+                  <Equation>
+                    <anyType i:type="EquationElement">
+                      <Negate>false</Negate>
+                      <Type>SimpleElement</Type>
+                      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                      <PropertyType>String</PropertyType>
+                      <Operator>StartsWith</Operator>
+                      <Operand>SKA_StornoHabenAufSollNichtEUR_</Operand>
+                    </anyType>
+                  </Equation>
+                  <Name>8a370749128a4cd587838249ded767e0</Name>
+                </Node>
+                <Node>
+                  <Children />
+                  <Equation>
+                    <anyType i:type="EquationElement">
+                      <Negate>false</Negate>
+                      <Type>SimpleElement</Type>
+                      <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                      <PropertyType>String</PropertyType>
+                      <Operator>StartsWith</Operator>
+                      <Operand>SKA_StornoSollAufHabenNichtEUR_</Operand>
+                    </anyType>
+                  </Equation>
+                  <Name>0e29d560780d4a66bdafa3a2dc21d482</Name>
+                </Node>
+              </Children>
+              <Equation>
+                <anyType i:type="EquationElement">
+                  <Negate>false</Negate>
+                  <Type>SimpleElement</Type>
+                  <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+                  <PropertyType>String</PropertyType>
+                  <Operator>StartsWith</Operator>
+                  <Operand>SKA_UmsatzManuellNichtEUR_</Operand>
+                </anyType>
+              </Equation>
+              <Name>2ed6efd44f83472bb92e2c8ae21daf5a</Name>
+            </Node>
+          </Children>
+          <Equation>
+            <anyType i:type="EquationElement">
+              <Negate>false</Negate>
+              <Type>SimpleElement</Type>
+              <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+              <PropertyType>String</PropertyType>
+              <Operator>StartsWith</Operator>
+              <Operand>SKA_UmsatzManuell_</Operand>
+            </anyType>
+          </Equation>
+          <Name>837b3fd98cbc40d0a2e36936a4abe647</Name>
+        </Node>
+      </Children>
+      <Equation>
+        <anyType i:type="EquationElement">
+          <Negate>false</Negate>
+          <Type>SimpleElement</Type>
+          <PropertyId>840709b0-a045-45cb-b313-345feea03fd8</PropertyId>
+          <PropertyType>String</PropertyType>
+          <Operator>StartsWith</Operator>
+          <Operand>SKA_UmsatzGesamt_</Operand>
+        </anyType>
+      </Equation>
+      <Name>6891d0c64d564e3db2964f6bff7b3a9a</Name>
+    </Node>
+  </Children>
+  <Equation>
+    <anyType i:type="EquationElement">
+      <Negate>false</Negate>
+      <Type>SimpleElement</Type>
+      <PropertyId>fc1fcc3f-b560-5d06-94e0-06e70af2ca53</PropertyId>
+      <PropertyType>String</PropertyType>
+      <Operator>Equals</Operator>
+      <Operand>Audicon Consulting</Operand>
+    </anyType>
+  </Equation>
+  <Name>5680d2dbfc974c019e385c6679da8c4e</Name>
+</Node>

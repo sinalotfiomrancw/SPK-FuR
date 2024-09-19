@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentObject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" EditorVersion="2.2.1">
+  <ContentObjectType>1</ContentObjectType>
+  <Documentation>
+    <Document Type="Rtf" Sequence="0" Visible="true" Flags="1">
+      <ID>10000000000000000000000000000000</ID>
+      <Path>SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr.rtf</Path>
+    </Document>
+    <Document Type="Rtf" Sequence="1" Visible="true" Flags="2">
+      <ID>7d33344ec66143028f6fbfd1c9968725</ID>
+      <Path>SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr - Hinweise.rtf</Path>
+    </Document>
+  </Documentation>
+  <ID>2fe07915-87fe-4407-9848-5c1190c91404</ID>
+  <Version>1.1.2.0</Version>
+  <Owner>Audicon Consulting</Owner>
+  <Creator>alexander.strubert</Creator>
+  <CreateDate>2020-11-05</CreateDate>
+  <ModifyDate>2022-12-09</ModifyDate>
+  <Validity>
+    <From>2020-11-05</From>
+    <To>2050-12-31</To>
+  </Validity>
+  <SupportedIdeaVersions>
+    <GreaterThan>10.0.0</GreaterThan>
+  </SupportedIdeaVersions>
+  <SourceLanguage>de</SourceLanguage>
+  <SupportedLanguages>
+    <Language>de</Language>
+    <Language>en</Language>
+  </SupportedLanguages>
+  <Resources NameId="ContentObjectName" DeploymentFileNameId="DeploymentFileName">SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr.resx</Resources>
+  <Properties2 StoragePath="..\..\SmartAnalyzer.dev">
+    <Property ID="d5035d4f-ba3c-4bbd-9a0e-8dfdf872a7a9">
+      <Values>
+        <Value ID="8d6e7cab-b147-40b5-a62d-5c7581cb1c5c" />
+      </Values>
+    </Property>
+    <Property ID="3a556ab9-479a-4f8e-8a7a-1ad0e429eb4a">
+      <Values>
+        <Value ID="b87d5e1d-82a2-44b8-891b-b15fb4703595" />
+      </Values>
+    </Property>
+    <Property ID="840709b0-a045-45cb-b313-345feea03fd8">
+      <Values>
+        <Value ID="2b03012b-d67d-4d8e-914b-bcb6af7c699e" />
+      </Values>
+    </Property>
+  </Properties2>
+  <TypeBuildScriptFile>SK-FuR-0025 Saldenvergleich Geschäftsjahr mit Vorjahr.atbs</TypeBuildScriptFile>
+  <Flags>0</Flags>
+  <IsPublished>false</IsPublished>
+</ContentObject>

@@ -1,0 +1,2271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Button_OK.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Button_OK.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="Button_OK.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1097, 12</value>
+  </data>
+  <data name="Button_OK.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 25</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Button_OK.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="Button_OK.Text" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="&gt;&gt;Button_OK.Name" xml:space="preserve">
+    <value>Button_OK</value>
+  </data>
+  <data name="&gt;&gt;Button_OK.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartButton, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;Button_OK.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Button_OK.ZOrder" xml:space="preserve">
+    <value>50</value>
+  </data>
+  <data name="Button_Cancel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="Button_Cancel.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="Button_Cancel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1097, 43</value>
+  </data>
+  <data name="Button_Cancel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 25</value>
+  </data>
+  <data name="Button_Cancel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Button_Cancel.Text" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="&gt;&gt;Button_Cancel.Name" xml:space="preserve">
+    <value>Button_Cancel</value>
+  </data>
+  <data name="&gt;&gt;Button_Cancel.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartButton, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;Button_Cancel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Button_Cancel.ZOrder" xml:space="preserve">
+    <value>49</value>
+  </data>
+  <data name="smartLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 17</value>
+  </data>
+  <data name="smartLabel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 13</value>
+  </data>
+  <data name="smartLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="smartLabel1.Text" xml:space="preserve">
+    <value>Benutzer:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel1.Name" xml:space="preserve">
+    <value>smartLabel1</value>
+  </data>
+  <data name="&gt;&gt;smartLabel1.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel1.ZOrder" xml:space="preserve">
+    <value>61</value>
+  </data>
+  <data name="smartTextBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 18</value>
+  </data>
+  <data name="smartTextBox1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox1.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox1.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 20</value>
+  </data>
+  <data name="smartTextBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox1.Name" xml:space="preserve">
+    <value>smartTextBox1</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox1.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox1.ZOrder" xml:space="preserve">
+    <value>60</value>
+  </data>
+  <data name="smartLabel2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 17</value>
+  </data>
+  <data name="smartLabel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 13</value>
+  </data>
+  <data name="smartLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="smartLabel2.Text" xml:space="preserve">
+    <value>Projektverzeichnis:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel2.Name" xml:space="preserve">
+    <value>smartLabel2</value>
+  </data>
+  <data name="&gt;&gt;smartLabel2.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel2.ZOrder" xml:space="preserve">
+    <value>59</value>
+  </data>
+  <data name="smartTextBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>334, 17</value>
+  </data>
+  <data name="smartTextBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox2.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox2.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 20</value>
+  </data>
+  <data name="smartTextBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox2.Name" xml:space="preserve">
+    <value>smartTextBox2</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox2.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox2.ZOrder" xml:space="preserve">
+    <value>58</value>
+  </data>
+  <data name="smartHelp1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartHelp1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>425, 17</value>
+  </data>
+  <data name="smartHelp1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartHelp1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="smartHelp1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="smartHelp1.Text" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="&gt;&gt;smartHelp1.Name" xml:space="preserve">
+    <value>smartHelp1</value>
+  </data>
+  <data name="&gt;&gt;smartHelp1.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartHelp, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartHelp1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartHelp1.ZOrder" xml:space="preserve">
+    <value>53</value>
+  </data>
+  <data name="smartTextBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>602, 17</value>
+  </data>
+  <data name="smartTextBox3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox3.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox3.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 20</value>
+  </data>
+  <data name="smartTextBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox3.Name" xml:space="preserve">
+    <value>smartTextBox3</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox3.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox3.ZOrder" xml:space="preserve">
+    <value>52</value>
+  </data>
+  <metadata name="smartDataExchanger1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>18, 19</value>
+  </metadata>
+  <data name="smartLabel4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 17</value>
+  </data>
+  <data name="smartLabel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 13</value>
+  </data>
+  <data name="smartLabel4.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="smartLabel4.Text" xml:space="preserve">
+    <value>(erforderlich)</value>
+  </data>
+  <data name="&gt;&gt;smartLabel4.Name" xml:space="preserve">
+    <value>smartLabel4</value>
+  </data>
+  <data name="&gt;&gt;smartLabel4.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel4.ZOrder" xml:space="preserve">
+    <value>48</value>
+  </data>
+  <data name="smartLabel5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 55</value>
+  </data>
+  <data name="smartLabel5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 13</value>
+  </data>
+  <data name="smartLabel5.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="smartLabel5.Text" xml:space="preserve">
+    <value>(optional)</value>
+  </data>
+  <data name="&gt;&gt;smartLabel5.Name" xml:space="preserve">
+    <value>smartLabel5</value>
+  </data>
+  <data name="&gt;&gt;smartLabel5.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel5.ZOrder" xml:space="preserve">
+    <value>47</value>
+  </data>
+  <data name="smartLabel9.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 94</value>
+  </data>
+  <data name="smartLabel9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 13</value>
+  </data>
+  <data name="smartLabel9.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="smartLabel9.Text" xml:space="preserve">
+    <value>(optional)</value>
+  </data>
+  <data name="&gt;&gt;smartLabel9.Name" xml:space="preserve">
+    <value>smartLabel9</value>
+  </data>
+  <data name="&gt;&gt;smartLabel9.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel9.ZOrder" xml:space="preserve">
+    <value>46</value>
+  </data>
+  <data name="smartLabel13.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 135</value>
+  </data>
+  <data name="smartLabel13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 13</value>
+  </data>
+  <data name="smartLabel13.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="smartLabel13.Text" xml:space="preserve">
+    <value>(optional)</value>
+  </data>
+  <data name="&gt;&gt;smartLabel13.Name" xml:space="preserve">
+    <value>smartLabel13</value>
+  </data>
+  <data name="&gt;&gt;smartLabel13.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel13.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel13.ZOrder" xml:space="preserve">
+    <value>45</value>
+  </data>
+  <data name="smartTextBox7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>602, 56</value>
+  </data>
+  <data name="smartTextBox7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox7.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox7.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 20</value>
+  </data>
+  <data name="smartTextBox7.TabIndex" type="System.Int32, mscorlib">
+    <value>37</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox7.Name" xml:space="preserve">
+    <value>smartTextBox7</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox7.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox7.ZOrder" xml:space="preserve">
+    <value>40</value>
+  </data>
+  <data name="smartHelp2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartHelp2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartHelp2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>425, 56</value>
+  </data>
+  <data name="smartHelp2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartHelp2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="smartHelp2.TabIndex" type="System.Int32, mscorlib">
+    <value>36</value>
+  </data>
+  <data name="smartHelp2.Text" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="&gt;&gt;smartHelp2.Name" xml:space="preserve">
+    <value>smartHelp2</value>
+  </data>
+  <data name="&gt;&gt;smartHelp2.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartHelp, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartHelp2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartHelp2.ZOrder" xml:space="preserve">
+    <value>54</value>
+  </data>
+  <data name="smartTextBox6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>334, 56</value>
+  </data>
+  <data name="smartTextBox6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox6.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox6.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 20</value>
+  </data>
+  <data name="smartTextBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox6.Name" xml:space="preserve">
+    <value>smartTextBox6</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox6.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox6.ZOrder" xml:space="preserve">
+    <value>41</value>
+  </data>
+  <data name="smartLabel7.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 55</value>
+  </data>
+  <data name="smartLabel7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 13</value>
+  </data>
+  <data name="smartLabel7.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="smartLabel7.Text" xml:space="preserve">
+    <value>Projektverzeichnis:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel7.Name" xml:space="preserve">
+    <value>smartLabel7</value>
+  </data>
+  <data name="&gt;&gt;smartLabel7.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel7.ZOrder" xml:space="preserve">
+    <value>42</value>
+  </data>
+  <data name="smartTextBox5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 57</value>
+  </data>
+  <data name="smartTextBox5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox5.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox5.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 20</value>
+  </data>
+  <data name="smartTextBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox5.Name" xml:space="preserve">
+    <value>smartTextBox5</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox5.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox5.ZOrder" xml:space="preserve">
+    <value>43</value>
+  </data>
+  <data name="smartLabel8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 56</value>
+  </data>
+  <data name="smartLabel8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 13</value>
+  </data>
+  <data name="smartLabel8.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="smartLabel8.Text" xml:space="preserve">
+    <value>Benutzer:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel8.Name" xml:space="preserve">
+    <value>smartLabel8</value>
+  </data>
+  <data name="&gt;&gt;smartLabel8.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel8.ZOrder" xml:space="preserve">
+    <value>44</value>
+  </data>
+  <data name="smartTextBox11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>602, 94</value>
+  </data>
+  <data name="smartTextBox11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox11.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox11.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 20</value>
+  </data>
+  <data name="smartTextBox11.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox11.Name" xml:space="preserve">
+    <value>smartTextBox11</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox11.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox11.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox11.ZOrder" xml:space="preserve">
+    <value>34</value>
+  </data>
+  <data name="smartHelp3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartHelp3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartHelp3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>425, 95</value>
+  </data>
+  <data name="smartHelp3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartHelp3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="smartHelp3.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="smartHelp3.Text" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="&gt;&gt;smartHelp3.Name" xml:space="preserve">
+    <value>smartHelp3</value>
+  </data>
+  <data name="&gt;&gt;smartHelp3.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartHelp, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartHelp3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartHelp3.ZOrder" xml:space="preserve">
+    <value>55</value>
+  </data>
+  <data name="smartTextBox10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>334, 95</value>
+  </data>
+  <data name="smartTextBox10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox10.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox10.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 20</value>
+  </data>
+  <data name="smartTextBox10.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox10.Name" xml:space="preserve">
+    <value>smartTextBox10</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox10.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox10.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox10.ZOrder" xml:space="preserve">
+    <value>35</value>
+  </data>
+  <data name="smartLabel11.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 95</value>
+  </data>
+  <data name="smartLabel11.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 13</value>
+  </data>
+  <data name="smartLabel11.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="smartLabel11.Text" xml:space="preserve">
+    <value>Projektverzeichnis:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel11.Name" xml:space="preserve">
+    <value>smartLabel11</value>
+  </data>
+  <data name="&gt;&gt;smartLabel11.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel11.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel11.ZOrder" xml:space="preserve">
+    <value>36</value>
+  </data>
+  <data name="smartTextBox9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 96</value>
+  </data>
+  <data name="smartTextBox9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox9.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox9.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 20</value>
+  </data>
+  <data name="smartTextBox9.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox9.Name" xml:space="preserve">
+    <value>smartTextBox9</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox9.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox9.ZOrder" xml:space="preserve">
+    <value>37</value>
+  </data>
+  <data name="smartLabel12.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 95</value>
+  </data>
+  <data name="smartLabel12.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 13</value>
+  </data>
+  <data name="smartLabel12.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="smartLabel12.Text" xml:space="preserve">
+    <value>Benutzer:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel12.Name" xml:space="preserve">
+    <value>smartLabel12</value>
+  </data>
+  <data name="&gt;&gt;smartLabel12.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel12.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel12.ZOrder" xml:space="preserve">
+    <value>38</value>
+  </data>
+  <data name="smartTextBox15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>602, 135</value>
+  </data>
+  <data name="smartTextBox15.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox15.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox15.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 20</value>
+  </data>
+  <data name="smartTextBox15.TabIndex" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox15.Name" xml:space="preserve">
+    <value>smartTextBox15</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox15.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox15.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox15.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="smartHelp4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartHelp4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartHelp4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>425, 136</value>
+  </data>
+  <data name="smartHelp4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartHelp4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="smartHelp4.TabIndex" type="System.Int32, mscorlib">
+    <value>50</value>
+  </data>
+  <data name="smartHelp4.Text" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="&gt;&gt;smartHelp4.Name" xml:space="preserve">
+    <value>smartHelp4</value>
+  </data>
+  <data name="&gt;&gt;smartHelp4.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartHelp, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartHelp4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartHelp4.ZOrder" xml:space="preserve">
+    <value>56</value>
+  </data>
+  <data name="smartTextBox14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>334, 136</value>
+  </data>
+  <data name="smartTextBox14.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox14.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox14.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 20</value>
+  </data>
+  <data name="smartTextBox14.TabIndex" type="System.Int32, mscorlib">
+    <value>49</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox14.Name" xml:space="preserve">
+    <value>smartTextBox14</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox14.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox14.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox14.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="smartLabel15.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel15.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel15.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 135</value>
+  </data>
+  <data name="smartLabel15.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 13</value>
+  </data>
+  <data name="smartLabel15.TabIndex" type="System.Int32, mscorlib">
+    <value>48</value>
+  </data>
+  <data name="smartLabel15.Text" xml:space="preserve">
+    <value>Projektverzeichnis:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel15.Name" xml:space="preserve">
+    <value>smartLabel15</value>
+  </data>
+  <data name="&gt;&gt;smartLabel15.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel15.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel15.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="smartTextBox13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 137</value>
+  </data>
+  <data name="smartTextBox13.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox13.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox13.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 20</value>
+  </data>
+  <data name="smartTextBox13.TabIndex" type="System.Int32, mscorlib">
+    <value>47</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox13.Name" xml:space="preserve">
+    <value>smartTextBox13</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox13.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox13.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox13.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="smartLabel16.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel16.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 136</value>
+  </data>
+  <data name="smartLabel16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 13</value>
+  </data>
+  <data name="smartLabel16.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="smartLabel16.Text" xml:space="preserve">
+    <value>Benutzer:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel16.Name" xml:space="preserve">
+    <value>smartLabel16</value>
+  </data>
+  <data name="&gt;&gt;smartLabel16.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel16.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel16.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="smartTextBox19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>602, 176</value>
+  </data>
+  <data name="smartTextBox19.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox19.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox19.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>41, 20</value>
+  </data>
+  <data name="smartTextBox19.TabIndex" type="System.Int32, mscorlib">
+    <value>59</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox19.Name" xml:space="preserve">
+    <value>smartTextBox19</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox19.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox19.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox19.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="smartHelp5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartHelp5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartHelp5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>424, 177</value>
+  </data>
+  <data name="smartHelp5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartHelp5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="smartHelp5.TabIndex" type="System.Int32, mscorlib">
+    <value>58</value>
+  </data>
+  <data name="smartHelp5.Text" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="&gt;&gt;smartHelp5.Name" xml:space="preserve">
+    <value>smartHelp5</value>
+  </data>
+  <data name="&gt;&gt;smartHelp5.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartHelp, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartHelp5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartHelp5.ZOrder" xml:space="preserve">
+    <value>57</value>
+  </data>
+  <data name="smartTextBox18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>333, 177</value>
+  </data>
+  <data name="smartTextBox18.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox18.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox18.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>85, 20</value>
+  </data>
+  <data name="smartTextBox18.TabIndex" type="System.Int32, mscorlib">
+    <value>57</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox18.Name" xml:space="preserve">
+    <value>smartTextBox18</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox18.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox18.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox18.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="smartLabel18.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel18.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel18.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>234, 176</value>
+  </data>
+  <data name="smartLabel18.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 13</value>
+  </data>
+  <data name="smartLabel18.TabIndex" type="System.Int32, mscorlib">
+    <value>56</value>
+  </data>
+  <data name="smartLabel18.Text" xml:space="preserve">
+    <value>Projektverzeichnis:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel18.Name" xml:space="preserve">
+    <value>smartLabel18</value>
+  </data>
+  <data name="&gt;&gt;smartLabel18.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel18.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel18.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="smartTextBox17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>136, 178</value>
+  </data>
+  <data name="smartTextBox17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox17.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox17.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>84, 20</value>
+  </data>
+  <data name="smartTextBox17.TabIndex" type="System.Int32, mscorlib">
+    <value>55</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox17.Name" xml:space="preserve">
+    <value>smartTextBox17</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox17.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox17.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox17.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="smartLabel19.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel19.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>82, 177</value>
+  </data>
+  <data name="smartLabel19.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 13</value>
+  </data>
+  <data name="smartLabel19.TabIndex" type="System.Int32, mscorlib">
+    <value>54</value>
+  </data>
+  <data name="smartLabel19.Text" xml:space="preserve">
+    <value>Benutzer:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel19.Name" xml:space="preserve">
+    <value>smartLabel19</value>
+  </data>
+  <data name="&gt;&gt;smartLabel19.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel19.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel19.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="smartLabel20.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 176</value>
+  </data>
+  <data name="smartLabel20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 13</value>
+  </data>
+  <data name="smartLabel20.TabIndex" type="System.Int32, mscorlib">
+    <value>53</value>
+  </data>
+  <data name="smartLabel20.Text" xml:space="preserve">
+    <value>(optional)</value>
+  </data>
+  <data name="&gt;&gt;smartLabel20.Name" xml:space="preserve">
+    <value>smartLabel20</value>
+  </data>
+  <data name="&gt;&gt;smartLabel20.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel20.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel20.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="smartLabel3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 17</value>
+  </data>
+  <data name="smartLabel3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 13</value>
+  </data>
+  <data name="smartLabel3.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="smartLabel3.Text" xml:space="preserve">
+    <value>2-stellige Rahmen-Nr.:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel3.Name" xml:space="preserve">
+    <value>smartLabel3</value>
+  </data>
+  <data name="&gt;&gt;smartLabel3.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel3.ZOrder" xml:space="preserve">
+    <value>51</value>
+  </data>
+  <data name="smartLabel6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 55</value>
+  </data>
+  <data name="smartLabel6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 13</value>
+  </data>
+  <data name="smartLabel6.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="smartLabel6.Text" xml:space="preserve">
+    <value>2-stellige Rahmen-Nr.:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel6.Name" xml:space="preserve">
+    <value>smartLabel6</value>
+  </data>
+  <data name="&gt;&gt;smartLabel6.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel6.ZOrder" xml:space="preserve">
+    <value>39</value>
+  </data>
+  <data name="smartLabel10.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 94</value>
+  </data>
+  <data name="smartLabel10.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 13</value>
+  </data>
+  <data name="smartLabel10.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="smartLabel10.Text" xml:space="preserve">
+    <value>2-stellige Rahmen-Nr.:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel10.Name" xml:space="preserve">
+    <value>smartLabel10</value>
+  </data>
+  <data name="&gt;&gt;smartLabel10.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel10.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel10.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="smartLabel14.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 136</value>
+  </data>
+  <data name="smartLabel14.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 13</value>
+  </data>
+  <data name="smartLabel14.TabIndex" type="System.Int32, mscorlib">
+    <value>52</value>
+  </data>
+  <data name="smartLabel14.Text" xml:space="preserve">
+    <value>2-stellige Rahmen-Nr.:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel14.Name" xml:space="preserve">
+    <value>smartLabel14</value>
+  </data>
+  <data name="&gt;&gt;smartLabel14.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel14.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel14.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="smartLabel17.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartLabel17.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartLabel17.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartLabel17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>486, 176</value>
+  </data>
+  <data name="smartLabel17.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="smartLabel17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>111, 13</value>
+  </data>
+  <data name="smartLabel17.TabIndex" type="System.Int32, mscorlib">
+    <value>60</value>
+  </data>
+  <data name="smartLabel17.Text" xml:space="preserve">
+    <value>2-stellige Rahmen-Nr.:</value>
+  </data>
+  <data name="&gt;&gt;smartLabel17.Name" xml:space="preserve">
+    <value>smartLabel17</value>
+  </data>
+  <data name="&gt;&gt;smartLabel17.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartLabel, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartLabel17.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartLabel17.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="smartComboBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox1.Items" xml:space="preserve">
+    <value>Bilanzposition (Kategorie)</value>
+  </data>
+  <data name="smartComboBox1.Items1" xml:space="preserve">
+    <value>Bilanzposition (abgekürzt)</value>
+  </data>
+  <data name="smartComboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 17</value>
+  </data>
+  <data name="smartComboBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 21</value>
+  </data>
+  <data name="smartComboBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>61</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox1.Name" xml:space="preserve">
+    <value>smartComboBox1</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox1.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox1.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="smartComboBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox2.Items" xml:space="preserve">
+    <value>Bilanzposition (Kategorie)</value>
+  </data>
+  <data name="smartComboBox2.Items1" xml:space="preserve">
+    <value>Bilanzposition (abgekürzt)</value>
+  </data>
+  <data name="smartComboBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 56</value>
+  </data>
+  <data name="smartComboBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 21</value>
+  </data>
+  <data name="smartComboBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox2.Name" xml:space="preserve">
+    <value>smartComboBox2</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox2.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox2.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="smartComboBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox3.Items" xml:space="preserve">
+    <value>Bilanzposition (Kategorie)</value>
+  </data>
+  <data name="smartComboBox3.Items1" xml:space="preserve">
+    <value>Bilanzposition (abgekürzt)</value>
+  </data>
+  <data name="smartComboBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 95</value>
+  </data>
+  <data name="smartComboBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 21</value>
+  </data>
+  <data name="smartComboBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>63</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox3.Name" xml:space="preserve">
+    <value>smartComboBox3</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox3.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox3.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="smartComboBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox4.Items" xml:space="preserve">
+    <value>Bilanzposition (Kategorie)</value>
+  </data>
+  <data name="smartComboBox4.Items1" xml:space="preserve">
+    <value>Bilanzposition (abgekürzt)</value>
+  </data>
+  <data name="smartComboBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 135</value>
+  </data>
+  <data name="smartComboBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 21</value>
+  </data>
+  <data name="smartComboBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>64</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox4.Name" xml:space="preserve">
+    <value>smartComboBox4</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox4.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox4.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="smartComboBox5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox5.Items" xml:space="preserve">
+    <value>Bilanzposition (Kategorie)</value>
+  </data>
+  <data name="smartComboBox5.Items1" xml:space="preserve">
+    <value>Bilanzposition (abgekürzt)</value>
+  </data>
+  <data name="smartComboBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 175</value>
+  </data>
+  <data name="smartComboBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 21</value>
+  </data>
+  <data name="smartComboBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>65</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox5.Name" xml:space="preserve">
+    <value>smartComboBox5</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox5.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox5.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="smartTextBox20.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="smartTextBox20.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>792, 176</value>
+  </data>
+  <data name="smartTextBox20.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox20.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox20.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="smartTextBox20.TabIndex" type="System.Int32, mscorlib">
+    <value>70</value>
+  </data>
+  <data name="smartTextBox20.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox20.Name" xml:space="preserve">
+    <value>smartTextBox20</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox20.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox20.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox20.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="smartTextBox16.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="smartTextBox16.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>793, 135</value>
+  </data>
+  <data name="smartTextBox16.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox16.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox16.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="smartTextBox16.TabIndex" type="System.Int32, mscorlib">
+    <value>69</value>
+  </data>
+  <data name="smartTextBox16.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox16.Name" xml:space="preserve">
+    <value>smartTextBox16</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox16.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox16.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox16.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="smartTextBox12.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="smartTextBox12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>793, 94</value>
+  </data>
+  <data name="smartTextBox12.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox12.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox12.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="smartTextBox12.TabIndex" type="System.Int32, mscorlib">
+    <value>68</value>
+  </data>
+  <data name="smartTextBox12.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox12.Name" xml:space="preserve">
+    <value>smartTextBox12</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox12.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox12.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox12.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="smartTextBox8.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="smartTextBox8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>793, 55</value>
+  </data>
+  <data name="smartTextBox8.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox8.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox8.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="smartTextBox8.TabIndex" type="System.Int32, mscorlib">
+    <value>67</value>
+  </data>
+  <data name="smartTextBox8.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox8.Name" xml:space="preserve">
+    <value>smartTextBox8</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox8.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox8.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="smartTextBox4.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="smartTextBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartTextBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>793, 16</value>
+  </data>
+  <data name="smartTextBox4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="smartTextBox4.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>667, 20</value>
+  </data>
+  <data name="smartTextBox4.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 20</value>
+  </data>
+  <data name="smartTextBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="smartTextBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>66</value>
+  </data>
+  <data name="smartTextBox4.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox4.Name" xml:space="preserve">
+    <value>smartTextBox4</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox4.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartTextBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartTextBox4.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="smartComboBox10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox10.Items" xml:space="preserve">
+    <value>keine Eingabe</value>
+  </data>
+  <data name="smartComboBox10.Items1" xml:space="preserve">
+    <value>Aktiva</value>
+  </data>
+  <data name="smartComboBox10.Items2" xml:space="preserve">
+    <value>Passiva</value>
+  </data>
+  <data name="smartComboBox10.Items3" xml:space="preserve">
+    <value>Ertrag</value>
+  </data>
+  <data name="smartComboBox10.Items4" xml:space="preserve">
+    <value>Verlust/Aufwand</value>
+  </data>
+  <data name="smartComboBox10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>794, 175</value>
+  </data>
+  <data name="smartComboBox10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 21</value>
+  </data>
+  <data name="smartComboBox10.TabIndex" type="System.Int32, mscorlib">
+    <value>75</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox10.Name" xml:space="preserve">
+    <value>smartComboBox10</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox10.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox10.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox10.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="smartComboBox9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox9.Items" xml:space="preserve">
+    <value>keine Eingabe</value>
+  </data>
+  <data name="smartComboBox9.Items1" xml:space="preserve">
+    <value>Aktiva</value>
+  </data>
+  <data name="smartComboBox9.Items2" xml:space="preserve">
+    <value>Passiva</value>
+  </data>
+  <data name="smartComboBox9.Items3" xml:space="preserve">
+    <value>Ertrag</value>
+  </data>
+  <data name="smartComboBox9.Items4" xml:space="preserve">
+    <value>Verlust/Aufwand</value>
+  </data>
+  <data name="smartComboBox9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>794, 134</value>
+  </data>
+  <data name="smartComboBox9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 21</value>
+  </data>
+  <data name="smartComboBox9.TabIndex" type="System.Int32, mscorlib">
+    <value>74</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox9.Name" xml:space="preserve">
+    <value>smartComboBox9</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox9.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox9.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="smartComboBox8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox8.Items" xml:space="preserve">
+    <value>keine Eingabe</value>
+  </data>
+  <data name="smartComboBox8.Items1" xml:space="preserve">
+    <value>Aktiva</value>
+  </data>
+  <data name="smartComboBox8.Items2" xml:space="preserve">
+    <value>Passiva</value>
+  </data>
+  <data name="smartComboBox8.Items3" xml:space="preserve">
+    <value>Ertrag</value>
+  </data>
+  <data name="smartComboBox8.Items4" xml:space="preserve">
+    <value>Verlust/Aufwand</value>
+  </data>
+  <data name="smartComboBox8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>794, 94</value>
+  </data>
+  <data name="smartComboBox8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 21</value>
+  </data>
+  <data name="smartComboBox8.TabIndex" type="System.Int32, mscorlib">
+    <value>73</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox8.Name" xml:space="preserve">
+    <value>smartComboBox8</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox8.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox8.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="smartComboBox7.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox7.Items" xml:space="preserve">
+    <value>keine Eingabe</value>
+  </data>
+  <data name="smartComboBox7.Items1" xml:space="preserve">
+    <value>Aktiva</value>
+  </data>
+  <data name="smartComboBox7.Items2" xml:space="preserve">
+    <value>Passiva</value>
+  </data>
+  <data name="smartComboBox7.Items3" xml:space="preserve">
+    <value>Ertrag</value>
+  </data>
+  <data name="smartComboBox7.Items4" xml:space="preserve">
+    <value>Verlust/Aufwand</value>
+  </data>
+  <data name="smartComboBox7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>794, 55</value>
+  </data>
+  <data name="smartComboBox7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 21</value>
+  </data>
+  <data name="smartComboBox7.TabIndex" type="System.Int32, mscorlib">
+    <value>72</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox7.Name" xml:space="preserve">
+    <value>smartComboBox7</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox7.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox7.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="smartComboBox6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartComboBox6.Items" xml:space="preserve">
+    <value>keine Eingabe</value>
+  </data>
+  <data name="smartComboBox6.Items1" xml:space="preserve">
+    <value>Aktiva</value>
+  </data>
+  <data name="smartComboBox6.Items2" xml:space="preserve">
+    <value>Passiva</value>
+  </data>
+  <data name="smartComboBox6.Items3" xml:space="preserve">
+    <value>Ertrag</value>
+  </data>
+  <data name="smartComboBox6.Items4" xml:space="preserve">
+    <value>Verlust/Aufwand</value>
+  </data>
+  <data name="smartComboBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>794, 16</value>
+  </data>
+  <data name="smartComboBox6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 21</value>
+  </data>
+  <data name="smartComboBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>71</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox6.Name" xml:space="preserve">
+    <value>smartComboBox6</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox6.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartComboBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartComboBox6.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="smartCheckBox1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartCheckBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartCheckBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartCheckBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>908, 18</value>
+  </data>
+  <data name="smartCheckBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 17</value>
+  </data>
+  <data name="smartCheckBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>76</value>
+  </data>
+  <data name="smartCheckBox1.Text" xml:space="preserve">
+    <value>extra als Excel-Datei exportieren</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox1.Name" xml:space="preserve">
+    <value>smartCheckBox1</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox1.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartCheckBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="smartCheckBox2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartCheckBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartCheckBox2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartCheckBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>908, 57</value>
+  </data>
+  <data name="smartCheckBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 17</value>
+  </data>
+  <data name="smartCheckBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>77</value>
+  </data>
+  <data name="smartCheckBox2.Text" xml:space="preserve">
+    <value>extra als Excel-Datei exportieren</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox2.Name" xml:space="preserve">
+    <value>smartCheckBox2</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox2.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartCheckBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="smartCheckBox3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartCheckBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartCheckBox3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartCheckBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>908, 96</value>
+  </data>
+  <data name="smartCheckBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 17</value>
+  </data>
+  <data name="smartCheckBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>78</value>
+  </data>
+  <data name="smartCheckBox3.Text" xml:space="preserve">
+    <value>extra als Excel-Datei exportieren</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox3.Name" xml:space="preserve">
+    <value>smartCheckBox3</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox3.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartCheckBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="smartCheckBox4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartCheckBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartCheckBox4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartCheckBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>908, 135</value>
+  </data>
+  <data name="smartCheckBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 17</value>
+  </data>
+  <data name="smartCheckBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>79</value>
+  </data>
+  <data name="smartCheckBox4.Text" xml:space="preserve">
+    <value>extra als Excel-Datei exportieren</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox4.Name" xml:space="preserve">
+    <value>smartCheckBox4</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox4.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartCheckBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="smartCheckBox5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="smartCheckBox5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 8.25pt</value>
+  </data>
+  <data name="smartCheckBox5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="smartCheckBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>908, 178</value>
+  </data>
+  <data name="smartCheckBox5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>177, 17</value>
+  </data>
+  <data name="smartCheckBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>80</value>
+  </data>
+  <data name="smartCheckBox5.Text" xml:space="preserve">
+    <value>extra als Excel-Datei exportieren</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox5.Name" xml:space="preserve">
+    <value>smartCheckBox5</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox5.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartCheckBox, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;smartCheckBox5.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1213, 216</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Arbeitsteilung</value>
+  </data>
+  <data name="&gt;&gt;smartDataExchanger1.Name" xml:space="preserve">
+    <value>smartDataExchanger1</value>
+  </data>
+  <data name="&gt;&gt;smartDataExchanger1.Type" xml:space="preserve">
+    <value>Audicon.SmartAnalyzer.Client.CustomControls.SmartDataExchanger, SA.Client.CustomControls, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b655f4f30f71e398</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>_DialogMainForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

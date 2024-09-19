@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageStartWorkflow xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <StandardLinksMask>Description AvailableItems GlobalParameters</StandardLinksMask>
+  <AppWorkflowFlags>UseLongActionDescriptions</AppWorkflowFlags>
+  <Action Index="1" Id="0d93f030-e518-40ec-9d20-75c840bd8191">
+    <StandardAction Type="CreateDataRequest">
+      <DisplayNameId>2c25d09c21ac4919ba6138c7e615c85c</DisplayNameId>
+      <DescriptionId>dc292b7a93764472af16cd019a40297e</DescriptionId>
+    </StandardAction>
+  </Action>
+  <Action Index="2" Id="de6976e7-ee46-4ed1-b423-8d823c1aa76d">
+    <StandardAction Type="CaseAdministration">
+      <DisplayNameId>c2aeb942c1984a1990a9851cb4aa7895</DisplayNameId>
+      <DescriptionId>2c9b0d43b4e64b57acb873314da4baeb</DescriptionId>
+    </StandardAction>
+  </Action>
+  <Action Index="3" Id="9a263062-5a99-416a-8221-a0ed60798cee">
+    <StandardAction Type="ProjectSelection">
+      <DisplayNameId>dc2ea517d2134d0b9eb53bcada8a570b</DisplayNameId>
+      <DescriptionId>9efd26822a9b4fd0b69ddafe424dbab2</DescriptionId>
+    </StandardAction>
+  </Action>
+  <Action Index="4">
+    <CustomAction ExecutionType="IdeaScript" ExecutionLocation="Default" StorageType="Database">
+      <DisplayNameId>e386104c13684fc08065917c3139bc54</DisplayNameId>
+      <ExecutableFile>Primanotenplan ändern (optional).iss</ExecutableFile>
+      <Options>WithCustomDialog</Options>
+      <DescriptionId>bc59b0d2ea24444d8c30bf2657492c45</DescriptionId>
+    </CustomAction>
+  </Action>
+  <Action Index="5" Id="eeb08e62-9cb9-42e2-b0ae-6b09a90c3eea">
+    <StandardAction Type="RunSir">
+      <DisplayNameId>1db46569cdbe480c973b6bc276510fc5</DisplayNameId>
+      <DescriptionId>7c6242b9e9dd4561b3667bbf9a3f18da</DescriptionId>
+    </StandardAction>
+  </Action>
+  <Action Index="6" Id="5767f7bd-6fcb-447e-b66a-bd18146e5326">
+    <StandardAction Type="PrepareImportedData">
+      <DisplayNameId>01b4d0da79554579a1c680c8f704ed13</DisplayNameId>
+      <DescriptionId>ca3a419a40264f3596e07dfc53789d39</DescriptionId>
+    </StandardAction>
+  </Action>
+  <Action Index="7" Id="207afe1e-08c4-4082-a63e-ce01fab40af0">
+    <StandardAction Type="RunAuditTests">
+      <DisplayNameId>d6a8089de5ac4ee7931d2646648623b0</DisplayNameId>
+      <DescriptionId>f7b259003f7e435eb836aa9521009063</DescriptionId>
+    </StandardAction>
+  </Action>
+  <Action Index="8" Id="1bfe1700-3a65-4c16-a9d1-60381d0fbf80">
+    <StandardAction Type="ResultsAndReporting">
+      <DisplayNameId>103a5c8bc4dd461b837753ea7ab2ff4a</DisplayNameId>
+      <DescriptionId>8501a0b3e4a446e99da3d318fd68683c</DescriptionId>
+    </StandardAction>
+  </Action>
+  <Action Index="9">
+    <CustomAction ExecutionType="IdeaScript" ExecutionLocation="Default" StorageType="Database">
+      <DisplayNameId>80ea8676230e4a40a25aa5bbbd0cc3ff</DisplayNameId>
+      <ExecutableFile>Arbeitsteilung.iss</ExecutableFile>
+      <Options>WithCustomDialog</Options>
+      <DescriptionId>7e20ae5a1e464648aa02a39e84d19da2</DescriptionId>
+    </CustomAction>
+  </Action>
+  <RelatedItemsExpression RelatedItemType="AllTypes">SKAWorkflow.rcoeq</RelatedItemsExpression>
+  <EmbeddedDialogs>
+    <EmbeddedDialog>
+      <Path>Dialog_Arbeitsteilung\Dialog_Arbeitsteilung.csproj</Path>
+      <Identifier>Dialog_Arbeitsteilung</Identifier>
+      <LocalizableItems>
+        <Item>!DialogMainForm.resx</Item>
+        <Item>DialogStrings.resx</Item>
+      </LocalizableItems>
+    </EmbeddedDialog>
+    <EmbeddedDialog>
+      <Path>PNChange\PNChange.csproj</Path>
+      <Identifier>Modify_PN</Identifier>
+      <LocalizableItems>
+        <Item>!DialogMainForm.resx</Item>
+        <Item>DialogStrings.resx</Item>
+      </LocalizableItems>
+    </EmbeddedDialog>
+    <EmbeddedDialog>
+      <Path>New_Arbeitsteilung\Arbeitsteilung_Schritt1.csproj</Path>
+      <Identifier>Arbeitsteilung_Schritt1</Identifier>
+      <LocalizableItems>
+        <Item>!DialogMainForm.resx</Item>
+        <Item>DialogStrings.resx</Item>
+      </LocalizableItems>
+    </EmbeddedDialog>
+  </EmbeddedDialogs>
+</PackageStartWorkflow>

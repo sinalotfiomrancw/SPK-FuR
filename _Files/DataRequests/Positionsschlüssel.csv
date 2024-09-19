@@ -1,0 +1,89 @@
+Bilanz / GuV;Position;Unterposition 1;Unterposition 2;Unterposition 3;OBR-Schlüssel;Bezeichnung
+Aktiva;1;;;;EA01__;Barreserve
+Aktiva;1;1a;;;EA01a_;Kassenbestand
+Aktiva;1;1b;;;EA01b_;Guthaben bei der Deutschen Bundesbank
+Aktiva;2;;;;EA02__;Schuldtitel öffentlicher Stellen und Wechsel, die zur Refinanzierung bei der Deutschen Bundesbank zugelassen sind
+Aktiva;2;2a;;;EA02a_;Schatzwechsel und unverzinsliche Schatzanweisungen sowie ähnliche Schuldtitel öffentlicher Stellen
+Aktiva;2;2b;;;EA02b_;Wechsel
+Aktiva;3;;;;EA03__;Forderungen an Kreditinstitute
+Aktiva;3;3a;;;EA03a_;täglich fällig
+Aktiva;3;3b;;;EA03b_;andere Forderungen
+Aktiva;4;;;;EA04__;Forderungen an Kunden
+Aktiva;4;;;darunter;EA04__xxx;darunter durch Grundpfandrechte gesichert
+Aktiva;4;;;darunter;EA04__xxx;darunter Kommunalkredite
+Aktiva;5;;;;EA05__;Schuldverschreibungen und andere festverzinsliche Wertpapiere
+Aktiva;5;5a;;;EA05a_;Geldmarktpapiere
+Aktiva;5;5a;5aa;;EA05aa;von öffentlichen Emittenten
+Aktiva;5;5a;5aa;darunter;EA05aaxxx;darunter beleihbar bei der Deutschen Bundesbank
+Aktiva;5;5a;5ab;;EA05ab;von anderen Emittenten
+Aktiva;5;5a;5ab;darunter;EA05abxxx;darunter beleihbar bei der Deutschen Bundesbank
+Aktiva;5;5b;;;EA05b_;Anleihen und Schuldverschreibungen
+Aktiva;5;5b;5ba;;EA05ba;von öffentlichen Emittenten
+Aktiva;5;5b;5ba;darunter;EA05baxxx;darunter beleihbar bei der Deutschen Bundesbank
+Aktiva;5;5b;5bb;;EA05bb;von anderen Emittenten
+Aktiva;5;5b;5bb;darunter;EA05bbxxx;darunter beleihbar bei der Deutschen Bundesbank
+Aktiva;5;5c;;;EA05c_;eigene Schuldverschreibungen
+Aktiva;5;5c;;;EA05c_;Nennbetrag
+Aktiva;6;;;;EA06__;Aktien und andere nicht festverzinsliche Wertpapiere
+Aktiva;6;6a;;;EA06a_;Handelsbestand
+Aktiva;7;;;;EA07__;Beteiligungen 
+Aktiva;7;;;darunter;EA07__xxx;darunter an Kreditinstituten
+Aktiva;7;;;darunter;EA07__xxx;darunter an Finanzdienstleistungsinstituten
+Aktiva;8;;;;EA08__;Anteile an verbundenen Unternehmen
+Aktiva;8;;;darunter;EA08__xxx;darunter an Kreditinstituten
+Aktiva;8;;;darunter;EA08__xxx;darunter an Finanzdienstleistungsinstituten
+Aktiva;9;;;;EA09__;Treuhandvermögen
+Aktiva;9;;;darunter;EA09__xxx;darunter Treuhandkredite
+Aktiva;10;;;;EA10__;Ausgleichsforderungen gegen die öffentliche Hand einschließlich Schuldverschreibungen aus deren Umtausch
+Aktiva;11;;;;EA11__;Immaterielle Anlagewerte:
+Aktiva;11;11a;;;EA11a_;selbst geschaffene gewerbliche Schutzrechte und ähnliche Rechte und Werte
+Aktiva;11;11b;;;EA11b_;entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten
+Aktiva;11;11c;;;EA11c_;Geschäfts- oder Firmenwert
+Aktiva;11;11d;;;EA11d_;geleistete Anzahlungen
+Aktiva;12;;;;EA12__;Sachanlagen
+Aktiva;13;;;;EA13__;Sonstige Vermögensgegenstände
+Aktiva;14;;;;EA14__;Rechnungsabgrenzungsposten
+Passiva;1;;;;EP01__;Verbindlichkeiten gegenüber Kreditinstituten
+Passiva;1;1a;;;EP01a_;täglich fällig
+Passiva;1;1b;;;EP01b_;mit vereinbarter Laufzeit oder Kündigungsfrist
+Passiva;2;;;;EP02_;Verbindlichkeiten gegenüber Kunden
+Passiva;2;2a;;;EP02a_;Spareinlagen
+Passiva;2;2a;2aa;;EP02aa;mit vereinbarter Kündigungsfrist von drei Monaten
+Passiva;2;2a;2ab;;EP02ab;mit vereinbarter Kündigungsfrist von mehr als drei Monaten
+Passiva;2;2b;;;EP02b_;andere Verbindlichkeiten
+Passiva;2;2b;2ba;;EP02ba;täglich fällig
+Passiva;2;2b;2bb;;EP02bb;mit vereinbarter Laufzeit oder Kündigungsfrist
+Passiva;3;;;;EP03__;Verbriefte Verbindlichkeiten
+Passiva;3;3a;;;EP03a_;begebene Schuldverschreibungen
+Passiva;3;3b;;;EP03b_;andere verbriefte Verbindlichkeiten
+Passiva;3;3b;;darunter;EP03b_xxx;darunter Geldmarktpapiere
+Passiva;3;3b;;darunter;EP03b_xxx;darunter eigene Akzepte und Solawechsel im Umlauf
+Passiva;3;3a;;;EP03a_;Handelsbestand
+Passiva;4;;;;EP04__;Treuhandverbindlichkeiten
+Passiva;4;;;darunter;EP04__xxx;darunter Treuhandkredite
+Passiva;5;;;;EP05__;Sonstige Verbindlichkeiten
+Passiva;6;;;;EP06__;Rechnungsabgrenzungsposten
+Passiva;7;;;;EP07__;Rückstellungen
+Passiva;7;7a;;;EP07a_;Rückstellungen für Pensionen und ähnliche Verpflichtungen
+Passiva;7;7b;;;EP07b_;Steuerrückstellungen
+Passiva;7;7c;;;EP07c_;andere Rückstellungen
+Passiva;8;;;;EP08__;Sonderposten mit Rücklageanteil
+Passiva;9;;;;EP09__;Nachrangige Verbindlichkeiten
+Passiva;10;;;;EP10__;Genussrechtskapital
+Passiva;10;;;;EP10__;darunter vor Ablauf von zwei Jahren fällig
+Passiva;11;;;;EP11__;Fonds für allgemeine Bankrisiken
+Passiva;12;;;;EP12__;Eigenkapital
+Passiva;12;12a;;;EP12a_;gezeichnetes Kapital
+Passiva;12;12b;;;EP12b_;Kapitalrücklage
+Passiva;12;12c;;;EP12c_;Gewinnrücklagen
+Passiva;12;12c;12ca;;EP12ca;Sicherheitsrücklage
+Passiva;12;12c;12cb;;EP12cb;andere Rücklagen
+Passiva;12;12d;;;EP12d_;Bilanzgewinn
+Passiva;u1;;;;EP0u1_;Eventualverbindlichkeiten
+Passiva;u1;u1a;;;EP0u1a;Eventualverbindlichkeiten aus weitergegebenen abgerechneten Wechseln
+Passiva;u1;u1b;;;EP0u1b;Verbindlichkeiten aus Bürgschaften und Gewährleistungsverträgen
+Passiva;u1;u1c;;;EP0u1c;Haftung aus der Bestellung von Sicherheiten für fremde Verbindlichkeiten
+Passiva;u2;;;;EP0u2_;Andere Verpflichtungen
+Passiva;u2;u2a;;;EP0u2a;Rücknahmeverpflichtungen aus unechten Pensionsgeschäften
+Passiva;u2;u2b;;;EP0u2b;Platzierungs- und Übernahmeverpflichtungen
+Passiva;u2;u2c;;;EP0u2c;Unwiderrufliche Kreditzusagen

@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContentObjectName" xml:space="preserve">
+    <value>SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken</value>
+    <comment>Name of the content item/app (max. length =128 characters).</comment>
+  </data>
+  <data name="DeploymentFileName" xml:space="preserve">
+    <value>SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken.dep</value>
+    <comment>Do Not Translate</comment>
+  </data>
+<data name="MAX_EQUATION_LENGTH" xml:space="preserve">
+    <value>Maximale Länge der Gleichung wird auf {0} gesetzt</value>
+  </data>
+  <data name="ID_Result_1" xml:space="preserve">
+    <value>Umsätze mit kritischen Verwendungszwecken</value>
+  </data>
+  <data name="ID_ResultDescription_1_A" xml:space="preserve">
+    <value>Umsätze gemäß den in den Filterbedingungen definierten Werten, bei denen die eingegebenen kritischen Verwendungszwecken und/oder kurzen Verwendungszwecken zutreffen.</value>
+  </data>
+  <data name="ID_ResultDescription_1_B" xml:space="preserve">
+    <value>Diese Ergebnisdatei ist leer. Es gibt keine Umsätze in der zugewiesenen Datei, die den gewählten Filterbedingungen (Kontonummer, Buchungsdatum und Betrag) entsprechen.</value>
+  </data>
+  <data name="ID_ResultDescription_1_C" xml:space="preserve">
+    <value>Diese Ergebnisdatei ist leer. Es gibt keine Umsätze in der zugewiesenen Datei, die den gewählten Filterbedingungen (kritische und kurze Verwendungszwecken) entsprechen.</value>
+  </data>
+  <data name="ID_ResultExcelExport_1" xml:space="preserve">
+    <value>Analyse des Verwendungszwecks</value>
+    <comment>Max. 31 characters allowed for short name result.</comment>
+  </data>
+  <data name="ID_Fieldname_CriticalText" xml:space="preserve">
+    <value>KRITISCHER_BUCHUNGSTEXT</value>
+  </data>
+  <data name="ID_Fieldname_Existing_CriticalText" xml:space="preserve">
+    <value>BESTEHENDE_KRITISCHE_TEXTE</value>
+  </data>
+  <data name="ID_Fielddescription_CriticalText_B" xml:space="preserve">
+    <value>Enthält ein X, wenn ein kritischer Verwendungszweck als ganzes Wort im Sinne der Filterdefinition im Feld {0} vorliegt.</value>
+    <comment>String contains placeholder "Verwendungszweck" for the name of the tagged field.</comment>
+  </data>
+  <data name="ID_Fielddescription_CriticalText_A" xml:space="preserve">
+    <value>Enthält ein X, wenn ein kritischer Verwendungszweck im Sinne der Filterdefinition im Feld {0} vorliegt.</value>
+    <comment>String contains placeholder "Verwendungszweck" for the name of the tagged field.</comment>
+  </data>
+  <data name="ID_Fielddescription_Existing_CriticalText_B" xml:space="preserve">
+    <value>Enthält kritische Texte als ganzes Wort, wenn sie im Sinne der Filterdefinition im Feld {0} vorhanden sind.</value>
+    <comment>String contains placeholder "Verwendungszweck" for the name of the tagged field.</comment>
+  </data>
+  <data name="ID_Fielddescription_Existing_CriticalText_A" xml:space="preserve">
+    <value>Enthält kritische Verwendungszweck, wenn sie im Sinne der Filterdefinition im Feld {0} vorhanden sind.</value>
+    <comment>String contains placeholder "Verwendungszweck" for the name of the tagged field.</comment>
+  </data>
+  <data name="ID_Fieldname_ShortText" xml:space="preserve">
+    <value>KURZER_BUCHUNGSTEXT</value>
+  </data>
+  <data name="ID_Fielddescription_ShortText" xml:space="preserve">
+    <value>Enthält ein X, wenn ein kurzer Verwendungszweck im Feld {0} im Sinne der Filterdefinition vorliegt (Länge des Textes ist kleiner oder gleich {1} Zeichen).</value>
+    <comment>String contains placeholder - {1} for a number that is set in dialog - {0} for the name of the tagged field.</comment>
+  </data>
+  <data name="ErrDescrEmptyTableFailsAT" xml:space="preserve">
+    <value>Prüfungsschritt ist fehlgeschlagen, da die Datei '{0}' leer ist.</value>
+  </data>
+  <data name="LengthOfCriticalText" xml:space="preserve">
+    <value>Länge des kritischen Textes: {0}</value>
+  </data>
+  <data name="ErrDescrCriticalTexTooLongForFieldEquation" xml:space="preserve">
+    <value>Überprüfen Sie die Liste der kritischen Verwendungszwecke. Ein Filterausdruck, der die für IDEA festgelegte maximale Länge einer Gleichung überschreitet, kann nicht generiert werden.</value>
+  </data>
+  <data name="ErrDescrNoResultsFailsAT" xml:space="preserve">
+    <value>Prüfungsschritt ist fehlgeschlagen, da keine finalen Ergebnisse generiert werden konnten.</value>
+  </data>
+  <data name="ErrDescrErrCreatingResult" xml:space="preserve">
+    <value>Beim Erstellen der finalen Ergebnisse für die Berichterstellung ist ein Fehler aufgetreten.</value>
+  </data>
+  <data name="LengthOfFilterExpression" xml:space="preserve">
+    <value>Länge des Filterausdrucks: {0}</value>
+  </data>
+  <data name="ErrorMessFilterExpressionTooLong" xml:space="preserve">
+    <value>Überprüfen Sie die Liste der Sachkontonummernbereiche. Ein Filterausdruck, der die für IDEA festgelegte maximale Länge einer Gleichung überschreitet, kann nicht generiert werden.</value>
+  </data>
+  <data name="ErrorMessUnspecifiedSourceDatabase" xml:space="preserve">
+    <value>Der Filterausdruck kann nicht generiert werden, da der Dateiname als Eingabeparameter nicht verfügbar ist.</value>
+  </data>
+  <data name="MessTempColumns" xml:space="preserve">
+    <value>Die Liste der temporären Feldnamen, die aus der Quelldatei gelöscht werden sollen, ist leer.</value>
+  </data>
+  <data name="DateMask" xml:space="preserve">
+    <value>Datumsmaske:</value>
+  </data>
+</root>

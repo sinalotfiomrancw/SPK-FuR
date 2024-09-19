@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AuditTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" EditorVersion="2.2.1">
+  <Executable>
+    <Type>ISS</Type>
+    <Path>Stichprobenziehung (Zufallsauswahl).iss</Path>
+  </Executable>
+  <Dialog Optional="false">
+    <ProjectLocation>..\..\_GlobalDialogs\SK_allgemein_Stichprobenauswahl</ProjectLocation>
+    <ProjectFile>Dialog.csproj</ProjectFile>
+    <LocalizableItems>
+      <Item>DialogStrings.resx</Item>
+      <Item>MacroForm.resx</Item>
+    </LocalizableItems>
+  </Dialog>
+</AuditTest>

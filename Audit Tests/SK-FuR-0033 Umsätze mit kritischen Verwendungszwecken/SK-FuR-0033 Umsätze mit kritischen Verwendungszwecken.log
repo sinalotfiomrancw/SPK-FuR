@@ -1,0 +1,312 @@
+﻿----------------------------------------------------------------------------------------------------
+Operating System Info
+----------------------------------------------------------------------------------------------------
+Version:            Microsoft Windows NT 6.2.9200.0 (64-bit)
+Language:           Deutsch
+
+----------------------------------------------------------------------------------------------------
+Caseware IDEA Information
+----------------------------------------------------------------------------------------------------
+Version:            12.2.61.159 (64-bit)
+Language:           DE
+Standard:           ASCII
+License Key:        c71293b00df965842ca6
+DateTime Mask:      YYYYMMDD hh:mm:ss tt
+
+----------------------------------------------------------------------------------------------------
+SmartAnalyzer Information
+----------------------------------------------------------------------------------------------------
+sa.client.controls.dll                            	12.2.57.155
+sa.client.common.dll                              	12.2.57.155
+sa.client.columnsselector.dll                     	12.2.57.155
+sa.client.customcontrols.dll                      	12.2.57.155
+sa.ideacommands.dll                               	12.2.57.155
+sa.client.licensing.dll                           	12.2.57.155
+sa.client.transferownership.exe                   	12.2.57.155
+sa.cirs.mpp.dll                                   	12.2.57.155
+sa.cirs.common.interfaces.dll                     	12.2.57.155
+sa.client.automation.dll                          	12.2.57.155
+sa.activities.dll                                 	12.2.57.155
+sa.cirs.standardtables.interfaces.dll             	12.2.57.155
+sa.cirs.auds.standardtables.dll                   	12.2.57.155
+sa.cirs.mpp.interfaces.dll                        	12.2.57.155
+sa.client.convertor.engine.dll                    	12.2.57.155
+sa.client.additionaltools.dll                     	12.2.57.155
+sa.client.maintenance.dll                         	12.2.57.155
+sa.automationids.exe                              	12.2.57.155
+sa.cirs.auds.standardtables.interfaces.dll        	12.2.57.155
+sa.cirs.standardtables.dll                        	12.2.57.155
+sa.cirs.common.dll                                	12.2.57.155
+sa.common.dll                                     	12.2.57.155
+sa.components.dll                                 	12.2.57.155
+sa.parameters.dll                                 	12.2.57.155
+sa.client.dblayer.dll                             	12.2.57.155
+sa.client.components.dll                          	12.2.57.155
+sa.client.tagging.dll                             	12.2.57.155
+sa.globalresources.dll                            	12.2.57.155
+sa.client.caseadmin.dll                           	12.2.57.155
+sa.client.dialogloader.dll                        	12.2.57.155
+sa.ideaaccess.dll                                 	12.2.57.155
+sa.client.appworkflow.dll                         	12.2.57.155
+sa.appimporter.exe                                	12.2.57.155
+
+actiprosoftware.themes.metro.wpf.dll              	15.1.623.0
+tx21_css.dll                                      	21.0.213.500
+txtextcontrol.wpf.dll                             	21.0.600.500
+actiprosoftware.navigation.wpf.dll                	15.1.623.0
+txtools.dll                                       	21.0.420.500
+txic.dll                                          	21.0.510.500
+c1.wpf.datagrid.4.dll                             	4.0.20142.419
+c1.wpf.datetimeeditors.4.dll                      	4.0.20142.419
+tx21_xml.dll                                      	21.0.146.500
+actiprosoftware.docking.wpf.dll                   	15.1.623.0
+tx21_dox.dll                                      	21.0.151.501
+microsoft.office.interop.outlook.dll              	11.0.5530
+actiprosoftware.editors.wpf.dll                   	15.1.623.0
+office.dll                                        	11.0.5530
+tx21_doc.dll                                      	21.0.551.501
+entityframework.dll                               	6.400.420.21404
+c1.wpf.flexgrid.4.dll                             	4.0.20142.419
+gembox.spreadsheet.dll                            	39.3.30.1037
+xceed.compression.dll                             	4.1.10110.0
+xceed.zip.dll                                     	4.1.10110.0
+txpdf.dll                                         	21.0.800.500
+tx21_pdf.dll                                      	21.0.151.500
+tx21_htm.dll                                      	21.0.406.501
+tx21_rtf.dll                                      	21.0.551.501
+actiprosoftware.shared.wpf.dll                    	15.1.623.0
+c1.wpf.4.dll                                      	4.0.20142.419
+xceed.filesystem.dll                              	4.1.10110.0
+actiprosoftware.wizard.wpf.dll                    	15.1.623.0
+c1.wpf.extended.4.dll                             	4.0.20142.419
+txkernel.dll                                      	21.0.2100.500
+txtextcontrol.dll                                 	21.0.1400.500
+actiprosoftware.ribbon.wpf.dll                    	15.1.623.0
+microsoft.activities.extensions.dll               	2.0.6.9
+
+----------------------------------------------------------------------------------------------------
+Globalization Information
+----------------------------------------------------------------------------------------------------
+Decimal Separator:  ,
+List Separator:     ;
+Short Date:         dd.MM.yyyy
+Short Time:         HH:mm
+
+----------------------------------------------------------------------------------------------------
+Run Information
+----------------------------------------------------------------------------------------------------
+Logical Id:                   e34a1658-cf8f-4f1d-bb98-a69f35a39ef1
+Id:                           d1e29b0e-4635-5e9d-936c-f9fa1f62e260
+Content Entity Type:          Test
+Internal Name:                SK-FuR-0033
+Version:                      1.0.0.349539358
+Language:                     de
+Owner Name:                   Audicon Consulting
+Project Folder:               C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\
+Project Free Disk Space:      250,264 GB
+IDEA Temp:                    C:\Users\sina.lotfi\AppData\Local\Temp\
+IDEA Temp Free Disk Space:    250,264 GB
+System Temp:                  C:\Users\sina.lotfi\AppData\Local\Temp\
+System Temp Free Disk Space:  250,264 GB
+Session ID:                   0042a245-c0b8-4c78-9314-4c732b43e1b4
+Run on Server:                False
+Start Date:                   01/29/2024 14:44:27
+Completion Date:              01/29/2024 14:47:56
+Period:                       11/30/2023 00:00:00 - 12/31/2050 00:00:00
+State:                        Completed
+Message
+----------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------------------------------------------------------
+Eingabedateien
+----------------------------------------------------------------------------------------------------
+{Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD
+
+----------------------------------------------------------------------------------------------------
+Parameters
+----------------------------------------------------------------------------------------------------
+ID:                 smartCheckBox10
+Value:              Ausgewählt
+
+ID:                 smartCheckBox7
+Value:              Nicht ausgewählt
+
+ID:                 smartSingleList1
+Value:              Abfindung; Absetzung; Anweisung; Aufsichtsrat; bekannt; Bestechung; Bonifikation; Bonuszahlung; Bußgeld; Bussgeld; cum-cum; cumcum; cum cum; cum-ex; cumex; cum ex; Casino; Corona; Covid; Dauerkarte; Entschädigung; Fake; Fehler; Gefälligkeit; geheim; Geldwäsche; Gemälde; Gratifikation; Handgeld; Handreichung; Klage; korrupt; ohne Beleg; ohne Nachweis; Oldtimer; Omikron; Putin; privat; russ; Sanktion; Schmiergeld; Schmuck; Schwarzgeld; sila v pravde; Skandal; Sonderzahlung; Spende; Spielbank; Straf; Subvention; Test; Untersuchung; Vergütung; Vorstand; Vorteil; Wirecard; za pobedu
+
+ID:                 smartCheckBox8
+Value:              Nicht ausgewählt
+
+ID:                 smartTextBox4
+Value:              0
+
+ID:                 smartFromToList1
+Value:              
+
+ID:                 smartFromToList2
+Value:              
+
+ID:                 smartSingleList2
+Value:              
+
+ID:                 smartTextBox3
+Value:              0,00
+
+ID:                 smartTextBox2
+Value:              
+
+ID:                 smartTextBox1
+Value:              
+
+
+----------------------------------------------------------------------------------------------------
+Tags
+----------------------------------------------------------------------------------------------------
+ID:                 acc!KONTO_NR
+Name:               acc!KONTO_NR
+Description:        
+Display Name:       Konto Nummer
+Data Type:          Character
+Mandatory:          True
+Assigned Field:     KONTO_NR(Character)
+
+ID:                 acc!BETRAG
+Name:               acc!BETRAG
+Description:        
+Display Name:       Betrag
+Data Type:          Numeric
+Mandatory:          True
+Assigned Field:     BETRAG(Numeric)
+
+ID:                 acc!BUDAT
+Name:               acc!BUDAT
+Description:        
+Display Name:       Buchungsdatum
+Data Type:          Date
+Mandatory:          True
+Assigned Field:     BUCHUNGSDATUM(Date)
+
+ID:                 acc!VERZW
+Name:               acc!VERZW
+Description:        
+Display Name:       Verwendungszweck
+Data Type:          Character
+Mandatory:          True
+Assigned Field:     VERWENDUNGSZWECK(Character)
+
+
+----------------------------------------------------------------------------------------------------
+Created Results
+----------------------------------------------------------------------------------------------------
+Type:                         SourceTable
+Visible:                      True
+Report Sequence:              1
+Name:                         {Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD
+ID:                           {4EADD474-8F71-4C8D-BF5A-D3595C8A727E}
+Parent ID:                    {BC6368AB-CE59-4B2C-A636-1AC25925A577}
+Record Count:                 2146892
+Supported Report Types:       
+Supported Export Types:       
+
+Extra Values
+----------------------------------------------------------------------------------------------------
+SA-Location                   =Client
+
+Type:                         FinalResult
+Visible:                      True
+Report Sequence:              3
+Name:                         SK-FuR-0033-Umsätze mit kritischen Verwendungszwecken.IMD
+ID:                           {299BBA8B-A161-47DF-B6B1-D72165B86AAE}
+Parent ID:                    {914431A9-F63F-4F2E-97F1-9EB044FADA52}
+Record Count:                 5
+Supported Report Types:       
+Supported Export Types:       
+
+Extra Values
+----------------------------------------------------------------------------------------------------
+Description                   =Umsätze gemäß den in den Filterbedingungen definierten Werten, bei denen die eingegebenen kritischen Verwendungszwecken und/oder kurzen Verwendungszwecken zutreffen.
+SA-Location                   =Client
+ShortName                     =Analyse des Verwendungszwecks
+
+
+----------------------------------------------------------------------------------------------------
+Trace Information
+----------------------------------------------------------------------------------------------------
+01/29/2024 14:44:27 Information         ***bIsServerTask=False; ExecutionStatus: 0 (FAIL)
+01/29/2024 14:44:27 Information         ***SK-FuR-0033; sWorkDir on Client: C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\
+01/29/2024 14:44:27 Information         Prüfungsschritt: SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken; Version des Prüfungsschritts: 1.0.0.349539358
+01/29/2024 14:44:27 Information         ***SK-FuR-0033 UmsÃ¤tze mit kritischen Verwendungszwecken; Audit Test Version: 1.0.0.349539358
+01/29/2024 14:44:27 Information         Startdatum und -zeit: 29.01.2024 15:44:27; Auf Desktop ausführen
+01/29/2024 14:44:27 Information         ***START Date And Time: 29.01.2024 15:44:27
+01/29/2024 14:44:27 Information         Datumsmaske:YYYYMMDD
+01/29/2024 14:44:27 Information         *** === sDateMask: YYYYMMDD
+01/29/2024 14:44:27 Information         Listentrennzeichen: ;
+01/29/2024 14:44:27 Information         ***sDBExtension: .IMD; ListSeparator: ;
+01/29/2024 14:44:27 Information         Maximale Länge der Gleichung wird auf 10000 gesetzt
+01/29/2024 14:44:27 Information         ***MAX_EQUATION_LENGTH: 10000
+01/29/2024 14:44:27 Information         Quelldatei: {Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD
+01/29/2024 14:44:27 Information         ***number of entries in Primarys history when macro starts: 26
+01/29/2024 14:44:28 Information         ***NI_1; FileName: C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\{Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD
+01/29/2024 14:44:28 Information         ***NumberOfIndices: 3
+01/29/2024 14:44:28 Information         ***Number of indices on table: C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\{Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD; NumberOfIndeces: 3
+01/29/2024 14:44:28 Information         ***MacroValidation; Initial number of indices on source table: 3
+01/29/2024 14:44:28 Information         Filter = (1)
+01/29/2024 14:44:28 Information         ***BuildEquation_FromToList_1: 
+01/29/2024 14:44:28 Information         ***Reserved equation: 1 .AND. (@abs(BETRAG) >= 0,00), reservedlength: 39
+01/29/2024 14:44:28 Information         ***Built equation(sAccounts) : (1)
+01/29/2024 14:44:28 Information         ***Final equation: 1 .AND. (@abs(BETRAG) >= 0,00) .AND. ((1))
+01/29/2024 14:44:28 Information         Filter = (1)
+01/29/2024 14:44:28 Information         ***BuildEquation_FromToList2_1: 
+01/29/2024 14:44:28 Information         ***Reserved equation: 1 .AND. (@abs(BETRAG) >= 0,00) .AND. ((1)), reservedlength: 51
+01/29/2024 14:44:28 Information         ***Built equation(snRahmennr) : (1)
+01/29/2024 14:44:28 Information         ***Final equation: 1 .AND. (@abs(BETRAG) >= 0,00) .AND. ((1)) .AND. ((1))
+01/29/2024 14:44:28 Information         Filter = (1)
+01/29/2024 14:44:28 Information         ***BuildEquation_SingleList3_1: 
+01/29/2024 14:44:28 Information         ***Reserved equation: 1 .AND. (@abs(BETRAG) >= 0,00) .AND. ((1)) .AND. ((1)), reservedlength: 63
+01/29/2024 14:44:28 Information         ***Built equation(snPositionShort) : (1)
+01/29/2024 14:44:28 Information         ***Final equation: 1 .AND. (@abs(BETRAG) >= 0,00) .AND. ((1)) .AND. ((1)) .AND. ((1))
+01/29/2024 14:44:28 Information         ***BuildEquation_SingleList3_1, eqn: 1 .AND. (@abs(BETRAG) >= 0,00) .AND. ((1)) .AND. ((1)) .AND. ((1))
+01/29/2024 14:44:31 Information         ***Preparation; CloseDB for sdbname: {Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD
+01/29/2024 14:44:31 Information         ***aTempFiles(0): C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033~Temp0.IMD
+01/29/2024 14:44:31 Information         ***aFiles(1): C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033~Temp0.IMD
+01/29/2024 14:44:31 Information         ***AFN_0, created: C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033~Temp0.IMD
+01/29/2024 14:44:31 Information         ***not chkWordSearch equations for New Field ID_Fieldname_CriticalText/CriticalHead, eqn3: @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Abfindung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Abfindung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Absetzung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Absetzung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Anweisung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Anweisung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Aufsichtsrat")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Aufsichtsrat")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("bekannt")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("bekannt")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bestechung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bestechung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bonifikation")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bonifikation")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bonuszahlung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bonuszahlung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bußgeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bußgeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bussgeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bussgeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum-cum")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum-cum")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cumcum")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cumcum")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum cum")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum cum")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum-ex")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum-ex")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cumex")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cumex")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum ex")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum ex")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Casino")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Casino")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Corona")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Corona")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Covid")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Covid")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Dauerkarte")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Dauerkarte")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Entschädigung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Entschädigung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Fake")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Fake")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Fehler")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Fehler")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gefälligkeit")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gefälligkeit")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("geheim")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("geheim")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Geldwäsche")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Geldwäsche")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gemälde")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gemälde")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gratifikation")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gratifikation")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Handgeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Handgeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Handreichung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Handreichung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Klage")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Klage")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("korrupt")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("korrupt")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("ohne Beleg")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("ohne Beleg")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("ohne Nachweis")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("ohne Nachweis")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Oldtimer")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Oldtimer")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Omikron")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Omikron")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Putin")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Putin")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("privat")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("privat")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("russ")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("russ")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Sanktion")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Sanktion")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schmiergeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schmiergeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schmuck")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schmuck")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schwarzgeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schwarzgeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("sila v pravde")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("sila v pravde")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Skandal")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Skandal")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Sonderzahlung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Sonderzahlung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Spende")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Spende")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Spielbank")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Spielbank")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Straf")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Straf")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Subvention")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Subvention")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Test")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Test")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Untersuchung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Untersuchung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vergütung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vergütung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vorstand")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vorstand")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vorteil")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vorteil")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Wirecard")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Wirecard")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("za pobedu")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("za pobedu")) + " ")
+01/29/2024 14:44:31 Information         ***equations for New Field ID_Fieldname_CriticalText/CriticalHead, eqn1: @if(@isini("Abfindung"; VERWENDUNGSZWECK) .OR. @isini("Absetzung";VERWENDUNGSZWECK) .OR. @isini("Anweisung";VERWENDUNGSZWECK) .OR. @isini("Aufsichtsrat";VERWENDUNGSZWECK) .OR. @isini("bekannt";VERWENDUNGSZWECK) .OR. @isini("Bestechung";VERWENDUNGSZWECK) .OR. @isini("Bonifikation";VERWENDUNGSZWECK) .OR. @isini("Bonuszahlung";VERWENDUNGSZWECK) .OR. @isini("Bußgeld";VERWENDUNGSZWECK) .OR. @isini("Bussgeld";VERWENDUNGSZWECK) .OR. @isini("cum-cum";VERWENDUNGSZWECK) .OR. @isini("cumcum";VERWENDUNGSZWECK) .OR. @isini("cum cum";VERWENDUNGSZWECK) .OR. @isini("cum-ex";VERWENDUNGSZWECK) .OR. @isini("cumex";VERWENDUNGSZWECK) .OR. @isini("cum ex";VERWENDUNGSZWECK) .OR. @isini("Casino";VERWENDUNGSZWECK) .OR. @isini("Corona";VERWENDUNGSZWECK) .OR. @isini("Covid";VERWENDUNGSZWECK) .OR. @isini("Dauerkarte";VERWENDUNGSZWECK) .OR. @isini("Entschädigung";VERWENDUNGSZWECK) .OR. @isini("Fake";VERWENDUNGSZWECK) .OR. @isini("Fehler";VERWENDUNGSZWECK) .OR. @isini("Gefälligkeit";VERWENDUNGSZWECK) .OR. @isini("geheim";VERWENDUNGSZWECK) .OR. @isini("Geldwäsche";VERWENDUNGSZWECK) .OR. @isini("Gemälde";VERWENDUNGSZWECK) .OR. @isini("Gratifikation";VERWENDUNGSZWECK) .OR. @isini("Handgeld";VERWENDUNGSZWECK) .OR. @isini("Handreichung";VERWENDUNGSZWECK) .OR. @isini("Klage";VERWENDUNGSZWECK) .OR. @isini("korrupt";VERWENDUNGSZWECK) .OR. @isini("ohne Beleg";VERWENDUNGSZWECK) .OR. @isini("ohne Nachweis";VERWENDUNGSZWECK) .OR. @isini("Oldtimer";VERWENDUNGSZWECK) .OR. @isini("Omikron";VERWENDUNGSZWECK) .OR. @isini("Putin";VERWENDUNGSZWECK) .OR. @isini("privat";VERWENDUNGSZWECK) .OR. @isini("russ";VERWENDUNGSZWECK) .OR. @isini("Sanktion";VERWENDUNGSZWECK) .OR. @isini("Schmiergeld";VERWENDUNGSZWECK) .OR. @isini("Schmuck";VERWENDUNGSZWECK) .OR. @isini("Schwarzgeld";VERWENDUNGSZWECK) .OR. @isini("sila v pravde";VERWENDUNGSZWECK) .OR. @isini("Skandal";VERWENDUNGSZWECK) .OR. @isini("Sonderzahlung";VERWENDUNGSZWECK) .OR. @isini("Spende";VERWENDUNGSZWECK) .OR. @isini("Spielbank";VERWENDUNGSZWECK) .OR. @isini("Straf";VERWENDUNGSZWECK) .OR. @isini("Subvention";VERWENDUNGSZWECK) .OR. @isini("Test";VERWENDUNGSZWECK) .OR. @isini("Untersuchung";VERWENDUNGSZWECK) .OR. @isini("Vergütung";VERWENDUNGSZWECK) .OR. @isini("Vorstand";VERWENDUNGSZWECK) .OR. @isini("Vorteil";VERWENDUNGSZWECK) .OR. @isini("Wirecard";VERWENDUNGSZWECK) .OR. @isini("za pobedu";VERWENDUNGSZWECK);"X";"")
+01/29/2024 14:44:31 Information         ***equations for New Field ID_Fieldname_CriticalText/CriticalHead, eqn3: @AllTrim(@if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Abfindung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Abfindung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Absetzung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Absetzung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Anweisung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Anweisung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Aufsichtsrat")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Aufsichtsrat")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("bekannt")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("bekannt")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bestechung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bestechung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bonifikation")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bonifikation")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bonuszahlung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bonuszahlung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bußgeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bußgeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bussgeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Bussgeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum-cum")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum-cum")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cumcum")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cumcum")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum cum")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum cum")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum-ex")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum-ex")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cumex")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cumex")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum ex")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("cum ex")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Casino")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Casino")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Corona")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Corona")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Covid")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Covid")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Dauerkarte")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Dauerkarte")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Entschädigung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Entschädigung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Fake")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Fake")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Fehler")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Fehler")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gefälligkeit")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gefälligkeit")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("geheim")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("geheim")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Geldwäsche")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Geldwäsche")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gemälde")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gemälde")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gratifikation")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Gratifikation")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Handgeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Handgeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Handreichung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Handreichung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Klage")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Klage")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("korrupt")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("korrupt")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("ohne Beleg")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("ohne Beleg")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("ohne Nachweis")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("ohne Nachweis")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Oldtimer")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Oldtimer")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Omikron")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Omikron")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Putin")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Putin")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("privat")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("privat")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("russ")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("russ")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Sanktion")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Sanktion")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schmiergeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schmiergeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schmuck")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schmuck")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schwarzgeld")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Schwarzgeld")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("sila v pravde")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("sila v pravde")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Skandal")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Skandal")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Sonderzahlung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Sonderzahlung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Spende")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Spende")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Spielbank")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Spielbank")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Straf")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Straf")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Subvention")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Subvention")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Test")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Test")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Untersuchung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Untersuchung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vergütung")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vergütung")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vorstand")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vorstand")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vorteil")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Vorteil")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("Wirecard")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("Wirecard")) + " ") + @if(@RegExpr(@lower(VERWENDUNGSZWECK);@lower("za pobedu")) == ""; ""; @RegExpr(@lower(VERWENDUNGSZWECK);@lower("za pobedu")) + " "))
+01/29/2024 14:44:31 Information         ***Enthält ein X, wenn ein kritischer Verwendungszweck im Sinne der Filterdefinition im Feld VERWENDUNGSZWECK vorliegt.
+01/29/2024 14:44:31 Information         ***Enthält kritische Verwendungszweck, wenn sie im Sinne der Filterdefinition im Feld VERWENDUNGSZWECK vorhanden sind.
+01/29/2024 14:44:31 Information         ***New Field ID_Fieldname_CriticalText
+01/29/2024 14:44:32 Information         ***11.4.5 Extraction ID_Result_1
+01/29/2024 14:47:52 Information         ******11.4.5 Extraction ID_Result_1, eqn7: KRITISCHER_BUCHUNGSTEXT == "X"
+01/29/2024 14:47:54 Information         ******11.4.5 Extraction ID_Result_1, Created: C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033-Umsätze mit kritischen Verwendungszwecken.IMD
+01/29/2024 14:47:54 Information         ***Preparation; CloseDB for sdbname: {Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD
+01/29/2024 14:47:54 Information         ***aFiles(2): C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033-Umsätze mit kritischen Verwendungszwecken.IMD
+01/29/2024 14:47:55 Information         ***11.5 Checking If ID_Result_1 is valid, FileIsValid: C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033-Umsätze mit kritischen Verwendungszwecken.IMD
+01/29/2024 14:47:55 Information         ***result(sSourceName): id={4EADD474-8F71-4C8D-BF5A-D3595C8A727E}; parentid={BC6368AB-CE59-4B2C-A636-1AC25925A577}Result Name: {Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD; Number Of Records: 2146892
+01/29/2024 14:47:55 Information         ***result: id={299BBA8B-A161-47DF-B6B1-D72165B86AAE}; parentid={914431A9-F63F-4F2E-97F1-9EB044FADA52}; Result Name: SK-FuR-0033-Umsätze mit kritischen Verwendungszwecken.IMD
+01/29/2024 14:47:55 Information         Ergebnisname: SK-FuR-0033-Umsätze mit kritischen Verwendungszwecken.IMD; Anzahl der Datensätze: 5
+01/29/2024 14:47:55 Information         Kurzname des Ergebnisses: Analyse des Verwendungszwecks
+01/29/2024 14:47:55 Information         ***added sResult_1
+01/29/2024 14:47:55 Information         ***Indices to be deleted on sSourceName({Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD) : BUCHUNGSDATUM,A,KONTO_NR,A
+01/29/2024 14:47:55 Information         ***NI_1; FileName: C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\{Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD
+01/29/2024 14:47:55 Information         ***NumberOfIndices: 3
+01/29/2024 14:47:55 Information         ***Number of indices on table: C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\{Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD; NumberOfIndeces: 3
+01/29/2024 14:47:55 Information         ***MacroDeleteIndexes; MDI_1; iNrOfIndeces: 3; iCrtNrOfIndeces: 3
+01/29/2024 14:47:55 Information         ***Indices deleted!
+01/29/2024 14:47:55 Information         ***MacroDeleteHistory; history deleted(1): C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033~Temp0.IMD
+01/29/2024 14:47:55 Information         ***MacroDeleteHistory; history deleted(2): C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033-Umsätze mit kritischen Verwendungszwecken.IMD
+01/29/2024 14:47:56 Information         ***MacroDeleteHistory; base Tables history deleted: {Umsätze_zu_OBR_Gesamt_mit_Buchungskennzeichen}.IMD
+01/29/2024 14:47:56 Information         ***Number Of Temp Files: 1
+01/29/2024 14:47:56 Information         ***DeleteTempFiles; temp file deleted(0): C:\Users\sina.lotfi\Documents\Meine IDEA Dokumente\IDEA Projekte\FuR-Test\SK-FuR-0033~Temp0.IMD
+01/29/2024 14:47:56 Information         ***Execution status: 1(SUCCESS)
+01/29/2024 14:47:56 Information         ***SK-FuR-0033 UmsÃ¤tze mit kritischen Verwendungszwecken; END Date And Time: 29.01.2024 15:47:56
+01/29/2024 14:47:56 Information         Prüfungsschritt: SK-FuR-0033 Umsätze mit kritischen Verwendungszwecken; Status:ERFOLGREICH
+01/29/2024 14:47:56 Information         Enddatum und -zeit: 29.01.2024 15:47:56; Auf Desktop ausführen
+01/29/2024 14:47:56 Information         
+-------------------- Free Disk Space after Script Execution --------------------
+Project Folder:   250,264 GB
+IDEA Temp:   250,264 GB
+System Temp:   250,264 GB
+----------------------------------------
+
